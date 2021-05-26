@@ -1,0 +1,54 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	<title>jQuery Calculation Plug-in</title>
+
+	<!---// load jQuery v1.3.1 from the GoogleAPIs CDN //--->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+
+	<!--// load jQuery Plug-ins //-->
+	<script type="text/javascript" src="../field/jquery.field.js"></script>
+	<script type="text/javascript" src="./jquery.calculation.js"></script>
+
+	<script type="text/javascript">
+	$(document).ready(
+		function (){
+			
+
+			// automatically update the "#totalSum" field every time
+			// the values are changes via the keyup event
+			$("input[name^=sum]").sum("keyup", "#totalSum");
+			
+			
+		}
+	);
+	
+	</script>
+
+</head>
+<body>
+
+<form action="" method="post" id="frmCreateCheckboxRange" onsubmit="return false;">
+	
+		<legend>Calculation Examples</legend>
+		
+
+			<p>
+				Numbers:
+				<input type="text" name="sum" value="" size="2" />
+				<input type="text" name="sum" value="" size="2" />
+				<input type="text" name="sum" value="" size="2" />
+				<input type="text" name="sum_alt" value="" size="2" />
+				&nbsp;&nbsp;
+				Sum:
+				<input type="text" name="totalSum" id="totalSum" value="" size="2" readonly="readonly" />
+				(Change the values for dynamic calculations.)
+			</p>
+
+			
+</form>
+
+
+</body>
+</html>

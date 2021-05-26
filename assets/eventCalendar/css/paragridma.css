@@ -1,0 +1,37 @@
+/*= Grid */
+
+
+	
+	.g1, .g2, .g3, .g4, .g5, .g6, .g7, .g8, .g9, .g10, .g11, .g12  { margin-left: 4.4%; float: left; min-height: 1px; position: relative; }
+	
+	.g1:first-child, .g2:first-child, .g3:first-child, 
+		.g4:first-child, .g5:first-child, .g6:first-child, 
+		.g7:first-child, .g8:first-child, .g9:first-child, 
+		.g10:first-child, .g11:first-child, .g12:first-child
+			
+	
+	.row .g1 { width: 4.3%; }
+	.row .g2 { width: 13%; }
+	.row .g3 { width: 21.68%; }
+	.row .g4 { width: 30.4%; }
+	.row .g5 { width: 39.1%; }
+	.row .g6 { width: 47.8%; }
+	.row .g7 { width: 56.5%; }
+	.row .g8 { width: 65.2%; }
+	.row .g9 { width: 73.9%; }
+	.row .g10 { width: 82.6%; }
+	.row .g11 { width: 91.3%; }
+	.row .g12 { width: 100%; }
+	
+	.row .g1.centered { margin-left: 47.9%; }
+	.row .g2.centered { margin-left: 43.5%; }
+	.row .g3.centered { margin-left: 39.2%; }
+	.row .g4.centered { margin-left: 34.8%; }
+	.row .g5.centered { margin-left: 30.5%; }
+	.row .g6.centered { margin-left: 26.1%; }
+	.row .g7.centered { margin-left: 21.8%; }
+	.row .g8.centered { margin-left: 17.4%; }
+	.row .g9.centered { margin-left: 13.1%; }
+	.row .g10.centered { margin-left: 8.7%; }
+	.row .g11.centered { margin-left: 4.3%; }
+

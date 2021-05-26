@@ -1,0 +1,172 @@
+/*
+    Document   : style
+    Created on : 09 Mei 12, 7:00:34
+    Author     : Administrator
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root {
+    display: block;
+}
+
+body {
+        background-color: #fff;
+        margin: 10px;
+        font: 13px/20px normal Helvetica, Arial, sans-serif;
+        color: #4F5155;
+}
+
+a {
+        color: #003399;
+        background-color: transparent;
+        font-weight: normal;
+}
+
+.logo h1 {
+        color: #444;
+        font-size: 19px;
+        font-weight: normal;
+        background-color: transparent;
+}
+
+code {
+        font-family: Consolas, Monaco, Courier New, Courier, monospace;
+        font-size: 12px;
+        background-color: #f9f9f9;
+        border: 1px solid #D0D0D0;
+        color: #002166;
+        display: block;
+        margin: 14px 0 14px 0;
+        padding: 12px 10px 12px 10px;
+}
+
+#body{
+        margin: 0 15px 0 15px;
+}
+
+p.footer{
+        text-align: right;
+        font-size: 11px;
+
+        line-height: 32px;
+        padding: 0 10px 0 10px;
+        margin: 20px 0 0 0;
+}
+
+#container{
+     
+        padding: 10px;
+        -webkit-box-shadow: 0 0 8px #D0D0D0;
+}
+
+#header {
+        margin: 0 0 5px 0;
+        padding: 14px 5px 5px 5px;
+}
+
+.menu-top {
+    margin-bottom: 10px;
+}
+
+div.title{
+    font-family: 'Century Gothic',futura,'URW Gothic L',Verdana,sans-serif;
+    font-weight: normal!important;
+    font-size: 26px;
+    line-height: 50px;
+    border-bottom: 1px solid #DDD;
+}
+div.ptmn-line {
+    clear: both;
+    margin: 10px 5px 0;
+}
+.wrap-cols {
+    clear: both;
+    margin: 20px 5px 10px;
+}
+.col-left {
+    float: left;
+    margin-left: 0;
+    width: 33%;
+}
+.col-middle {
+    float: left;
+    margin-left: 0;
+    width: 34%;
+}
+.col-right {
+    float: left;
+    margin-left: 0;
+    width: 33%;
+}
+.ptmn-red {
+    background: none repeat scroll 0 0 #FB000C;
+    border-bottom: 1px solid #000000;
+    border-left: 1px solid #000000;
+    border-top: 1px solid #000000;
+    margin-bottom: 10px;
+    padding: 4px 4px 4px 8px;
+}
+.ptmn-green {
+    background: none repeat scroll 0 0 #9EC30F;
+    border-bottom: 1px solid #000000;
+    border-top: 1px solid #000000;
+    margin-bottom: 10px;
+    padding: 4px 4px 4px 8px;
+}
+.ptmn-blue {
+    background: none repeat scroll 0 0 #0E4B9D;
+    border-bottom: 1px solid #000000;
+    border-right: 1px solid #000000;
+    border-top: 1px solid #000000;
+    margin-bottom: 10px;
+    padding: 4px 4px 4px 8px;
+}
+.ptmn-red span, .ptmn-green span, .ptmn-blue span, .ptmn_red span, .ptmn_green span, .ptmn_blue span {
+    color: #FFFFFF;
+    font-size: 14px;
+    font-style: italic;
+}
+.blockquote-ptmn {
+    margin: 0 10px 10px;
+}
+.wrap-ptmn {
+    clear: both;
+    margin: 10px;
+}
+.ptmn_red {
+    background: none repeat scroll 0 0 #FB000C;
+    border: 1px solid #000000;
+    margin-bottom: 10px;
+    padding: 4px 4px 4px 8px;
+}
+.ptmn_green {
+    background: none repeat scroll 0 0 #9EC30F;
+    border: 1px solid #000000;
+    margin-bottom: 10px;
+    padding: 4px 4px 4px 8px;
+}
+.ptmn_blue {
+    background: none repeat scroll 0 0 #0E4B9D;
+    border: 1px solid #000000;
+    margin-bottom: 10px;
+    padding: 4px 4px 4px 8px;
+}
+.ptmn-red-hr {
+    background: none repeat scroll 0 0 #FB000C;
+    margin-bottom: 2px;
+    padding: 1px;
+}
+.ptmn-green-hr {
+    background: none repeat scroll 0 0 #9EC30F;
+    margin-bottom: 2px;
+    padding: 1px;
+}
+.ptmn-blue-hr {
+    background: none repeat scroll 0 0 #0E4B9D;
+    margin-bottom: 2px;
+    padding: 1px;
+}
+  #peta_marker {
+  width: 50%;
+  height: 400px;}
