@@ -7,16 +7,16 @@
 <p>
 
     <?php if ($jumlahfeedback <= 0) {
-  ?>
+    ?>
     <a href="#fbpeserta" data-toggle="modal"> <button class="btn btn-primary" type="submit">Input Feedback</button></a>
     <?php
-  } else {
-  ?>
+    } else {
+    ?>
     <a href="feedback/detail/<?php echo $course_id; ?>"> <button class="btn btn-primary" type="submit">Lihat
             Feedback</button></a>
     <?php
-  }
-  ?>
+    }
+    ?>
 <form method="POST">
     <?php echo $content; ?>
 </form>
