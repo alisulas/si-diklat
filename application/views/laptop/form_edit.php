@@ -9,8 +9,8 @@
         <td>No Seri</td>
         <td><input type="text" name="no_seri" value="<?php echo $laptop['no_seri']; ?>"></td>
     </tr>
-        <tr>
-            <td>Merk</td>
+    <tr>
+        <td>Merk</td>
         <td><input type="text" name="merk" value="<?php echo $laptop['merk']; ?>"></td>
     </tr>
     <tr>
@@ -20,16 +20,16 @@
     <tr>
         <td>Kelengkapan</td>
         <td>
-            <?php echo $this->editor->textarea("kelengkapan",$laptop['kelengkapan']);?>
-	    <?php echo form_error('kelengkapan');?>
+            <?php echo $this->editor->textarea("kelengkapan", $laptop['kelengkapan']); ?>
+            <?php echo form_error('kelengkapan'); ?>
         </td>
     </tr>
     <tr>
-    <td>Catatan</td>
-    <td>
-        <?php echo $this->editor->textarea("catatan",$laptop['catatan']);?>
-	<?php echo form_error('catatan');?>
-    </td>
+        <td>Catatan</td>
+        <td>
+            <?php echo $this->editor->textarea("catatan", $laptop['catatan']); ?>
+            <?php echo form_error('catatan'); ?>
+        </td>
     </tr>
     <tr>
         <td>Status</td>

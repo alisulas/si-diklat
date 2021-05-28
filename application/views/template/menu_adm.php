@@ -66,46 +66,49 @@
                         <b class="caret"></b>
                     </a>
                     <ul class="dropdown-menu">
-                        <li><a href="fgt_pelatihan"><i class="icon-list-alt"></i>Public/Inhouse<i class="icon-chevron-right" style="float: right"></i></a>
-                        <ul class="dropdown-menu sub-menu">
-                        <li><a href="fgt_pelatihan"><i class="icon-list-alt"></i> View</a></li>
-                        <li class="divider"></li>
-                        <li><a href="fgt_pelatihan/plan"><i class="icon-list-alt"></i> Plan</a></li>
-                        <li class="divider"></li>
-                        <li><a href="fgt_pelatihan/list_do"><i class="icon-list-alt"></i> Do</a></li>
-                        <li class="divider"></li>
-                        <li><a href="fgt_pelatihan/list_check"><i class="icon-list-alt"></i> Check</a></li>
-                        <li class="divider"></li>
-                        <li><a href="fgt_pelatihan/list_action"><i class="icon-list-alt"></i> Action</a></li>
-                        <li class="divider"></li>
-                        <li><a href="fgt_pelatihan/list_support"><i class="icon-list-alt"></i>Support</a>
+                        <li><a href="fgt_pelatihan"><i class="icon-list-alt"></i>Public/Inhouse<i
+                                    class="icon-chevron-right" style="float: right"></i></a>
+                            <ul class="dropdown-menu sub-menu">
+                                <li><a href="fgt_pelatihan"><i class="icon-list-alt"></i> View</a></li>
+                                <li class="divider"></li>
+                                <li><a href="fgt_pelatihan/plan"><i class="icon-list-alt"></i> Plan</a></li>
+                                <li class="divider"></li>
+                                <li><a href="fgt_pelatihan/list_do"><i class="icon-list-alt"></i> Do</a></li>
+                                <li class="divider"></li>
+                                <li><a href="fgt_pelatihan/list_check"><i class="icon-list-alt"></i> Check</a></li>
+                                <li class="divider"></li>
+                                <li><a href="fgt_pelatihan/list_action"><i class="icon-list-alt"></i> Action</a></li>
+                                <li class="divider"></li>
+                                <li><a href="fgt_pelatihan/list_support"><i class="icon-list-alt"></i>Support</a>
+                                </li>
+                                <li class="divider"></li>
+                                <li><a href="fgt_pelatihan/list_report"><i class="icon-list-alt"></i> Report</a></li>
+                                <li class="divider"></li>
+                                <li><a href="fgt_pelatihan/list_canceled"><i class="icon-list-alt"></i> Canceled</a>
+                                </li>
+                            </ul>
                         </li>
                         <li class="divider"></li>
-                        <li><a href="fgt_pelatihan/list_report"><i class="icon-list-alt"></i> Report</a></li>
-                        <li class="divider"></li>
-                        <li><a href="fgt_pelatihan/list_canceled"><i class="icon-list-alt"></i> Canceled</a></li>
-                        </ul>
-                        </li>
-                        <li class="divider"></li>
-                        <li><a href="fgt_induction"><i class="icon-list-alt"></i>Graduate Program<i class="icon-chevron-right"></i></a>
-                        <ul class="dropdown-menu sub-menu">
-                        <li><a href="fgt_induction"><i class="icon-list-alt"></i> View</a></li>
-                        <li class="divider"></li>
-                        <li><a href="fgt_induction/plan"><i class="icon-list-alt"></i> Plan</a></li>
-                        <li class="divider"></li>
-                        <li><a href="fgt_induction/list_do"><i class="icon-list-alt"></i> Do</a></li>
-                        <li class="divider"></li>
-                        <li><a href="fgt_induction/list_check"><i class="icon-list-alt"></i> Check</a></li>
-                        <li class="divider"></li>
-                        <li><a href="fgt_induction/list_action"><i class="icon-list-alt"></i> Action</a></li>
-                        <li class="divider"></li>
-                        <li><a href="fgt_induction/list_support"><i class="icon-list-alt"></i>Support</a>
-                        </li>
-                        <li class="divider"></li>
-                        <li><a href="fgt_induction/list_result"><i class="icon-list-alt"></i> Result</a></li>
-                        <li class="divider"></li>
-                        <li><a href="fgt_induction/list_report"><i class="icon-list-alt"></i> Report</a></li>
-                        </ul>
+                        <li><a href="fgt_induction"><i class="icon-list-alt"></i>Graduate Program<i
+                                    class="icon-chevron-right"></i></a>
+                            <ul class="dropdown-menu sub-menu">
+                                <li><a href="fgt_induction"><i class="icon-list-alt"></i> View</a></li>
+                                <li class="divider"></li>
+                                <li><a href="fgt_induction/plan"><i class="icon-list-alt"></i> Plan</a></li>
+                                <li class="divider"></li>
+                                <li><a href="fgt_induction/list_do"><i class="icon-list-alt"></i> Do</a></li>
+                                <li class="divider"></li>
+                                <li><a href="fgt_induction/list_check"><i class="icon-list-alt"></i> Check</a></li>
+                                <li class="divider"></li>
+                                <li><a href="fgt_induction/list_action"><i class="icon-list-alt"></i> Action</a></li>
+                                <li class="divider"></li>
+                                <li><a href="fgt_induction/list_support"><i class="icon-list-alt"></i>Support</a>
+                                </li>
+                                <li class="divider"></li>
+                                <li><a href="fgt_induction/list_result"><i class="icon-list-alt"></i> Result</a></li>
+                                <li class="divider"></li>
+                                <li><a href="fgt_induction/list_report"><i class="icon-list-alt"></i> Report</a></li>
+                            </ul>
                         </li>
 
                     </ul>
@@ -122,7 +125,8 @@
                         <li class="divider"></li>
                         <li><a href="pkl/list_pkl"><i class="icon-list-alt"></i> Data PKL</a></li>
                         <li class="divider"></li>
-                        <li><a href="sarfas/list_peminjaman_laptop"><i class="icon-list-alt"></i> Peminjaman Laptop</a></li>
+                        <li><a href="sarfas/list_peminjaman_laptop"><i class="icon-list-alt"></i> Peminjaman Laptop</a>
+                        </li>
                         <li class="divider"></li>
                         <li><a href="carpar/index_user"><i class="icon-list-alt"></i> CAR / PAR LS</a></li>
                     </ul>
@@ -136,7 +140,8 @@
                     </a>
                     <ul class="dropdown-menu">
                         <li class="divider"></li>
-                        <li><a href="user/profile/<?php echo $this->session->userdata('user_id'); ?>" class="active">Profile</a></li>
+                        <li><a href="user/profile/<?php echo $this->session->userdata('user_id'); ?>"
+                                class="active">Profile</a></li>
                         <li class="divider"></li>
                         <li><a href="login/logout" class="active">Logout</a></li>
                     </ul>

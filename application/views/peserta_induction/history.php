@@ -6,36 +6,54 @@
 
 <table>
     <tr>
-        <td>Nopek</td><td>:</td><td><?php echo $peserta['nopek']; ?></td>
+        <td>Nopek</td>
+        <td>:</td>
+        <td><?php echo $peserta['nopek']; ?></td>
     </tr>
     <tr>
-        <td>Nama</td><td>:</td><td><?php echo $peserta['nama_pekerja']; ?></td>
+        <td>Nama</td>
+        <td>:</td>
+        <td><?php echo $peserta['nama_pekerja']; ?></td>
     </tr>
     <tr>
-        <td>Jabatan</td><td>:</td><td><?php echo $peserta['position']; ?></td>
+        <td>Jabatan</td>
+        <td>:</td>
+        <td><?php echo $peserta['position']; ?></td>
     </tr>
     <tr>
-        <td>Cost Center</td><td>:</td><td><?php echo $peserta['cost_center_code']; ?></td>
-    </tr>  
-    <tr>
-        <td>Perusahaan</td><td>:</td><td><?php echo $peserta['company_code']; ?></td>
+        <td>Cost Center</td>
+        <td>:</td>
+        <td><?php echo $peserta['cost_center_code']; ?></td>
     </tr>
     <tr>
-        <td>Direktorat</td><td>:</td><td><?php echo $peserta['direktorat']; ?></td>
+        <td>Perusahaan</td>
+        <td>:</td>
+        <td><?php echo $peserta['company_code']; ?></td>
     </tr>
     <tr>
-        <td>Fungsi</td><td>:</td><td><?php echo $peserta['fungsi']; ?></td>
+        <td>Direktorat</td>
+        <td>:</td>
+        <td><?php echo $peserta['direktorat']; ?></td>
     </tr>
     <tr>
-        <td>Divisi</td><td>:</td><td><?php echo $peserta['divisi']; ?></td>
+        <td>Fungsi</td>
+        <td>:</td>
+        <td><?php echo $peserta['fungsi']; ?></td>
     </tr>
     <tr>
-        <td>Departemen</td><td>:</td><td><?php echo $peserta['departemen']; ?></td>
+        <td>Divisi</td>
+        <td>:</td>
+        <td><?php echo $peserta['divisi']; ?></td>
+    </tr>
+    <tr>
+        <td>Departemen</td>
+        <td>:</td>
+        <td><?php echo $peserta['departemen']; ?></td>
     </tr>
 </table>
 <br>
 <span class="label label-info" style="float: right">Jumlah Pelatihan : <?php echo $jml_pelatihan; ?></span>
-<?php echo $content;?> 
+<?php echo $content; ?>
 <button onclick="goBack()" class="btn"><i class="icon-hand-left"></i>Kembali</button>
 
 <script>
@@ -48,12 +66,11 @@ function goBack() {
 <script type="text/javascript">
 $(document).ready(function() {
     $('#data_table').dataTable({
-    	"lengthChange": false,
-    	"oLanguage": {
-		   "sSearch": "Pencarian :",
-		   "sZeroRecords": "Data tidak ada."
-		}        
-	});
-} );
-
+        "lengthChange": false,
+        "oLanguage": {
+            "sSearch": "Pencarian :",
+            "sZeroRecords": "Data tidak ada."
+        }
+    });
+});
 </script>

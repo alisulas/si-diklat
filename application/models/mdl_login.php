@@ -1,11 +1,13 @@
 <?php
+
 /**
  * Description of mdl_login
  *
  * @author Administrator
  */
-class Mdl_login extends CI_Model{
-    private $table_function='function';
+class Mdl_login extends CI_Model
+{
+    private $table_function = 'function';
 
     /**
      * CRUD login

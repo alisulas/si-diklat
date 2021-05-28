@@ -1,173 +1,174 @@
 <!-- Add jQuery library -->
-	
 
-	<!-- Add mousewheel plugin (this is optional) -->
-	<script type="text/javascript" src="assets/fancybox/lib/jquery.mousewheel-3.0.6.pack.js"></script>
 
-	<!-- Add fancyBox main JS and CSS files -->
-	<script type="text/javascript" src="assets/fancybox/source/jquery.fancybox.js?v=2.0.6"></script>
-	<link rel="stylesheet" type="text/css" href="assets/fancybox/source/jquery.fancybox.css?v=2.0.6" media="screen" />
+<!-- Add mousewheel plugin (this is optional) -->
+<script type="text/javascript" src="assets/fancybox/lib/jquery.mousewheel-3.0.6.pack.js"></script>
 
-	<!-- Add Button helper (this is optional) -->
-	<link rel="stylesheet" type="text/css" href="assets/fancybox/source/helpers/jquery.fancybox-buttons.css?v=1.0.2" />
-	<script type="text/javascript" src="assets/fancybox/source/helpers/jquery.fancybox-buttons.js?v=1.0.2"></script>
+<!-- Add fancyBox main JS and CSS files -->
+<script type="text/javascript" src="assets/fancybox/source/jquery.fancybox.js?v=2.0.6"></script>
+<link rel="stylesheet" type="text/css" href="assets/fancybox/source/jquery.fancybox.css?v=2.0.6" media="screen" />
+
+<!-- Add Button helper (this is optional) -->
+<link rel="stylesheet" type="text/css" href="assets/fancybox/source/helpers/jquery.fancybox-buttons.css?v=1.0.2" />
+<script type="text/javascript" src="assets/fancybox/source/helpers/jquery.fancybox-buttons.js?v=1.0.2"></script>
 <script type="text/javascript">
-		$(document).ready(function() {
-			/*
-			 *  Simple image gallery. Uses default settings
-			 */
+$(document).ready(function() {
+    /*
+     *  Simple image gallery. Uses default settings
+     */
 
-			$('.fancybox').fancybox();
+    $('.fancybox').fancybox();
 
-			/*
-			 *  Different effects
-			 */
+    /*
+     *  Different effects
+     */
 
-			// Change title type, overlay opening speed and opacity
-			$(".fancybox-effects-a").fancybox({
-				helpers: {
-					title : {
-						type : 'outside'
-					},
-					overlay : {
-						speedIn : 500,
-						opacity : 0.95
-					}
-				}
-			});
+    // Change title type, overlay opening speed and opacity
+    $(".fancybox-effects-a").fancybox({
+        helpers: {
+            title: {
+                type: 'outside'
+            },
+            overlay: {
+                speedIn: 500,
+                opacity: 0.95
+            }
+        }
+    });
 
-			// Disable opening and closing animations, change title type
-			$(".fancybox-effects-b").fancybox({
-				openEffect  : 'none',
-				closeEffect	: 'none',
+    // Disable opening and closing animations, change title type
+    $(".fancybox-effects-b").fancybox({
+        openEffect: 'none',
+        closeEffect: 'none',
 
-				helpers : {
-					title : {
-						type : 'over'
-					}
-				}
-			});
+        helpers: {
+            title: {
+                type: 'over'
+            }
+        }
+    });
 
-			// Set custom style, close if clicked, change title type and overlay color
-			$(".fancybox-effects-c").fancybox({
-				wrapCSS    : 'fancybox-custom',
-				closeClick : true,
+    // Set custom style, close if clicked, change title type and overlay color
+    $(".fancybox-effects-c").fancybox({
+        wrapCSS: 'fancybox-custom',
+        closeClick: true,
 
-				helpers : {
-					title : {
-						type : 'inside'
-					},
-					overlay : {
-						css : {
-							'background-color' : '#eee'
-						}
-					}
-				}
-			});
+        helpers: {
+            title: {
+                type: 'inside'
+            },
+            overlay: {
+                css: {
+                    'background-color': '#eee'
+                }
+            }
+        }
+    });
 
-			// Remove padding, set opening and closing animations, close if clicked and disable overlay
-			$(".fancybox-effects-d").fancybox({
-				padding: 0,
+    // Remove padding, set opening and closing animations, close if clicked and disable overlay
+    $(".fancybox-effects-d").fancybox({
+        padding: 0,
 
-				openEffect : 'elastic',
-				openSpeed  : 150,
+        openEffect: 'elastic',
+        openSpeed: 150,
 
-				closeEffect : 'elastic',
-				closeSpeed  : 150,
+        closeEffect: 'elastic',
+        closeSpeed: 150,
 
-				closeClick : true,
+        closeClick: true,
 
-				helpers : {
-					overlay : null
-				}
-			});
+        helpers: {
+            overlay: null
+        }
+    });
 
-			/*
-			 *  Button helper. Disable animations, hide close button, change title type and content
-			 */
+    /*
+     *  Button helper. Disable animations, hide close button, change title type and content
+     */
 
-			$('.fancybox-buttons').fancybox({
-				openEffect  : 'none',
-				closeEffect : 'none',
+    $('.fancybox-buttons').fancybox({
+        openEffect: 'none',
+        closeEffect: 'none',
 
-				prevEffect : 'none',
-				nextEffect : 'none',
+        prevEffect: 'none',
+        nextEffect: 'none',
 
-				closeBtn  : false,
+        closeBtn: false,
 
-				helpers : {
-					title : {
-						type : 'inside'
-					},
-					buttons	: {}
-				},
+        helpers: {
+            title: {
+                type: 'inside'
+            },
+            buttons: {}
+        },
 
-				afterLoad : function() {
-					this.title = 'Image ' + (this.index + 1) + ' of ' + this.group.length + (this.title ? ' - ' + this.title : '');
-				}
-			});
+        afterLoad: function() {
+            this.title = 'Image ' + (this.index + 1) + ' of ' + this.group.length + (this.title ?
+                ' - ' + this.title : '');
+        }
+    });
 
 
-			/*
-			 *  Thumbnail helper. Disable animations, hide close button, arrows and slide to next gallery item if clicked
-			 */
+    /*
+     *  Thumbnail helper. Disable animations, hide close button, arrows and slide to next gallery item if clicked
+     */
 
-			$('.fancybox-thumbs').fancybox({
-				prevEffect : 'none',
-				nextEffect : 'none',
+    $('.fancybox-thumbs').fancybox({
+        prevEffect: 'none',
+        nextEffect: 'none',
 
-				closeBtn  : false,
-				arrows    : false,
-				nextClick : true,
+        closeBtn: false,
+        arrows: false,
+        nextClick: true,
 
-				helpers : {
-					thumbs : {
-						width  : 50,
-						height : 50
-					}
-				}
-			});
+        helpers: {
+            thumbs: {
+                width: 50,
+                height: 50
+            }
+        }
+    });
 
-			/*
-			 *  Media helper. Group items, disable animations, hide arrows, enable media and button helpers.
-			*/
-			$('.fancybox-media')
-				.attr('rel', 'media-gallery')
-				.fancybox({
-					openEffect : 'none',
-					closeEffect : 'none',
-					prevEffect : 'none',
-					nextEffect : 'none',
+    /*
+     *  Media helper. Group items, disable animations, hide arrows, enable media and button helpers.
+     */
+    $('.fancybox-media')
+        .attr('rel', 'media-gallery')
+        .fancybox({
+            openEffect: 'none',
+            closeEffect: 'none',
+            prevEffect: 'none',
+            nextEffect: 'none',
 
-					arrows : false,
-					helpers : {
-						media : {},
-						buttons : {}
-					}
-				});
+            arrows: false,
+            helpers: {
+                media: {},
+                buttons: {}
+            }
+        });
 
-			/*
-			 *  Open manually
-			 */
+    /*
+     *  Open manually
+     */
 
-		
-			
 
-		
 
-		});
-	</script>
-	<style type="text/css">
-		.fancybox-custom .fancybox-skin {
-			box-shadow: 0 0 50px #222;
-		}
-	</style>
-        
+
+
+
+});
+</script>
+<style type="text/css">
+.fancybox-custom .fancybox-skin {
+    box-shadow: 0 0 50px #222;
+}
+</style>
+
 <p>
-    <?php echo $this->session->flashdata('msg');?>
+    <?php echo $this->session->flashdata('msg'); ?>
 </p>
 <p>
-    <?php echo $pagination;?>
-    <?php echo $content;?>
-    <?php echo $pagination;?>
+    <?php echo $pagination; ?>
+    <?php echo $content; ?>
+    <?php echo $pagination; ?>
 </p>

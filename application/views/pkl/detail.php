@@ -1,11 +1,15 @@
 <style type="text/css">
-    .judul{
-        font-weight: bold;
-    }
+.judul {
+    font-weight: bold;
+}
 </style>
 <i style="float: right">*Last Updated by <?php echo $pkl['user']; ?></i>
 <table class="table table-condensed table-striped">
-    <tr><td colspan="2"><h1 class="label label-warning">Data Mahasiswa</h1></td></tr>
+    <tr>
+        <td colspan="2">
+            <h1 class="label label-warning">Data Mahasiswa</h1>
+        </td>
+    </tr>
     <tr>
         <td width="30%" class="judul">Nama</td>
         <td>
@@ -30,7 +34,7 @@
             <?php echo $pkl['email']; ?>
         </td>
     </tr>
-     <tr>
+    <tr>
         <td class="judul">Perguruan Tinggi</td>
         <td>
             <?php echo $pkl['perguruan_tinggi']; ?> <br>
@@ -53,8 +57,8 @@
         </td>
     </tr>
     <tr>
-    <td class="judul">Jumlah SKS</td>
-    <td><?php echo $pkl['jml_sks'] ?></td>
+        <td class="judul">Jumlah SKS</td>
+        <td><?php echo $pkl['jml_sks'] ?></td>
     </tr>
     <tr>
         <td class="judul">IPK</td>
@@ -79,8 +83,8 @@
         </td>
     </tr>
     <tr>
-    <td class="judul">Jenis</td>
-    <td><?php echo $pkl['jenis']; ?></td>
+        <td class="judul">Jenis</td>
+        <td><?php echo $pkl['jenis']; ?></td>
     </tr>
     <tr>
         <td class="judul">Form A </td>
@@ -107,7 +111,9 @@
         </td>
     </tr>
     <tr>
-        <td colspan="2"><h1 class="label label-inverse">Tindak Lanjut LS</h1></td>
+        <td colspan="2">
+            <h1 class="label label-inverse">Tindak Lanjut LS</h1>
+        </td>
     </tr>
     <tr>
         <td class="judul">Nomor identitas Memo LS</td>
@@ -143,7 +149,11 @@
         </td>
     </tr>
 
-    <tr><td colspan="2"><h1 class="label label-success">Respon Fungsi Tujuan PKL</h1></td></tr>
+    <tr>
+        <td colspan="2">
+            <h1 class="label label-success">Respon Fungsi Tujuan PKL</h1>
+        </td>
+    </tr>
     <tr>
         <td class="judul">Memo Balasan Fungsi</td>
         <td>
@@ -162,13 +172,17 @@
             <?php echo $pkl['respon_persetujuan_pkl']; ?>
         </td>
     </tr>
-       <tr>
+    <tr>
         <td class="judul">Keterangan Fungsi di Ecorr</td>
         <td>
             <?php echo $pkl['ket_fungsi_ecorr']; ?>
         </td>
     </tr>
-    <tr><td colspan="2"><h3 class="label label-warning">Respon LS Ke Mahasiswa</h3></td></tr>
+    <tr>
+        <td colspan="2">
+            <h3 class="label label-warning">Respon LS Ke Mahasiswa</h3>
+        </td>
+    </tr>
     <tr>
         <td class="judul">No Surat Gabungan (Ecorr keluar dan Masuk)</td>
         <td>
@@ -203,7 +217,9 @@
         </td>
     </tr>
     <tr>
-        <td colspan="2"><h1 class="label label-info">Respon LS ke Keuangan</h1></td>
+        <td colspan="2">
+            <h1 class="label label-info">Respon LS ke Keuangan</h1>
+        </td>
     </tr>
     <tr>
         <td class="judul">No Rekening Mahasiswa</td>
@@ -230,27 +246,27 @@
             <?php get_download($pkl['file_ktm']) ?>
         </td>
     </tr>
-<tr>
+    <tr>
         <td class="judul">SP3 ke Finance</td>
         <td>
             <?php get_download($pkl['file_sp3']) ?>
         </td>
     </tr>
-        <tr>
+    <tr>
         <td class="judul">Status</td>
         <td>
-         <?php echo $pkl['status']; ?>
-</td>
-</tr>
-<tr>
+            <?php echo $pkl['status']; ?>
+        </td>
+    </tr>
+    <tr>
         <td valign="top" class="judul">Keterangan</td>
         <td class="left">
-<?php echo $pkl['ket']; ?>
+            <?php echo $pkl['ket']; ?>
         </td>
     </tr>
 </table>
 <div class="form-actions">
-    <?php echo anchor('pkl/list_pkl', 'kembali', array('class'=>'btn')).'&nbsp'.anchor('pkl/edit_pkl/'.$pkl['id'], 'Edit', array('class'=>'btn btn-success')) ?>
+    <?php echo anchor('pkl/list_pkl', 'kembali', array('class' => 'btn')) . '&nbsp' . anchor('pkl/edit_pkl/' . $pkl['id'], 'Edit', array('class' => 'btn btn-success')) ?>
 </div>
 
 i

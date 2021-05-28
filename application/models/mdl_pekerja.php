@@ -129,5 +129,3 @@ function add_excel_pekerja($dataarray) {
     
     
 }
-
-?>

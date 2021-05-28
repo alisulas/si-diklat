@@ -114,5 +114,3 @@ class mdl_mandatory extends CI_Model{
     }
     
 }
-
-?>

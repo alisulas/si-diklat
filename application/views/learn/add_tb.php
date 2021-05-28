@@ -16,7 +16,7 @@
         <td valign="top">Jabatan <span style="color:red">*</span></td>
         <td>
             <input type="text" name="jabatan" class="text">
- 
+
         </td>
     </tr>
     <tr>
@@ -54,40 +54,40 @@
     <tr>
         <td valign="top">Universitas <span style="color:red">*</span></td>
         <td>
-            <input type="text" name="universitas" class="text" >
+            <input type="text" name="universitas" class="text">
         </td>
     </tr>
-    
+
     <tr>
         <td valign="top">Program Studi <span style="color:red">*</span></td>
         <td>
-            <input type="text" name="program_studi" class="text" >
+            <input type="text" name="program_studi" class="text">
         </td>
     </tr>
     <tr>
 
- <td>Status Keberangkatan</td>
- <td>
-     <select name="status_keberangkatan">
-         <option value="Berangkat">Berangkat</option>
-         <option value="Belum Berangkat">Belum Berangkat</option>
-     </select>
+        <td>Status Keberangkatan</td>
+        <td>
+            <select name="status_keberangkatan">
+                <option value="Berangkat">Berangkat</option>
+                <option value="Belum Berangkat">Belum Berangkat</option>
+            </select>
         </td>
     </tr>
-        <tr>
+    <tr>
         <td valign="top">Start Date <span style="color:red">*</span></td>
         <td>
             <input type="text" name="start_date" id="start_date">
-          
+
         </td>
     </tr>
-        <tr>
+    <tr>
         <td valign="top">End Date <span style="color:red">*</span></td>
         <td>
             <input type="text" name="end_date" id="end_date">
         </td>
     </tr>
-        <tr>
+    <tr>
         <td valign="top">Keterangan <span style="color:red">*</span></td>
         <td>
             <textarea name="ket" rows="4" cols="50">
@@ -101,19 +101,18 @@
     <button class="btn btn-primary" type="submit">Save changes</button>
 </div>
 <script type="text/javascript">
-$(function () {
+$(function() {
     $("#start_date").datepicker({
-            changeMonth: true,
-            changeYear: true,
-            altFormat: 'yy-mm-dd',
-            dateFormat: 'yy-mm-dd'
+        changeMonth: true,
+        changeYear: true,
+        altFormat: 'yy-mm-dd',
+        dateFormat: 'yy-mm-dd'
     });
     $("#end_date").datepicker({
-            changeMonth: true,
-            changeYear: true,
-            altFormat: 'yy-mm-dd',
-            dateFormat: 'yy-mm-dd'
+        changeMonth: true,
+        changeYear: true,
+        altFormat: 'yy-mm-dd',
+        dateFormat: 'yy-mm-dd'
     });
 });
-
 </script>

@@ -11,37 +11,42 @@
  *
  * @author adehermawan
  */
-class mdl_location extends CI_Model{
+class mdl_location extends CI_Model
+{
     //put your code here
-    private $table_location='lokasi';
-    
-    function get_city(){                        
-       return $this->db->get($this->table_location) ;
-   }
-   
-   function delete_city($id) {
-       $this->db->where('id',$id);
-       return $this->db->delete($this->table_location);
-   }
-   
-   function edit_city($id,$var) {
-        $this->db->where('id',$id);
-        return $this->db->update($this->table_location,$var);
-    }
-    
-    function count_all_location(){
-       $q=  $this->db->get($this->table_location);
-       return $q->num_rows();
-   }
-   
-      function add_city($city) {
-        $this->db->insert($this->table_location,$city);
-    }
-    
-    function get_city_by_id($id) {
-        $this->db->where('id',$id);
+    private $table_location = 'lokasi';
+
+    function get_city()
+    {
         return $this->db->get($this->table_location);
     }
-   
-   
+
+    function delete_city($id)
+    {
+        $this->db->where('id', $id);
+        return $this->db->delete($this->table_location);
+    }
+
+    function edit_city($id, $var)
+    {
+        $this->db->where('id', $id);
+        return $this->db->update($this->table_location, $var);
+    }
+
+    function count_all_location()
+    {
+        $q =  $this->db->get($this->table_location);
+        return $q->num_rows();
+    }
+
+    function add_city($city)
+    {
+        $this->db->insert($this->table_location, $city);
+    }
+
+    function get_city_by_id($id)
+    {
+        $this->db->where('id', $id);
+        return $this->db->get($this->table_location);
+    }
 }

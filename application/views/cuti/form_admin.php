@@ -5,26 +5,26 @@
 <script type="text/javascript" src="assets/bootstrap/js/bootstrap-collapse.js"></script>
 <script type="text/javascript" src="assets/bootstrap/js/bootstrap-transition.js"></script>
 <p>
-    <?php echo $this->session->flashdata('msg');?>
+    <?php echo $this->session->flashdata('msg'); ?>
 </p>
 
 <div class="panel-group" id="accordion">
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">
-        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
-          Data Pekerja
-        </a>
-      </h4>
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+                    Data Pekerja
+                </a>
+            </h4>
+        </div>
+        <div id="collapseOne" class="panel-collapse collapse">
+            <div class="panel-body">
+                <?php echo $tabel; ?>
+            </div>
+        </div>
     </div>
-    <div id="collapseOne" class="panel-collapse collapse">
-      <div class="panel-body">
-          <?php echo $tabel; ?>
-      </div>
-    </div>
-  </div>
-  </div>
-    
+</div>
+
 <?php echo form_open($action_nopek); ?>
 <input type="text" name="nopek" class="text" value="" placeholder="Masukan Nopek">
 <input type="submit" class="btn btn-primary" value="Cari">
@@ -33,10 +33,10 @@
 <br>
 
 <?php if (empty($nopek)) { ?>
- 
+
 
 <?php } else { ?>
-<?php echo form_open($action); ?> 
+<?php echo form_open($action); ?>
 <table class="table table-bordered">
     <tr>
         <td>Nopek</td>
@@ -59,7 +59,8 @@
     <tr>
         <td>Due Date Cuti</td>
         <td>
-            <input type="text" name="tgl_mulai_cuti" value="<?php echo $tgl_mulai; ?>" id="mulai"> s/d <input type="text" name="tgl_akhir_cuti" value="<?php echo $tgl_akhir; ?>" id="akhir">
+            <input type="text" name="tgl_mulai_cuti" value="<?php echo $tgl_mulai; ?>" id="mulai"> s/d <input
+                type="text" name="tgl_akhir_cuti" value="<?php echo $tgl_akhir; ?>" id="akhir">
         </td>
     </tr>
     <tr>
@@ -93,11 +94,9 @@
 
 
 <script type="text/javascript">
-   
-
-$("#target").change(function () {
+$("#target").change(function() {
     var str = "";
-    str += $("#sisa_cuti").val()-$(this).val();
+    str += $("#sisa_cuti").val() - $(this).val();
     $("#hasil_target").val(str);
 
 });
@@ -105,25 +104,24 @@ $("#target").change(function () {
 
 
 
-$(function () {
+$(function() {
     $("#mulai").datepicker({
-            changeMonth: true,
-            changeYear: true,
-            altFormat: 'yy-mm-dd',
-            dateFormat: 'yy-mm-dd'
+        changeMonth: true,
+        changeYear: true,
+        altFormat: 'yy-mm-dd',
+        dateFormat: 'yy-mm-dd'
     });
     $("#akhir").datepicker({
-            changeMonth: true,
-            changeYear: true,
-            altFormat: 'yy-mm-dd',
-            dateFormat: 'yy-mm-dd'
+        changeMonth: true,
+        changeYear: true,
+        altFormat: 'yy-mm-dd',
+        dateFormat: 'yy-mm-dd'
     });
     $("#kembali").datepicker({
-            changeMonth: true,
-            changeYear: true,
-            altFormat: 'yy-mm-dd',
-            dateFormat: 'yy-mm-dd'
+        changeMonth: true,
+        changeYear: true,
+        altFormat: 'yy-mm-dd',
+        dateFormat: 'yy-mm-dd'
     });
 });
-
 </script>

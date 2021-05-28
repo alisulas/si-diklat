@@ -222,5 +222,3 @@ $data['detail_course'].=$this->editor->detail_course($row['id'],$row['course_nam
         }
     }
 }
-
-?>

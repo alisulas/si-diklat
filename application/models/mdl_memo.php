@@ -49,4 +49,3 @@ class Mdl_memo extends CI_Model {
     }
     
 }
-?>

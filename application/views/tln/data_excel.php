@@ -1,17 +1,15 @@
-
 <?php
 
 echo anchor('welcome', 'Upload lagi');
 echo '<br>';
-if(!$error){
-    foreach($user as $row){
+if (!$error) {
+    foreach ($user as $row) {
         echo $row->nama;
         echo '<br/>';
         echo $row->alamat;
         echo '<br><br>';
     }
-}
-else{
+} else {
     echo $error;
 }
 /* 

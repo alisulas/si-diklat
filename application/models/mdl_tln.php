@@ -5,7 +5,8 @@
  *
  * @author Administrator
  */
-class Mdl_tln extends CI_Model {
+class Mdl_tln extends CI_Model
+{
 
     private $table = 'tln';
     private $table_libur = 'libur';
@@ -13,14 +14,15 @@ class Mdl_tln extends CI_Model {
     /**
      * CRUD Course
      */
-    
-    function get_index($limit = 10, $offset = 0, $month,$tahun,$nopek,$nama,$judul,$status) {
-        if (empty($month) && empty($nopek)&& empty($nama) && empty($tahun) && empty($judul)) {
+
+    function get_index($limit = 10, $offset = 0, $month, $tahun, $nopek, $nama, $judul, $status)
+    {
+        if (empty($month) && empty($nopek) && empty($nama) && empty($tahun) && empty($judul)) {
             $month = 0;
             $nopek = 0;
-            $nama=0;
+            $nama = 0;
             $judul = 0;
-            $tahun=0;
+            $tahun = 0;
         }
 
         if (!$nopek == 0) {
@@ -33,8 +35,8 @@ class Mdl_tln extends CI_Model {
         if (!$judul == 0) {
             $this->db->like('judul', $judul);
         }
-        
-          if (!$status == 0) {
+
+        if (!$status == 0) {
             $this->db->like('status_pelaksanaan_tln', $status);
         }
 
@@ -44,16 +46,17 @@ class Mdl_tln extends CI_Model {
 
         if (!$tahun == 0) {
             $this->db->where('YEAR(`tgl_akhir_tln`)', $tahun);
-        }  else {
-            $this->db->where('YEAR(`tgl_mulai_tln`)', date("Y-m-d"));            
+        } else {
+            $this->db->where('YEAR(`tgl_mulai_tln`)', date("Y-m-d"));
         }
-        
+
         $this->db->order_by('tgl_mulai_tln', 'desc');
         return $this->db->get($this->table, $limit, $offset);
     }
-    
 
-    function get_exel($month,$tahun) {
+
+    function get_exel($month, $tahun)
+    {
         if (empty($month) && empty($tahun)) {
             $month = 0;
             $tahun = 0;
@@ -69,13 +72,14 @@ class Mdl_tln extends CI_Model {
         return $this->db->get($this->table);
     }
 
-    function count_all($month,$tahun,$nopek,$nama,$judul,$status) {
-        if (empty($month) && empty($nopek)&& empty($nama) && empty($tahun) && empty($judul)) {
+    function count_all($month, $tahun, $nopek, $nama, $judul, $status)
+    {
+        if (empty($month) && empty($nopek) && empty($nama) && empty($tahun) && empty($judul)) {
             $month = 0;
             $nopek = 0;
-            $nama=0;
+            $nama = 0;
             $judul = 0;
-            $tahun=0;
+            $tahun = 0;
         }
 
         if (!$nopek == 0) {
@@ -88,7 +92,7 @@ class Mdl_tln extends CI_Model {
         if (!$judul == 0) {
             $this->db->like('judul', $judul);
         }
-        
+
         if (!$status == 0) {
             $this->db->like('status_pelaksanaan_tln', $status);
         }
@@ -106,40 +110,47 @@ class Mdl_tln extends CI_Model {
         return $q->num_rows();
     }
 
-    function get_libur() {
+    function get_libur()
+    {
         return $this->db->get($this->table_libur);
     }
 
     // Add new Certificate
-    function add($var) {
+    function add($var)
+    {
         $this->db->insert($this->table, $var);
         return $this->db->insert_id();
     }
 
     // Delete Certificate
-    function delete($id) {
+    function delete($id)
+    {
         $this->db->where('id', $id);
         return $this->db->delete($this->table);
     }
 
     // Get Certificate by id
-    function get_by_id($id) {
+    function get_by_id($id)
+    {
         $this->db->where('id', $id);
         return $this->db->get($this->table);
     }
 
     // Update Certificate
-    function update($id, $data) {
+    function update($id, $data)
+    {
         $this->db->where('id', $id);
         return $this->db->update($this->table, $data);
     }
 
-    function update_status($id, $status) {
+    function update_status($id, $status)
+    {
         $this->db->where('id', $id);
         return $this->db->update($this->table, $status);
     }
 
-    function add_dataexcel($dataarray) {
+    function add_dataexcel($dataarray)
+    {
         for ($i = 0; $i < count($dataarray); $i++) {
 
             $data = array(
@@ -177,7 +188,8 @@ class Mdl_tln extends CI_Model {
         }
     }
 
-    function prm_kegiatan($kegiatan) {
+    function prm_kegiatan($kegiatan)
+    {
         if ($kegiatan == 'pendaftaran') {
             $prm_kegiatan = '1';
         } elseif ($kegiatan == 'pendaftaran') {
@@ -188,7 +200,8 @@ class Mdl_tln extends CI_Model {
         return $prm_kegiatan;
     }
 
-    function prm_via($via) {
+    function prm_via($via)
+    {
         if ($via == 'e-corr') {
             $prm_via = '1#';
         } else {
@@ -197,7 +210,8 @@ class Mdl_tln extends CI_Model {
         return $prm_via;
     }
 
-    function chk_disposisi($disposisi) {
+    function chk_disposisi($disposisi)
+    {
         if ($disposisi == 'vp plc') {
             $disp = '1';
         } elseif ($disposisi == 'ldt man') {
@@ -209,7 +223,8 @@ class Mdl_tln extends CI_Model {
         return $disp;
     }
 
-    function chk_persetujuan($persetujuan) {
+    function chk_persetujuan($persetujuan)
+    {
         if ($persetujuan == 'y') {
             $prt = '1';
         } else {
@@ -217,7 +232,8 @@ class Mdl_tln extends CI_Model {
         }
     }
 
-    function chk_reg_via($reg_via) {
+    function chk_reg_via($reg_via)
+    {
         if ($reg_via == 'registrasi sendiri') {
             $chk_reg_via = '1';
         } else {
@@ -227,7 +243,8 @@ class Mdl_tln extends CI_Model {
         return $chk_reg_via;
     }
 
-    function prt_feedback($feedback) {
+    function prt_feedback($feedback)
+    {
         if ($feedback == 'y') {
             $prt_feedback = '1';
         } else {
@@ -236,7 +253,8 @@ class Mdl_tln extends CI_Model {
         return $prt_feedback;
     }
 
-    function keu_sp($sp) {
+    function keu_sp($sp)
+    {
         if ($sp == 'y') {
             $keu_sp = '1';
         } else {
@@ -245,7 +263,8 @@ class Mdl_tln extends CI_Model {
         return $keu_sp;
     }
 
-    function opt_keu_prosedur($prosedur) {
+    function opt_keu_prosedur($prosedur)
+    {
         if ($prosedur == 'umk') {
             $keu_prosedur = '1';
         } elseif ($prosedur == 'penagihan') {
@@ -254,7 +273,6 @@ class Mdl_tln extends CI_Model {
             $keu_prosedur = '3';
         }
     }
-
 }
 
 /* End of file certificate.php */

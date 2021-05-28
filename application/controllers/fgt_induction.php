@@ -1653,5 +1653,3 @@ function post_tempat($id) {
     
 
 }
-
-?>

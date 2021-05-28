@@ -12,10 +12,11 @@
     <tr>
         <td valign="top">Tanggal Pembayaran <span style="color:red">*</span></td>
         <td>
-                    <input type="text" name="payment_date" id="expired" class="text" value="<?php echo (set_value('payment_date')) ? set_value('payment_date') : $learn['payment_date']; ?>">
-                        
-                        <?php form_error('payment_date'); ?>
-  </td>
+            <input type="text" name="payment_date" id="expired" class="text"
+                value="<?php echo (set_value('payment_date')) ? set_value('payment_date') : $learn['payment_date']; ?>">
+
+            <?php form_error('payment_date'); ?>
+        </td>
     </tr>
     <tr>
         <td>Jumlah</td>
@@ -25,20 +26,18 @@
                 <option>€</option>
                 <option>S$</option>
             </select>
-            <input type="text" name="cost" >
+            <input type="text" name="cost">
         </td>
     </tr>
 </table>
 
 <script type="text/javascript">
-$(function () {
+$(function() {
     $("#expired").datepicker({
-            changeMonth: true,
-            changeYear: true,
-            altFormat: 'yy-mm-dd',
-            dateFormat: 'yy-mm-dd'
+        changeMonth: true,
+        changeYear: true,
+        altFormat: 'yy-mm-dd',
+        dateFormat: 'yy-mm-dd'
     });
 });
-
-
 </script>

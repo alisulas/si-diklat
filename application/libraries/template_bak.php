@@ -8,17 +8,20 @@ if (!defined('BASEPATH'))
  *
  * @author Administrator
  */
-class Template {
+class Template
+{
 
     protected $ci;
 
     // Constructor
-    function __construct() {
+    function __construct()
+    {
         $this->_ci = &get_instance();
     }
 
     // Default Template
-    function display($template, $data = null) {
+    function display($template, $data = null)
+    {
         if (!$this->_ci->session->userdata('is_login')) {
             $menu = 'template/menu_dashboard';
         } else {
@@ -50,7 +53,6 @@ class Template {
         $data['_menu'] = $this->_ci->load->view($menu, $data, true);
         $this->_ci->load->view('/template/template.php', $data);
     }
-
 }
 
 /* End of file template.php */

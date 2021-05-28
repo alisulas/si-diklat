@@ -9,8 +9,8 @@
         <td>Password</td>
         <td><input type="text" name="password"></td>
     </tr>
-        <tr>
-            <td>Nopek</td>
+    <tr>
+        <td>Nopek</td>
         <td><input type="text" name="nopek"></td>
     </tr>
     <tr>
@@ -21,21 +21,21 @@
         <td>Email</td>
         <td><input type="text" name="email"></td>
     </tr>
-        <tr>
+    <tr>
         <td>Fungsi</td>
         <td><select name="fungsi">
-            <?php echo $fungsi; ?>
+                <?php echo $fungsi; ?>
             </select></td>
     </tr>
-        <tr>
+    <tr>
         <td>Jabatan</td>
         <td><input type="text" name="jabatan"></td>
     </tr>
-            <tr>
+    <tr>
         <td>Telp/HP</td>
         <td><input type="text" name="hp"></td>
     </tr>
-        <tr>
+    <tr>
         <td>Role</td>
         <td>
             <select name="role">
@@ -44,12 +44,14 @@
                 <option value="3">Group 3</option>
                 <option value="4">Group 4</option>
                 <option value="5">Group 5</option>
-            </select> 
+            </select>
         </td>
     </tr>
     <tr>
         <td>Status</td>
-        <td><input type="radio" name="status" value="1" checked="true">&nbsp;<span class="label label-info">Aktif</span><br><input type="radio" name="status" value="0">&nbsp;<span class="label label-important">Non Aktif</span></td>
+        <td><input type="radio" name="status" value="1" checked="true">&nbsp;<span
+                class="label label-info">Aktif</span><br><input type="radio" name="status" value="0">&nbsp;<span
+                class="label label-important">Non Aktif</span></td>
     </tr>
 </table>
 <a class="btn" href="user" data-original-title=""><i class="icon-hand-left"></i> Kembali ke list</a>

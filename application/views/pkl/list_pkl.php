@@ -3,7 +3,8 @@
 <script type="text/javascript" language="javascript" src="assets/datatable/js/jquery.dataTables.js"></script>
 <script type="text/javascript" language="javascript" src="assets/datatable/js/dataTables.bootstrap.js"></script>
 
-<?php echo $tambah; ?><hr>
+<?php echo $tambah; ?>
+<hr>
 
 <!--
  <form action="pkl/list_pkl" method="POST">
@@ -45,21 +46,20 @@
 -->
 
 <div style="overflow-x: scroll">
-<p>
+    <p>
 
-    <?php echo $content;?>
+        <?php echo $content; ?>
 
-</p>
+    </p>
 </div>
 <script type="text/javascript">
 $(document).ready(function() {
     $('#data_table').dataTable({
-    	"lengthChange": false,
-    	"oLanguage": {
-		   "sSearch": "Pencarian :",
-		   "sZeroRecords": "Data tidak ada."
-		}
-	});
-} );
-
+        "lengthChange": false,
+        "oLanguage": {
+            "sSearch": "Pencarian :",
+            "sZeroRecords": "Data tidak ada."
+        }
+    });
+});
 </script>

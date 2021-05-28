@@ -31,7 +31,8 @@
                         <li class="divider"></li>
                         <li><a href="pkl/list_pkl"><i class="icon-list-alt"></i> Data PKL</a></li>
                         <li class="divider"></li>
-                        <li><a href="sarfas/list_peminjaman_laptop"><i class="icon-list-alt"></i> Peminjaman Laptop</a></li>
+                        <li><a href="sarfas/list_peminjaman_laptop"><i class="icon-list-alt"></i> Peminjaman Laptop</a>
+                        </li>
                         <li class="divider"></li>
                         <li><a href="carpar/index_user"><i class="icon-list-alt"></i> CAR / PAR LS</a></li>
                     </ul>
@@ -39,21 +40,22 @@
 
 
             </ul>
-	    <ul class="nav pull-right">
+            <ul class="nav pull-right">
                 <li class="dropdown" id="menu1">
                     <a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="#">
-                        <?php echo $this->session->userdata('user_name');?>
+                        <?php echo $this->session->userdata('user_name'); ?>
                         <b class="caret"></b>
                     </a>
                     <ul class="dropdown-menu">
                         <li class="divider"></li>
-                        <li><a href="user/profile/<?php echo $this->session->userdata('user_id');?>" class="active">Profile</a></li>
+                        <li><a href="user/profile/<?php echo $this->session->userdata('user_id'); ?>"
+                                class="active">Profile</a></li>
                         <li class="divider"></li>
                         <li><a href="login/logout" class="active">Logout</a></li>
                     </ul>
                 </li>
 
-	    </ul>
+            </ul>
         </div>
     </div>
 </div>

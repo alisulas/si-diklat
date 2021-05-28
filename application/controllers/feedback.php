@@ -5,19 +5,22 @@
  * and open the template in the editor.
  */
 
-class Feedback extends Member_Controller {
+class Feedback extends Member_Controller
+{
 
     private $limit = 10;
 
     //put your code here
-    public function __construct() {
+    public function __construct()
+    {
         parent::__construct();
         $this->load->model('mdl_feedback');
         $this->load->model('mdl_course');
         $this->load->model('mdl_trainer');
     }
 
-    function index($offset = 0) {
+    function index($offset = 0)
+    {
         $this->get_index($offset);
     }
 
@@ -25,13 +28,14 @@ class Feedback extends Member_Controller {
      * Get index table
      */
 
-    protected function get_index($offset) {
+    protected function get_index($offset)
+    {
         $data['title'] = 'Data Pelatihan';
         $this->load->library('pagination');
         if (empty($offset)) {
             $offset = 0;
         }
-        
+
         /* Pagination */
         $config['base_url'] = site_url('course/index/');
         $config['total_rows'] = $this->mdl_course->count_all();
@@ -44,56 +48,57 @@ class Feedback extends Member_Controller {
         $this->load->library('table');
         $this->table->set_empty('&nbsp;');
         $this->table->set_heading(
-                array('data'=>'No','width'=>'10'), 'Kode', 'Nama Pelatihan', array('data'=>'Feedback Peserta','width'=>'120'),array('data'=>'Feedback Trainer','width'=>'120')
+            array('data' => 'No', 'width' => '10'),
+            'Kode',
+            'Nama Pelatihan',
+            array('data' => 'Feedback Peserta', 'width' => '120'),
+            array('data' => 'Feedback Trainer', 'width' => '120')
         );
-        $q = $this->mdl_course->get_index($this->limit, $offset,$month=0,$status=0)->result_array();
+        $q = $this->mdl_course->get_index($this->limit, $offset, $month = 0, $status = 0)->result_array();
         $i = 0 + $offset;
         foreach ($q as $row) {
-             if($this->mdl_feedback->get_feedbackpeserta_by_course($row['id'])->num_rows() <= 0)
-	    {
-		$lbl_peserta='<span class="label label-error">Belum Lengkap</span>';
-		$rel_peserta='Klik untuk menambahkan Feedback';
-                
-                if($this->session->userdata('user_id')==1){
-                $fb_peserta_btn = anchor('absen/detail/' .$row['id'], '<i class="icon-search icon-white"></i>', array('class' => 'btn btn-primary', 'rel' => 'tooltip', 'title' => $rel_peserta));
-                }else{
-                $fb_peserta_btn = '<button class="btn btn-primary"><i class="icon-search icon-white"></i></button>';    
-                }
-	    } else {
-		$lbl_peserta='<span class="label label-success">Sudah Lengkap</span>';
-		$rel_peserta='Klik untuk melihat Feedback';
-                 $fb_peserta_btn = anchor('absen/detail/' .$row['id'], '<i class="icon-search icon-white"></i>', array('class' => 'btn btn-primary', 'rel' => 'tooltip', 'title' => $rel_peserta));
-               
-	    }
-            
-            $trainer=  $this->mdl_feedback->get_by_course_id($row['id'])->row()->trainer;
-            $data_trainers= explode('#',$trainer);
-            $jumlah_trainer=count($data_trainers);
+            if ($this->mdl_feedback->get_feedbackpeserta_by_course($row['id'])->num_rows() <= 0) {
+                $lbl_peserta = '<span class="label label-error">Belum Lengkap</span>';
+                $rel_peserta = 'Klik untuk menambahkan Feedback';
 
-            if($this->mdl_feedback->get_trainer_by_course($row['id'])->num_rows() < $jumlah_trainer)
-	    {
-		$lbl_trainer='<span class="label label-error">Belum Lengkap</span>';
-		$rel_trainer='Klik untuk menambahkan Feedback';
-                
-            if ($this->session->userdata('user_id')==1){
-            $fb_trainer_btn = anchor('absen/trainer/' . $row['id'], '<i class="icon-search icon-white"></i>', array('class' => 'btn btn-primary', 'rel' => 'tooltip', 'title' => $rel_trainer));                
-            }else{
-                $fb_trainer_btn = '<button class="btn btn-primary"><i class="icon-search icon-white"></i></button>';    
-                
+                if ($this->session->userdata('user_id') == 1) {
+                    $fb_peserta_btn = anchor('absen/detail/' . $row['id'], '<i class="icon-search icon-white"></i>', array('class' => 'btn btn-primary', 'rel' => 'tooltip', 'title' => $rel_peserta));
+                } else {
+                    $fb_peserta_btn = '<button class="btn btn-primary"><i class="icon-search icon-white"></i></button>';
+                }
+            } else {
+                $lbl_peserta = '<span class="label label-success">Sudah Lengkap</span>';
+                $rel_peserta = 'Klik untuk melihat Feedback';
+                $fb_peserta_btn = anchor('absen/detail/' . $row['id'], '<i class="icon-search icon-white"></i>', array('class' => 'btn btn-primary', 'rel' => 'tooltip', 'title' => $rel_peserta));
             }
-            
-	    } else {
-		$lbl_trainer='<span class="label label-success">Sudah Lengkap</span>';
-		$rel_trainer='Klik untuk melihat Feedback';
-	    $fb_trainer_btn = anchor('absen/trainer/' . $row['id'], '<i class="icon-search icon-white"></i>', array('class' => 'btn btn-primary', 'rel' => 'tooltip', 'title' => $rel_trainer));                
-            
-                
+
+            $trainer =  $this->mdl_feedback->get_by_course_id($row['id'])->row()->trainer;
+            $data_trainers = explode('#', $trainer);
+            $jumlah_trainer = count($data_trainers);
+
+            if ($this->mdl_feedback->get_trainer_by_course($row['id'])->num_rows() < $jumlah_trainer) {
+                $lbl_trainer = '<span class="label label-error">Belum Lengkap</span>';
+                $rel_trainer = 'Klik untuk menambahkan Feedback';
+
+                if ($this->session->userdata('user_id') == 1) {
+                    $fb_trainer_btn = anchor('absen/trainer/' . $row['id'], '<i class="icon-search icon-white"></i>', array('class' => 'btn btn-primary', 'rel' => 'tooltip', 'title' => $rel_trainer));
+                } else {
+                    $fb_trainer_btn = '<button class="btn btn-primary"><i class="icon-search icon-white"></i></button>';
+                }
+            } else {
+                $lbl_trainer = '<span class="label label-success">Sudah Lengkap</span>';
+                $rel_trainer = 'Klik untuk melihat Feedback';
+                $fb_trainer_btn = anchor('absen/trainer/' . $row['id'], '<i class="icon-search icon-white"></i>', array('class' => 'btn btn-primary', 'rel' => 'tooltip', 'title' => $rel_trainer));
             }
             //  $fb_peserta_btn= anchor('feedback/kursil/'.$row['id'],'<i class="icon-search icon-white"></i>',array('class'=>'btn btn-primary','rel'=>'tooltip','title'=>$rel_kursil));
-            
-           
+
+
             $this->table->add_row(
-                    ++$i, $row['code'], $row['course_name'], '<div align="center">' . $fb_peserta_btn . '<br />' . $lbl_peserta . '</div>','<div align="center">' . $fb_trainer_btn . '<br />' . $lbl_trainer . '</div>'
+                ++$i,
+                $row['code'],
+                $row['course_name'],
+                '<div align="center">' . $fb_peserta_btn . '<br />' . $lbl_peserta . '</div>',
+                '<div align="center">' . $fb_trainer_btn . '<br />' . $lbl_trainer . '</div>'
             );
         }
         $this->table->set_template(array('table_open' => '<table class="table table-bordered">'));
@@ -101,7 +106,8 @@ class Feedback extends Member_Controller {
         $this->template->display('feedback/index', $data);
     }
 
-    function add($id, $jml) {
+    function add($id, $jml)
+    {
         if (empty($id)) {
             $this->session->set_flashdata('msg', '<div class="alert alert-error">Terjadi Kesalahan</div>');
         } else {
@@ -117,37 +123,39 @@ class Feedback extends Member_Controller {
             $this->template->display('feedback/form', $data);
         }
     }
-    
-    function fbtrainer($id_course,$id_trainer,$jml_feedback) {
-       if (empty($id_course)) {
+
+    function fbtrainer($id_course, $id_trainer, $jml_feedback)
+    {
+        if (empty($id_course)) {
             $this->session->set_flashdata('msg', '<div class="alert alert-error">Terjadi Kesalahan</div>');
         } else {
             $data['course_id'] = $id_course;
-            $data['trainer_id']=$id_trainer;
+            $data['trainer_id'] = $id_trainer;
             $data['title'] = 'Form Feedback Instruktur';
             $data['action'] = 'feedback/postaddtrainer';
             $data['link_back'] = site_url('feedback/index');
-            $data['trainer_name']=  $this->mdl_trainer->get_by_id($id_trainer)->row()->name;
-            $data['course_name']=  $this->mdl_course->get_by_id($id_course)->row()->course_name;
-            $data['start_date']=  $this->mdl_course->get_by_id($id_course)->row()->start_date;
-            $data['end_date']=  $this->mdl_course->get_by_id($id_course)->row()->end_date;
+            $data['trainer_name'] =  $this->mdl_trainer->get_by_id($id_trainer)->row()->name;
+            $data['course_name'] =  $this->mdl_course->get_by_id($id_course)->row()->course_name;
+            $data['start_date'] =  $this->mdl_course->get_by_id($id_course)->row()->start_date;
+            $data['end_date'] =  $this->mdl_course->get_by_id($id_course)->row()->end_date;
             $data['jumlahpeserta'] = $jml_feedback;
 
             $this->template->display('feedback/form_trainer', $data);
-        } 
+        }
     }
 
-    function detail($id) {
+    function detail($id)
+    {
         $data['title'] = 'Formulir Umpan Balik Program Pembelajaran';
-        $data['id_course']=$id;
+        $data['id_course'] = $id;
         $data['course_name'] = $this->mdl_feedback->get_by_course_id($id)->row()->course_name;
         $data['start_date'] = $this->mdl_feedback->get_by_course_id($id)->row()->start_date;
         $data['end_date'] = $this->mdl_feedback->get_by_course_id($id)->row()->end_date;
         $jumlah_peserta = $this->mdl_feedback->count_all($id);
-        if ($jumlah_peserta==0) {
-            $data['jumlah_peserta']=1;
-        }else{
-            $data['jumlah_peserta']=$jumlah_peserta;
+        if ($jumlah_peserta == 0) {
+            $data['jumlah_peserta'] = 1;
+        } else {
+            $data['jumlah_peserta'] = $jumlah_peserta;
         }
         $data['jumlah_feedback'] = $this->mdl_feedback->get_by_id($id)->row()->jml;
 
@@ -222,7 +230,8 @@ class Feedback extends Member_Controller {
         $this->template->display('feedback/detail', $data);
     }
 
-    function postadd($id, $jml) {
+    function postadd($id, $jml)
+    {
         $jumlahpeserta = $jml;
         $jumlahfb1 = 0;
         $jumlahfb2 = 0;
@@ -256,37 +265,37 @@ class Feedback extends Member_Controller {
         $jumlahfb30 = 0;
         $jumlahfb31 = 0;
         for ($i = 1; $i <= $jumlahpeserta; $i++) {
-            $jumlahfb1 +=$this->input->post('fb1_' . $i);
-            $jumlahfb2 +=$this->input->post('fb2_' . $i);
-            $jumlahfb3 +=$this->input->post('fb3_' . $i);
-            $jumlahfb4 +=$this->input->post('fb4_' . $i);
-            $jumlahfb5 +=$this->input->post('fb5_' . $i);
-            $jumlahfb6 +=$this->input->post('fb6_' . $i);
-            $jumlahfb7 +=$this->input->post('fb7_' . $i);
-            $jumlahfb8 +=$this->input->post('fb8_' . $i);
-            $jumlahfb9 +=$this->input->post('fb9_' . $i);
-            $jumlahfb10 +=$this->input->post('fb10_' . $i);
-            $jumlahfb11 +=$this->input->post('fb11_' . $i);
-            $jumlahfb12 +=$this->input->post('fb12_' . $i);
-            $jumlahfb13 +=$this->input->post('fb13_' . $i);
-            $jumlahfb14 +=$this->input->post('fb14_' . $i);
-            $jumlahfb15 +=$this->input->post('fb15_' . $i);
-            $jumlahfb16 +=$this->input->post('fb16_' . $i);
-            $jumlahfb17 +=$this->input->post('fb17_' . $i);
-            $jumlahfb18 +=$this->input->post('fb18_' . $i);
-            $jumlahfb19 +=$this->input->post('fb19_' . $i);
-            $jumlahfb20 +=$this->input->post('fb20_' . $i);
-            $jumlahfb21 +=$this->input->post('fb21_' . $i);
-            $jumlahfb22 +=$this->input->post('fb22_' . $i);
-            $jumlahfb23 +=$this->input->post('fb23_' . $i);
-            $jumlahfb24 +=$this->input->post('fb24_' . $i);
-            $jumlahfb25 +=$this->input->post('fb25_' . $i);
-            $jumlahfb26 +=$this->input->post('fb26_' . $i);
-            $jumlahfb27 +=$this->input->post('fb27_' . $i);
-            $jumlahfb28 +=$this->input->post('fb28_' . $i);
-            $jumlahfb29 +=$this->input->post('fb29_' . $i);
-            $jumlahfb30 +=$this->input->post('fb30_' . $i);
-            $jumlahfb31 +=$this->input->post('fb31_' . $i);
+            $jumlahfb1 += $this->input->post('fb1_' . $i);
+            $jumlahfb2 += $this->input->post('fb2_' . $i);
+            $jumlahfb3 += $this->input->post('fb3_' . $i);
+            $jumlahfb4 += $this->input->post('fb4_' . $i);
+            $jumlahfb5 += $this->input->post('fb5_' . $i);
+            $jumlahfb6 += $this->input->post('fb6_' . $i);
+            $jumlahfb7 += $this->input->post('fb7_' . $i);
+            $jumlahfb8 += $this->input->post('fb8_' . $i);
+            $jumlahfb9 += $this->input->post('fb9_' . $i);
+            $jumlahfb10 += $this->input->post('fb10_' . $i);
+            $jumlahfb11 += $this->input->post('fb11_' . $i);
+            $jumlahfb12 += $this->input->post('fb12_' . $i);
+            $jumlahfb13 += $this->input->post('fb13_' . $i);
+            $jumlahfb14 += $this->input->post('fb14_' . $i);
+            $jumlahfb15 += $this->input->post('fb15_' . $i);
+            $jumlahfb16 += $this->input->post('fb16_' . $i);
+            $jumlahfb17 += $this->input->post('fb17_' . $i);
+            $jumlahfb18 += $this->input->post('fb18_' . $i);
+            $jumlahfb19 += $this->input->post('fb19_' . $i);
+            $jumlahfb20 += $this->input->post('fb20_' . $i);
+            $jumlahfb21 += $this->input->post('fb21_' . $i);
+            $jumlahfb22 += $this->input->post('fb22_' . $i);
+            $jumlahfb23 += $this->input->post('fb23_' . $i);
+            $jumlahfb24 += $this->input->post('fb24_' . $i);
+            $jumlahfb25 += $this->input->post('fb25_' . $i);
+            $jumlahfb26 += $this->input->post('fb26_' . $i);
+            $jumlahfb27 += $this->input->post('fb27_' . $i);
+            $jumlahfb28 += $this->input->post('fb28_' . $i);
+            $jumlahfb29 += $this->input->post('fb29_' . $i);
+            $jumlahfb30 += $this->input->post('fb30_' . $i);
+            $jumlahfb31 += $this->input->post('fb31_' . $i);
         }
         $var = array(
             'plc_course_id' => $this->input->post('course_id'),
@@ -334,11 +343,12 @@ class Feedback extends Member_Controller {
         $this->session->set_flashdata('msg', $this->editor->alert_ok('Data peserta berhasil dimasukkan'));
         redirect('feedback/detail/' . $id);
     }
-    
-    function postaddtrainer(){
-       $jumlahpeserta = $this->input->post('jumlahpeserta');
-       $course_id=  $this->input->post('course_id');
-       $trainer_id=  $this->input->post('trainer_id');
+
+    function postaddtrainer()
+    {
+        $jumlahpeserta = $this->input->post('jumlahpeserta');
+        $course_id =  $this->input->post('course_id');
+        $trainer_id =  $this->input->post('trainer_id');
         $jumlahft1 = 0;
         $jumlahft2 = 0;
         $jumlahft3 = 0;
@@ -346,20 +356,19 @@ class Feedback extends Member_Controller {
         $jumlahft5 = 0;
         $jumlahft6 = 0;
         $jumlahft7 = 0;
-        
+
         for ($i = 1; $i <= $jumlahpeserta; $i++) {
-            $jumlahft1 +=$this->input->post('ft1_' . $i);
-            $jumlahft2 +=$this->input->post('ft2_' . $i);
-            $jumlahft3 +=$this->input->post('ft3_' . $i);
-            $jumlahft4 +=$this->input->post('ft4_' . $i);
-            $jumlahft5 +=$this->input->post('ft5_' . $i);
-            $jumlahft6 +=$this->input->post('ft6_' . $i);
-            $jumlahft7 +=$this->input->post('ft7_' . $i);
-            
+            $jumlahft1 += $this->input->post('ft1_' . $i);
+            $jumlahft2 += $this->input->post('ft2_' . $i);
+            $jumlahft3 += $this->input->post('ft3_' . $i);
+            $jumlahft4 += $this->input->post('ft4_' . $i);
+            $jumlahft5 += $this->input->post('ft5_' . $i);
+            $jumlahft6 += $this->input->post('ft6_' . $i);
+            $jumlahft7 += $this->input->post('ft7_' . $i);
         }
         $var = array(
             'plc_course_id' => $course_id,
-            'plc_trainer_id'=>  $trainer_id,
+            'plc_trainer_id' =>  $trainer_id,
             'ft1' => $jumlahft1,
             'ft2' => $jumlahft2,
             'ft3' => $jumlahft3,
@@ -372,53 +381,53 @@ class Feedback extends Member_Controller {
         );
         $this->mdl_feedback->add_trainer($var);
         $this->session->set_flashdata('msg', $this->editor->alert_ok('Data Trainer berhasil dimasukkan'));
-        redirect('feedback/detail_trainer/'.$course_id.'/'.$trainer_id);  
+        redirect('feedback/detail_trainer/' . $course_id . '/' . $trainer_id);
     }
-    
-    function detail_trainer($course_id,$trainer_id) {
-        $data['title']='Detail Evaluasi Trainer';
-        $data['course_id']=$course_id;
-        $data['trainer_name']=  $this->mdl_trainer->get_by_id($trainer_id)->row()->name;
-        $data['course_name']=  $this->mdl_course->get_by_id($course_id)->row()->course_name;
-        $data['start_date']=  $this->mdl_course->get_by_id($course_id)->row()->start_date;
-        $data['end_date']=  $this->mdl_course->get_by_id($course_id)->row()->end_date;
-        
-        $data['id_feedback']=  $this->mdl_feedback->get_fb_by($course_id,$trainer_id)->row()->id;
-        $data['ft1']=  $this->mdl_feedback->get_fb_by($course_id,$trainer_id)->row()->ft1;
-        $data['ft2']=  $this->mdl_feedback->get_fb_by($course_id,$trainer_id)->row()->ft2;
-        $data['ft3']=  $this->mdl_feedback->get_fb_by($course_id,$trainer_id)->row()->ft3;
-        $data['ft4']=  $this->mdl_feedback->get_fb_by($course_id,$trainer_id)->row()->ft4;
-        $data['ft5']=  $this->mdl_feedback->get_fb_by($course_id,$trainer_id)->row()->ft5;
-        $data['ft6']=  $this->mdl_feedback->get_fb_by($course_id,$trainer_id)->row()->ft6;
-        $data['ft7']=  $this->mdl_feedback->get_fb_by($course_id,$trainer_id)->row()->ft7;
-        $data['jumlah_feedback']=  $this->mdl_feedback->get_fb_by($course_id,$trainer_id)->row()->jml;
-        $data['com']=  $this->mdl_feedback->get_fb_by($course_id,$trainer_id)->row()->com;
+
+    function detail_trainer($course_id, $trainer_id)
+    {
+        $data['title'] = 'Detail Evaluasi Trainer';
+        $data['course_id'] = $course_id;
+        $data['trainer_name'] =  $this->mdl_trainer->get_by_id($trainer_id)->row()->name;
+        $data['course_name'] =  $this->mdl_course->get_by_id($course_id)->row()->course_name;
+        $data['start_date'] =  $this->mdl_course->get_by_id($course_id)->row()->start_date;
+        $data['end_date'] =  $this->mdl_course->get_by_id($course_id)->row()->end_date;
+
+        $data['id_feedback'] =  $this->mdl_feedback->get_fb_by($course_id, $trainer_id)->row()->id;
+        $data['ft1'] =  $this->mdl_feedback->get_fb_by($course_id, $trainer_id)->row()->ft1;
+        $data['ft2'] =  $this->mdl_feedback->get_fb_by($course_id, $trainer_id)->row()->ft2;
+        $data['ft3'] =  $this->mdl_feedback->get_fb_by($course_id, $trainer_id)->row()->ft3;
+        $data['ft4'] =  $this->mdl_feedback->get_fb_by($course_id, $trainer_id)->row()->ft4;
+        $data['ft5'] =  $this->mdl_feedback->get_fb_by($course_id, $trainer_id)->row()->ft5;
+        $data['ft6'] =  $this->mdl_feedback->get_fb_by($course_id, $trainer_id)->row()->ft6;
+        $data['ft7'] =  $this->mdl_feedback->get_fb_by($course_id, $trainer_id)->row()->ft7;
+        $data['jumlah_feedback'] =  $this->mdl_feedback->get_fb_by($course_id, $trainer_id)->row()->jml;
+        $data['com'] =  $this->mdl_feedback->get_fb_by($course_id, $trainer_id)->row()->com;
         $jml_peserta = $this->mdl_feedback->count_all($course_id);
-        if ($jml_peserta==0) {
-            $data['jumlah_peserta']=1;
-        }  else {
-        $data['jumlah_peserta']=$jml_peserta;    
+        if ($jml_peserta == 0) {
+            $data['jumlah_peserta'] = 1;
+        } else {
+            $data['jumlah_peserta'] = $jml_peserta;
         }
-        
-        $data['jumlah'] = $data['ft1'] + $data['ft2'] + $data['ft3'] + $data['ft4'] + $data['ft5']+ $data['ft6']+ $data['ft7'];
+
+        $data['jumlah'] = $data['ft1'] + $data['ft2'] + $data['ft3'] + $data['ft4'] + $data['ft5'] + $data['ft6'] + $data['ft7'];
         $data['rata'] = $data['jumlah'] / $data['jumlah_feedback'] / 7;
         $data['prosentase'] = $data['jumlah_feedback'] / $data['jumlah_peserta'] * 100;
-        
-        $this->template->display('feedback/detail_trainer',$data);
+
+        $this->template->display('feedback/detail_trainer', $data);
     }
-    
-    
-    function delete_trainer($id_feedback,$id_course) {
+
+
+    function delete_trainer($id_feedback, $id_course)
+    {
         $this->mdl_feedback->delete_trainer($id_feedback);
-         $this->session->set_flashdata('msg','<div class="alert alert-success"">trainer '.$id.' berhasil dihapus</div>');
-         redirect('absen/trainer/'.$id_course);
+        $this->session->set_flashdata('msg', '<div class="alert alert-success"">trainer ' . $id . ' berhasil dihapus</div>');
+        redirect('absen/trainer/' . $id_course);
     }
-    function delete_fb_peserta($id_course) {
+    function delete_fb_peserta($id_course)
+    {
         $this->mdl_feedback->delete_fb_peserta($id_course);
-         $this->session->set_flashdata('msg','<div class="alert alert-success"">trainer '.$id.' berhasil dihapus</div>');
-         redirect('absen/detail/'.$id_course);
+        $this->session->set_flashdata('msg', '<div class="alert alert-success"">trainer ' . $id . ' berhasil dihapus</div>');
+        redirect('absen/detail/' . $id_course);
     }
-
 }
-
-?>

@@ -5,11 +5,13 @@
  *
  * @author Administrator
  */
-class Course extends CI_Controller {
+class Course extends CI_Controller
+{
 
     private $limit = 10;
 
-    function __construct() {
+    function __construct()
+    {
         parent::__construct();
         $this->load->model('mdl_course');
         $this->load->model('mdl_sarfas');
@@ -28,7 +30,8 @@ class Course extends CI_Controller {
         $this->load->helper('file');
     }
 
-    function index($offset = 0) {
+    function index($offset = 0)
+    {
         $this->get_index($offset);
     }
 
@@ -36,7 +39,8 @@ class Course extends CI_Controller {
      * Get index table
      */
 
-    protected function get_index($offset) {
+    protected function get_index($offset)
+    {
         $data['title'] = 'Index Pelatihan';
         $this->load->helper('dompdf');
         $this->load->library('pagination');
@@ -50,30 +54,30 @@ class Course extends CI_Controller {
         $config['uri_segment'] = 3;
         $this->pagination->initialize($config);
         $data['pagination'] = $this->pagination->create_links();
-     //   $data['download_pdf'] = anchor('assets/uploads/course/course.pdf', '<button class="btn"><i class="icon-file"></i>Download PDF</button>', array('rel' => 'tooltip', 'title' => 'Download PDF'));
+        //   $data['download_pdf'] = anchor('assets/uploads/course/course.pdf', '<button class="btn"><i class="icon-file"></i>Download PDF</button>', array('rel' => 'tooltip', 'title' => 'Download PDF'));
 
         /* List Table */
         $this->load->library('table');
         $this->table->set_empty('&nbsp;');
         $this->table->set_heading(
-                'No', 
-                'Program',
-                'PIC', 
-                'Tanggal',
-                'Lokasi',
-                'Perencanaan', 
-                'Pelaksanaan', 
-                'Evaluasi'
+            'No',
+            'Program',
+            'PIC',
+            'Tanggal',
+            'Lokasi',
+            'Perencanaan',
+            'Pelaksanaan',
+            'Evaluasi'
         );
-        $month=0;
-        $course_name=0;
-        $name= $this->input->post('course_name');
-        $list= $this->input->post('list');
-        
-        $q = $this->mdl_sarfas->get_index($list,$name,$this->limit,$offset)->result_array();
+        $month = 0;
+        $course_name = 0;
+        $name = $this->input->post('course_name');
+        $list = $this->input->post('list');
+
+        $q = $this->mdl_sarfas->get_index($list, $name, $this->limit, $offset)->result_array();
         $data['excel'] = anchor('course/to_exel/' . $month . '/' . $course_name, '<i class="icon-list icon-white"></i>&nbsp;Download Excel', array('class' => 'btn btn-success', 'rel' => 'tooltip', 'title' => 'Download Excel'));
         $i = 0 + $offset;
-        
+
         foreach ($q as $row) {
             if ($this->session->userdata('user_id') == 1 || $this->session->userdata('user_id') == 2 || $this->session->userdata('user_id') == 4) {
                 $edit = anchor('course/edit/' . $row['id'], '<i class="icon-wrench"></i>', array('rel' => 'tooltip', 'title' => 'Edit'));
@@ -85,60 +89,61 @@ class Course extends CI_Controller {
                 $duplicate = '<i class="icon-plus-sign"></i>';
             }
 
-            if (is_numeric($row['class'])){
-//             $location=  anchor('#tambah_lokasi'.$row['id'], 'Pilih', array('class'=>'label label-info','data-toggle'=>'modal'));  
-               $location=  $this->mdl_sarfas->get_class_by_id($row['class'])->row()->class_name;
-               }else{
-               $location= $row['class'];
-           }
-           $jml_peserta=$this->mdl_peserta->count_all($row['id']);
-             if ($this->mdl_peserta->count_all($row['id'])<0) {
-                $peserta='';
-            }  else {
-                $peserta=anchor('peserta/view/'.$row['id'],$this->mdl_peserta->count_all($row['id']));                
+            if (is_numeric($row['class'])) {
+                //             $location=  anchor('#tambah_lokasi'.$row['id'], 'Pilih', array('class'=>'label label-info','data-toggle'=>'modal'));  
+                $location =  $this->mdl_sarfas->get_class_by_id($row['class'])->row()->class_name;
+            } else {
+                $location = $row['class'];
             }
-            
-             if ($this->mdl_peserta->count_all_hadir($row['id'])<0) {
-                $peserta_hadir='';
-            }  else {
-                $peserta_hadir=anchor('peserta/view/'.$row['id'],$this->mdl_peserta->count_all_hadir($row['id']));                
+            $jml_peserta = $this->mdl_peserta->count_all($row['id']);
+            if ($this->mdl_peserta->count_all($row['id']) < 0) {
+                $peserta = '';
+            } else {
+                $peserta = anchor('peserta/view/' . $row['id'], $this->mdl_peserta->count_all($row['id']));
             }
-            
+
+            if ($this->mdl_peserta->count_all_hadir($row['id']) < 0) {
+                $peserta_hadir = '';
+            } else {
+                $peserta_hadir = anchor('peserta/view/' . $row['id'], $this->mdl_peserta->count_all_hadir($row['id']));
+            }
+
             if (empty($this->mdl_provider->get_by_id($row['provider'])->row()->name)) {
-                $provider='';
-            }else{
-                $provider=$this->mdl_provider->get_by_id($row['provider'])->row()->name;
+                $provider = '';
+            } else {
+                $provider = $this->mdl_provider->get_by_id($row['provider'])->row()->name;
             }
-            
-            if (empty($row['activity']) || empty($row['pic']) || empty($row['jenis']) || empty($row['user_name']) || empty($row['hrbp']) || empty($row['start_date']) || empty($row['end_date']) || $jml_peserta==0 || empty($row['class'])|| empty($row['sifat'])|| empty($row['provider'])|| empty($row['course_steward'])|| empty($row['jml_per_kelas'])|| empty($row['penawaran'])|| empty($row['negosiasi'])|| empty($row['penambahan_peserta'])) {
-            $perencanaan=  anchor('course/add', 'Belum Lengkap', array('class'=>'label label-important'));    
-            }else{
-            $perencanaan='Lengkap';
+
+            if (empty($row['activity']) || empty($row['pic']) || empty($row['jenis']) || empty($row['user_name']) || empty($row['hrbp']) || empty($row['start_date']) || empty($row['end_date']) || $jml_peserta == 0 || empty($row['class']) || empty($row['sifat']) || empty($row['provider']) || empty($row['course_steward']) || empty($row['jml_per_kelas']) || empty($row['penawaran']) || empty($row['negosiasi']) || empty($row['penambahan_peserta'])) {
+                $perencanaan =  anchor('course/add', 'Belum Lengkap', array('class' => 'label label-important'));
+            } else {
+                $perencanaan = 'Lengkap';
             }
-            
+
             if (empty($row['memo_panggilan']) || empty($row['sp']) || empty($row['fax_panggilan']) || empty($row['undangan_pengajar']) || empty($row['spk']) || empty($row['memo_sarfas']) || empty($row['sertifikat'])) {
-            $pelaksanaan='Belum Lengkap';    
-            }else{
-            $pelaksanaan='Lengkap';
+                $pelaksanaan = 'Belum Lengkap';
+            } else {
+                $pelaksanaan = 'Lengkap';
             }
-            
+
             if (empty($row['koreksi_sp']) || empty($row['inv_masuk']) || empty($row['nilai_inv']) || empty($row['fu_ke_finance']) || empty($row['spk']) || empty($row['memo_sarfas']) || empty($row['sertifikat'])) {
-            $evaluasi='Belum Lengkap';    
-            }else{
-            $evaluasi='Lengkap';
-            }            
-            
+                $evaluasi = 'Belum Lengkap';
+            } else {
+                $evaluasi = 'Lengkap';
+            }
+
             $this->table->add_row(
-                    ++$i, 
-                    $row['activity'],
-                    $row['pic'],
-                    $this->editor->date_correct($row['start_date']).' s/d '.$this->editor->date_correct($row['end_date']), 
-                    $location,
-                    $perencanaan,
-                    $pelaksanaan,
-                    $evaluasi);
-            
-    //        $data['aktifitas'].=$this->editor->modal_aktifitas($row['id'], $view_btn, $lbl_kursil, $kelengkapan_btn, $lbl_activity, $peserta_btn, $lbl_peserta);
+                ++$i,
+                $row['activity'],
+                $row['pic'],
+                $this->editor->date_correct($row['start_date']) . ' s/d ' . $this->editor->date_correct($row['end_date']),
+                $location,
+                $perencanaan,
+                $pelaksanaan,
+                $evaluasi
+            );
+
+            //        $data['aktifitas'].=$this->editor->modal_aktifitas($row['id'], $view_btn, $lbl_kursil, $kelengkapan_btn, $lbl_activity, $peserta_btn, $lbl_peserta);
         }
         $this->table->set_template(array('table_open' => '<table class="table table-bordered">'));
         $data['content'] = $this->table->generate();
@@ -150,7 +155,7 @@ class Course extends CI_Controller {
 
         $this->template->display('course/index', $data);
 
-/*
+        /*
         // to PDF        
         $this->table->clear();
         $this->table->set_empty('&nbsp;');
@@ -213,7 +218,8 @@ class Course extends CI_Controller {
  */
     }
 
-    function to_exel($month = 0, $course_name = 0) {
+    function to_exel($month = 0, $course_name = 0)
+    {
         $this->load->library('table');
         $this->table->set_empty('&nbsp;');
         //-- Table Initiation
@@ -237,13 +243,25 @@ class Course extends CI_Controller {
         $this->table->set_caption("Daftar Pelatihan");
 
         $this->table->set_heading(
-                'Kode', 'Nama Pelatihan', 'Tgl Mulai', 'Tgl Selesai', 'Tempat Pelaksanaan', 'Sifat', 'PIC'
+            'Kode',
+            'Nama Pelatihan',
+            'Tgl Mulai',
+            'Tgl Selesai',
+            'Tempat Pelaksanaan',
+            'Sifat',
+            'PIC'
         );
         $q = $this->mdl_course->get_exel($month, $course_name)->result_array();
 
         foreach ($q as $row) {
             $this->table->add_row(
-                    $row['code'], $row['course_name'], $row['start_date'], $row['end_date'], $row['location'], $row['sifat'], $this->session->userdata('user_name')
+                $row['code'],
+                $row['course_name'],
+                $row['start_date'],
+                $row['end_date'],
+                $row['location'],
+                $row['sifat'],
+                $this->session->userdata('user_name')
             );
         }
         //       $this->table->set_template(array('<table border="1" cellpadding="2" cellspacing="1" class="table table-bordered">'));
@@ -263,22 +281,23 @@ class Course extends CI_Controller {
      * Create new training
      */
 
-    function add() {
+    function add()
+    {
         $data['title'] = 'Tambah Course Baru';
         $data['link_back'] = site_url('course/index');
         $data['action'] = 'course/add';
-            $tahun=  date('y');
-            $bulan=  date('m');
-            $ran=rand(1, 100);
-            $data['code']=$tahun.$bulan.$ran;
+        $tahun =  date('y');
+        $bulan =  date('m');
+        $ran = rand(1, 100);
+        $data['code'] = $tahun . $bulan . $ran;
         $this->_set_rules();
         if ($this->form_validation->run() === FALSE) {
 
-                $provider = $this->mdl_provider->get_provider();
-                $data['options_provider'] = '';
-                foreach ($provider->result_array() as $row_provider) {
-                $data['options_provider'].='<option value="' . $row_provider['id'] . '">' . $row_provider['name'] . '</option>';
-                }
+            $provider = $this->mdl_provider->get_provider();
+            $data['options_provider'] = '';
+            foreach ($provider->result_array() as $row_provider) {
+                $data['options_provider'] .= '<option value="' . $row_provider['id'] . '">' . $row_provider['name'] . '</option>';
+            }
             $data['course']['pic'] = '';
             $data['course']['kode'] = $data['code'];
             $data['course']['course_name'] = '';
@@ -287,8 +306,8 @@ class Course extends CI_Controller {
             $data['course']['end_date'] = '';
             $data['course']['location'] = '';
             $data['trainer'] = '';
-            $data['sifat']='<option value="Residensial">Residensial</option><option value="Non Residensial">Non Residensial</option>';
-            $data['course']['sifat'] = '';            
+            $data['sifat'] = '<option value="Residensial">Residensial</option><option value="Non Residensial">Non Residensial</option>';
+            $data['course']['sifat'] = '';
             $data['course']['jenis'] = '';
             $data['course']['user_name'] = '';
             $data['course']['user_ref'] = '';
@@ -311,26 +330,25 @@ class Course extends CI_Controller {
             $data['course']['invoice_masuk'] = '';
             $data['course']['nilai_invoice'] = '';
             $data['course']['fu_ke_finance'] = '';
-            
-            $opt_class=$this->mdl_sarfas->get_class();
-            $data['options_class']='';
+
+            $opt_class = $this->mdl_sarfas->get_class();
+            $data['options_class'] = '';
             foreach ($opt_class->result_array() as $row_class) {
-                $data['options_class'].='<option value="'.$row_class['class_name'].'">'.$row_class['class_name'].'</option>';
+                $data['options_class'] .= '<option value="' . $row_class['class_name'] . '">' . $row_class['class_name'] . '</option>';
             }
             $this->template->display('course/form', $data);
-            
         } else {
-             
-             if ($this->input->post('location')==19) {
-                $kelas=  $this->input->post('other');
-                $status=1;
-                }else{
-                $kelas=  $this->input->post('location');
-                $status=0;
-                }   
+
+            if ($this->input->post('location') == 19) {
+                $kelas =  $this->input->post('other');
+                $status = 1;
+            } else {
+                $kelas =  $this->input->post('location');
+                $status = 0;
+            }
             $course = array(
-                'course_id' => $this->input->post('kode'),                
-                'jenis' => $this->input->post('jenis'),                
+                'course_id' => $this->input->post('kode'),
+                'jenis' => $this->input->post('jenis'),
                 'activity' => $this->input->post('course_name'),
                 'class' => $kelas,
                 'start_date' => $this->input->post('start_date'),
@@ -364,82 +382,81 @@ class Course extends CI_Controller {
 
             $this->mdl_sarfas->add_schedule($course);
 
-          //  $this->mdl_course->create_chk_pnd($id_course);
-          //  $this->mdl_course->create_chk_gft($id_course);
-           // $this->mdl_course->create_chk_gsfa($id_course);
-           redirect('course/index');
+            //  $this->mdl_course->create_chk_pnd($id_course);
+            //  $this->mdl_course->create_chk_gft($id_course);
+            // $this->mdl_course->create_chk_gsfa($id_course);
+            redirect('course/index');
         }
     }
-    
-    function view_course($id) {
-        $data['title']='Detail Pelatihan';
-        $course=  $this->mdl_course->get_by_id($id)->row();
-             if (empty($course->kursil)) {
-             $kursil='<span class="label label-important">Belum Tersedia</span>';
-            }else{
-             $kursil= anchor('./assets/uploads/kursil/'.$course->kursil, 'Download', array('class'=>'label label-success'));
+
+    function view_course($id)
+    {
+        $data['title'] = 'Detail Pelatihan';
+        $course =  $this->mdl_course->get_by_id($id)->row();
+        if (empty($course->kursil)) {
+            $kursil = '<span class="label label-important">Belum Tersedia</span>';
+        } else {
+            $kursil = anchor('./assets/uploads/kursil/' . $course->kursil, 'Download', array('class' => 'label label-success'));
+        }
+
+        if (!empty($course->trainer)) {
+            $trainer =  explode('#', $course->trainer);
+            $isi_trainer = '';
+            for ($t = 0; $t < count($trainer); $t++) {
+                $isi_trainer .= $this->mdl_trainer->get_by_id($trainer[$t])->row()->name . '<br>';
             }
-            
-            if (!empty($course->trainer)) {
-            $trainer=  explode('#', $course->trainer);
-            $isi_trainer='';
-            for ($t=0;$t<count($trainer);$t++){
-             $isi_trainer.=$this->mdl_trainer->get_by_id($trainer[$t])->row()->name.'<br>';   
-            }
-            }  else {
-            $isi_trainer='Belum Tersedia';    
-            }
-            
-            if (!empty($course->provider)){
-                $provider=$this->mdl_provider->get_by_id($course->provider)->row()->name;
-            }else{
-                $provider='Belum Tersedia';
-            }
-            
-        $data['code']=$course->code;
-        $data['course_name']=$course->course_name;
-        $data['tgl_pelaksanaan']=  $this->editor->date_correct($course->start_date).'s/d'.$this->editor->date_correct($course->end_date);
-        $data['location']=$course->location;
-        $data['kursil']=$kursil;
-        $data['provider']=  $provider;
-        $data['trainer']=$isi_trainer;
-        
-        $this->template->display('course/view_course',$data);
+        } else {
+            $isi_trainer = 'Belum Tersedia';
+        }
+
+        if (!empty($course->provider)) {
+            $provider = $this->mdl_provider->get_by_id($course->provider)->row()->name;
+        } else {
+            $provider = 'Belum Tersedia';
+        }
+
+        $data['code'] = $course->code;
+        $data['course_name'] = $course->course_name;
+        $data['tgl_pelaksanaan'] =  $this->editor->date_correct($course->start_date) . 's/d' . $this->editor->date_correct($course->end_date);
+        $data['location'] = $course->location;
+        $data['kursil'] = $kursil;
+        $data['provider'] =  $provider;
+        $data['trainer'] = $isi_trainer;
+
+        $this->template->display('course/view_course', $data);
     }
 
     /*
      * Edit
      */
 
-    function edit($id) {
+    function edit($id)
+    {
         $data['title'] = 'Edit Course';
         $data['link_back'] = site_url('course/index');
         $data['action'] = 'course/edit/' . $id;
-        $data['code']=$this->mdl_course->get_by_id($id)->row()->code;
+        $data['code'] = $this->mdl_course->get_by_id($id)->row()->code;
         $this->_set_rules();
         if ($this->form_validation->run() === FALSE) {
             $data['course'] = $this->mdl_course->get_by_id($id)->row_array();
-            $data['course']['kursil2']=  $this->mdl_course->get_by_id($id)->row()->kursil;
-            $opt_class=$this->mdl_sarfas->get_class();
-            $data['options_class']='';
-            foreach ($opt_class->result_array() as $row_class) {               
-       
-            if($row_class['class_name'] == $data['course']['location'])
-	    {
-		$data['options_class'].='<option value="'.$row_class['class_name'].'" selected="selected">'.$row_class['class_name'].'</option>';
-	    }else{
-		$data['options_class'].='<option value="'.$row_class['class_name'].'">'.$row_class['class_name'].'</option>';
-	    }
-                
-            
+            $data['course']['kursil2'] =  $this->mdl_course->get_by_id($id)->row()->kursil;
+            $opt_class = $this->mdl_sarfas->get_class();
+            $data['options_class'] = '';
+            foreach ($opt_class->result_array() as $row_class) {
+
+                if ($row_class['class_name'] == $data['course']['location']) {
+                    $data['options_class'] .= '<option value="' . $row_class['class_name'] . '" selected="selected">' . $row_class['class_name'] . '</option>';
+                } else {
+                    $data['options_class'] .= '<option value="' . $row_class['class_name'] . '">' . $row_class['class_name'] . '</option>';
+                }
             }
-            
-            if ($data['course']['sifat']=='Residensial') {
-            $data['sifat']='<option value="Residensial" selected="selected">Residensial</option><option value="Non Residensial">Non Residensial</option>';
-            }  else {
-            $data['sifat']='<option value="Residensial">Residensial</option><option value="Non Residensial">Non Residensial</option>';                
+
+            if ($data['course']['sifat'] == 'Residensial') {
+                $data['sifat'] = '<option value="Residensial" selected="selected">Residensial</option><option value="Non Residensial">Non Residensial</option>';
+            } else {
+                $data['sifat'] = '<option value="Residensial">Residensial</option><option value="Non Residensial">Non Residensial</option>';
             }
-                $data['pic'] = $this->session->userdata('user_name');            
+            $data['pic'] = $this->session->userdata('user_name');
             /*
                 $provider = $this->mdl_provider->get_provider();
                 $data['options_provider'] = '';
@@ -455,7 +472,7 @@ class Course extends CI_Controller {
              */
 
 
-/*
+            /*
                 if ($data['course']['trainer'] == 0) {
                     $data['trainer'] = '<tr id="null_trainer"><td>Tidak ada data pengajar</td></tr>';
                 } else {
@@ -468,10 +485,8 @@ class Course extends CI_Controller {
                 }
  * 
  */
-                
-            
         } else {
-            
+
             /*   
            $this->upload->initialize(array(
                 'upload_path' => './assets/uploads/kursil/',
@@ -497,54 +512,54 @@ class Course extends CI_Controller {
                 }
  * 
  */
-                
-            if($this->input->post('location')=='other'){
-                
-            $course = array(
-           //     'plc_function_id' => $this->session->userdata('user_id'),
-               // 'code' => $this->input->post('code'),
-                'course_name' => $this->input->post('course_name'),
-                'batch' => $this->input->post('batch'),
-              //  'objective' => $this->input->post('objective'),
-              //  'material' => $this->input->post('material'),
-              //  'requirement' => $this->input->post('requirement'),
-              //  'duration' => $this->input->post('duration'),
-                'start_date' => $this->input->post('start_date'),
-                'end_date' => $this->input->post('end_date'),
-                'location' => $this->input->post('other'),
-          //      'kursil' => $kursil,
-              //  'provider' => $this->input->post('provider'),
-              //  'trainer' => $act_imp,
-              //  'sifat' => $this->input->post('sifat'),
-                'insert_date' => date('Y-m-d G:i:s'),
-                'update_date' => date('Y-m-d G:i:s')
-            );
-            $this->mdl_course->update($id,$course);                
-            }else{
-                 
-      
-              //  $location=  $this->mdl_sarfas->get_class_by_id($this->input->post('location'))->row()->class_name;
-                            $course = array(
-           //     'plc_function_id' => $this->session->userdata('user_id'),
-         //       'code' => $this->input->post('code'),
-                'course_name' => $this->input->post('course_name'),
-                'batch' => $this->input->post('batch'),
-              //  'objective' => $this->input->post('objective'),
-              //  'material' => $this->input->post('material'),
-              //  'requirement' => $this->input->post('requirement'),
-              //  'duration' => $this->input->post('duration'),
-                'start_date' => $this->input->post('start_date'),
-                'end_date' => $this->input->post('end_date'),
-                'location' => $this->input->post('location'),
-             //   'kursil' => $kursil,
-              //  'provider' => $this->input->post('provider'),
-              //  'trainer' => $act_imp,
-              //  'sifat' => $this->input->post('sifat'),
-                'insert_date' => date('Y-m-d G:i:s'),
-                'update_date' => date('Y-m-d G:i:s')
-            );
-            $this->mdl_course->update($id,$course);
- /*           
+
+            if ($this->input->post('location') == 'other') {
+
+                $course = array(
+                    //     'plc_function_id' => $this->session->userdata('user_id'),
+                    // 'code' => $this->input->post('code'),
+                    'course_name' => $this->input->post('course_name'),
+                    'batch' => $this->input->post('batch'),
+                    //  'objective' => $this->input->post('objective'),
+                    //  'material' => $this->input->post('material'),
+                    //  'requirement' => $this->input->post('requirement'),
+                    //  'duration' => $this->input->post('duration'),
+                    'start_date' => $this->input->post('start_date'),
+                    'end_date' => $this->input->post('end_date'),
+                    'location' => $this->input->post('other'),
+                    //      'kursil' => $kursil,
+                    //  'provider' => $this->input->post('provider'),
+                    //  'trainer' => $act_imp,
+                    //  'sifat' => $this->input->post('sifat'),
+                    'insert_date' => date('Y-m-d G:i:s'),
+                    'update_date' => date('Y-m-d G:i:s')
+                );
+                $this->mdl_course->update($id, $course);
+            } else {
+
+
+                //  $location=  $this->mdl_sarfas->get_class_by_id($this->input->post('location'))->row()->class_name;
+                $course = array(
+                    //     'plc_function_id' => $this->session->userdata('user_id'),
+                    //       'code' => $this->input->post('code'),
+                    'course_name' => $this->input->post('course_name'),
+                    'batch' => $this->input->post('batch'),
+                    //  'objective' => $this->input->post('objective'),
+                    //  'material' => $this->input->post('material'),
+                    //  'requirement' => $this->input->post('requirement'),
+                    //  'duration' => $this->input->post('duration'),
+                    'start_date' => $this->input->post('start_date'),
+                    'end_date' => $this->input->post('end_date'),
+                    'location' => $this->input->post('location'),
+                    //   'kursil' => $kursil,
+                    //  'provider' => $this->input->post('provider'),
+                    //  'trainer' => $act_imp,
+                    //  'sifat' => $this->input->post('sifat'),
+                    'insert_date' => date('Y-m-d G:i:s'),
+                    'update_date' => date('Y-m-d G:i:s')
+                );
+                $this->mdl_course->update($id, $course);
+                /*           
             Masukan Ke jadwal
                 $schedule=array(
                 'activity'=>  $this->input->post('course_name'),
@@ -557,16 +572,16 @@ class Course extends CI_Controller {
                 $this->mdl_sarfas->update_schedule($id,$schedule);  
              
   * 
-  */   
+  */
             }
-  
- 
+
+
             $this->session->set_flashdata('msg', $this->editor->alert_ok('Pelatihan berhasil diperbarui'));
             $data['course'] = $this->mdl_course->get_by_id($id)->row_array();
-            if ($this->session->userdata('user_id')==5) {
+            if ($this->session->userdata('user_id') == 5) {
                 redirect('peserta/index_pelatihan');
-            }  else {
-            redirect('course/index');    
+            } else {
+                redirect('course/index');
             }
         }
         $cat_list = $this->mdl_course->get_function()->result();
@@ -575,37 +590,36 @@ class Course extends CI_Controller {
         $this->template->display('course/form', $data);
     }
 
-    function duplicate($id) {
+    function duplicate($id)
+    {
         $data['title'] = 'Tambah Program';
         $data['link_back'] = site_url('course/index');
         $data['action'] = 'course/add';
-            $tahun=  date('y');
-            $bulan=  date('m');
-            $ran=rand(1, 100);
-            $data['code']=$tahun.$bulan.$ran;
-            $data['course'] = $this->mdl_course->get_by_id($id)->row_array();
-            
-                      
-            if ($data['course']['sifat']=='Residensial') {
-            $data['sifat']='<option value="Residensial" selected="selected">Residensial</option><option value="Non Residensial">Non Residensial</option>';
-            }  else {
-            $data['sifat']='<option value="Residensial">Residensial</option><option value="Non Residensial">Non Residensial</option>';                
+        $tahun =  date('y');
+        $bulan =  date('m');
+        $ran = rand(1, 100);
+        $data['code'] = $tahun . $bulan . $ran;
+        $data['course'] = $this->mdl_course->get_by_id($id)->row_array();
+
+
+        if ($data['course']['sifat'] == 'Residensial') {
+            $data['sifat'] = '<option value="Residensial" selected="selected">Residensial</option><option value="Non Residensial">Non Residensial</option>';
+        } else {
+            $data['sifat'] = '<option value="Residensial">Residensial</option><option value="Non Residensial">Non Residensial</option>';
+        }
+
+        $data['course']['kursil2'] = '';
+        $opt_class = $this->mdl_sarfas->get_class();
+        $data['options_class'] = '';
+        foreach ($opt_class->result_array() as $row_class) {
+
+            if ($row_class['class_name'] == $data['course']['location']) {
+                $data['options_class'] .= '<option value="' . $row_class['class_name'] . '" selected="selected">' . $row_class['class_name'] . '</option>';
+            } else {
+                $data['options_class'] .= '<option value="' . $row_class['class_name'] . '">' . $row_class['class_name'] . '</option>';
             }
-            
-            $data['course']['kursil2']= '';
-            $opt_class=$this->mdl_sarfas->get_class();
-            $data['options_class']='';
-            foreach ($opt_class->result_array() as $row_class) {               
-       
-            if($row_class['class_name'] == $data['course']['location'])
-	    {
-		$data['options_class'].='<option value="'.$row_class['class_name'].'" selected="selected">'.$row_class['class_name'].'</option>';
-	    }else{
-		$data['options_class'].='<option value="'.$row_class['class_name'].'">'.$row_class['class_name'].'</option>';
-	    }
-                
-            }
-            
+        }
+
         $data['pic_id'] = $this->session->userdata('user_id');
         $data['pic'] = $this->session->userdata('user_name');
         $data['trainer'] = NULL;
@@ -613,11 +627,13 @@ class Course extends CI_Controller {
     }
 
     // validation rules
-    function _set_rules() {
+    function _set_rules()
+    {
         $this->form_validation->set_rules('course_name', 'Nama Pelatihan', 'required|trim');
     }
 
-    function delete($id) {
+    function delete($id)
+    {
         $this->mdl_schedule->delete($id);
         $this->mdl_peserta->delete($id);
         $this->mdl_activity->delete($id);
@@ -626,15 +642,16 @@ class Course extends CI_Controller {
         $this->mdl_feedback->delete_course($id);
         $this->mdl_feedback->delete_trainer($id);
         $this->session->set_flashdata('msg', '<div class="alert alert-success">Course ' . $id . ' berhasil dihapus</div>');
-        if ($this->session->userdata('user_id')==5) {
-        redirect('peserta/index_pelatihan');    
-        }  else {
-        redirect('course');    
+        if ($this->session->userdata('user_id') == 5) {
+            redirect('peserta/index_pelatihan');
+        } else {
+            redirect('course');
         }
     }
 
     // Add coursil
-    function add_kursil($id) {
+    function add_kursil($id)
+    {
         if (empty($id)) {
             $this->session->set_flashdata('msg', '<div class="alert alert-error">Terjadi kesalahan</div>');
             redirect('course');
@@ -650,7 +667,7 @@ class Course extends CI_Controller {
                 $provider = $this->mdl_provider->get_index($provider_name, $limit = 10, $offset = 0);
                 $data['options_provider'] = '';
                 foreach ($provider->result_array() as $row_provider) {
-                    $data['options_provider'].='<option value="' . $row_provider['id'] . '">' . $row_provider['name'] . '</option>';
+                    $data['options_provider'] .= '<option value="' . $row_provider['id'] . '">' . $row_provider['name'] . '</option>';
                 }
                 $data['kursil']['plc_provider_id'] = '';
                 $data['kursil']['purpose'] = $this->mdl_course->tmpl(1)->row()->text;
@@ -688,7 +705,8 @@ class Course extends CI_Controller {
     }
 
     //autoComplete Trainer
-    function lookup() {
+    function lookup()
+    {
         // process posted form data (the requested items like province)
         $keyword = $this->input->post('term');
         $data['response'] = 'false'; //Set default response
@@ -714,7 +732,8 @@ class Course extends CI_Controller {
         }
     }
     //autoComplete Program
-    function lookup_course() {
+    function lookup_course()
+    {
         // process posted form data (the requested items like province)
         $keyword = $this->input->post('term');
         $data['response'] = 'false'; //Set default response
@@ -741,7 +760,8 @@ class Course extends CI_Controller {
     }
 
     // Edit coursil
-    function edit_kursil($id) {
+    function edit_kursil($id)
+    {
         if (empty($id)) {
             $this->session->set_flashdata('msg', '<div class="alert alert-error">Terjadi kesalahan</div>');
             redirect('course/index');
@@ -756,7 +776,7 @@ class Course extends CI_Controller {
                 $data['pic'] = $this->session->userdata('user_name');
                 $data['options_provider'] = '';
                 foreach ($provider->result_array() as $row_provider) {
-                    $data['options_provider'].='<option value="' . $row_provider['id'] . '">' . $row_provider['name'] . '</option>';
+                    $data['options_provider'] .= '<option value="' . $row_provider['id'] . '">' . $row_provider['name'] . '</option>';
                 }
 
 
@@ -767,7 +787,7 @@ class Course extends CI_Controller {
                     $data['trainer'] = '';
                     foreach ($trainers as $row_trainer) {
                         $tbl_trainer = $this->mdl_trainer->get_by_id($row_trainer)->row();
-                        $data['trainer'].= '<tr><td>' . $tbl_trainer->name . anchor('#', '<i class="icon-remove"></i>', 'class="remove_trainer"') . '<input type="hidden" name="trainer[]" value="' . $row_trainer . '"></td></tr>';
+                        $data['trainer'] .= '<tr><td>' . $tbl_trainer->name . anchor('#', '<i class="icon-remove"></i>', 'class="remove_trainer"') . '<input type="hidden" name="trainer[]" value="' . $row_trainer . '"></td></tr>';
                     }
                 }
 
@@ -803,12 +823,14 @@ class Course extends CI_Controller {
     }
 
     // Set Rules Kursil
-    function _set_rules_kursil() {
+    function _set_rules_kursil()
+    {
         $this->form_validation->set_rules('plc_provider_id', 'Provider', 'required');
     }
 
     // Detail kursil
-    function kursil($id) {
+    function kursil($id)
+    {
         if ($this->mdl_course->get_kursil_by_course($id)->num_rows() <= 0) {
             $this->session->set_flashdata('msg', $this->editor->alert_warning('Kursil belum tersedia'));
             redirect('course/add_kursil/' . $id);
@@ -824,12 +846,12 @@ class Course extends CI_Controller {
                 $i = 0;
                 foreach ($trainers as $row_trainer) {
                     $tbl_trainer = $this->mdl_trainer->get_by_id($row_trainer)->row();
-                    $data['trainer'].='<tr>';
-                    $data['trainer'].='<td width="20"><div align="center">' . ++$i . '</div></td>';
-                    $data['trainer'].='<td>' . anchor('trainer/detail/' . $tbl_trainer->id, $tbl_trainer->name, array('rel' => 'tooltip', 'title' => 'Lihat data pengajar')) . '</td>';
-                    $data['trainer'].='<td>' . $tbl_trainer->job_experience . '</td>';
-                    $data['trainer'].='<td>' . $tbl_trainer->certification . '</td>';
-                    $data['trainer'].='</tr>';
+                    $data['trainer'] .= '<tr>';
+                    $data['trainer'] .= '<td width="20"><div align="center">' . ++$i . '</div></td>';
+                    $data['trainer'] .= '<td>' . anchor('trainer/detail/' . $tbl_trainer->id, $tbl_trainer->name, array('rel' => 'tooltip', 'title' => 'Lihat data pengajar')) . '</td>';
+                    $data['trainer'] .= '<td>' . $tbl_trainer->job_experience . '</td>';
+                    $data['trainer'] .= '<td>' . $tbl_trainer->certification . '</td>';
+                    $data['trainer'] .= '</tr>';
                 }
             }
 
@@ -854,14 +876,15 @@ class Course extends CI_Controller {
             foreach ($days as $key => $value) {
 
                 $data['jadwal'] .= anchor('#lihat_jadwal' . $value, $this->editor->date_correct($value), array('class' => 'btn btn-success', 'data-toggle' => 'modal', 'rel' => 'tooltip', 'title' => 'Lihat Jadwal Pembelajaran')) . ' ';
-                $data['lihat_jadwal'].=$this->editor->modal_jadwal($id, $value);
+                $data['lihat_jadwal'] .= $this->editor->modal_jadwal($id, $value);
             }
 
             $this->template->display('course/kursil', $data);
         }
     }
 
-    function delete_kursil($id) {
+    function delete_kursil($id)
+    {
         if (!isset($id)) {
             $this->session->set_flashdata('msg', '<div class="alert alert-error">Terjadi kesalahan</div>');
             redirect('course');
@@ -872,7 +895,8 @@ class Course extends CI_Controller {
         }
     }
 
-    protected function explode_s($r) {
+    protected function explode_s($r)
+    {
         $s = explode("#", $r);
         if (!empty($s[1])) {
             $q = $this->mdl_trainer->get_by_id($s[1])->row()->name;
@@ -883,7 +907,8 @@ class Course extends CI_Controller {
         }
     }
 
-    protected function cek_kelengkapan($id) {
+    protected function cek_kelengkapan($id)
+    {
         $q = $this->mdl_course->get_activity_by_course($id);
         $val = TRUE;
         if ($q->num_rows() <= 0) {
@@ -901,7 +926,8 @@ class Course extends CI_Controller {
         }
     }
 
-    function cancel($id) {
+    function cancel($id)
+    {
         $date_now = $this->editor->date_correct(date('Y-m-d'));
         $data = array(
             'status' => '2#' . $date_now . '#' . $this->input->post('ket'),
@@ -911,7 +937,8 @@ class Course extends CI_Controller {
         redirect('course');
     }
 
-    function close($id) {
+    function close($id)
+    {
         $date_now = $this->editor->date_correct(date('Y-m-d'));
         $data = array(
             'status' => '1#' . $date_now,
@@ -921,7 +948,8 @@ class Course extends CI_Controller {
         redirect('course');
     }
 
-    function tambah_jadwal($course_id) {
+    function tambah_jadwal($course_id)
+    {
         $data = array(
             'plc_course_id' => $course_id,
             'tanggal' => $this->input->post('tanggal'),
@@ -932,7 +960,8 @@ class Course extends CI_Controller {
         redirect('course/kursil/' . $course_id);
     }
 
-    function getDatesBetween2Dates($startTime, $endTime) {
+    function getDatesBetween2Dates($startTime, $endTime)
+    {
         $day = 86400;
         $format = 'Y-m-d';
         $startTime = strtotime($startTime);
@@ -947,8 +976,9 @@ class Course extends CI_Controller {
         return $days;
     }
 
-//upload excel
-    function do_upload() {
+    //upload excel
+    function do_upload()
+    {
         $this->load->library('upload');
         $config['upload_path'] = './assets/uploads/';
         $config['allowed_types'] = 'xls';
@@ -967,19 +997,19 @@ class Course extends CI_Controller {
             $this->spreadsheet_excel_reader->setOutputEncoding('CP1251');
 
             $file = $upload_data['full_path'];
-           
+
             $this->spreadsheet_excel_reader->read($file);
             error_reporting(E_ALL ^ E_NOTICE);
 
             // Sheet 1
-          $data=  $this->spreadsheet_excel_reader->sheets[0];
-            $dataexcel = Array();
+            $data =  $this->spreadsheet_excel_reader->sheets[0];
+            $dataexcel = array();
             for ($i = 1; $i <= $data['numRows']; $i++) {
 
                 if ($data['cells'][$i][1] == '')
                     break;
 
-                $dataexcel[$i-1]['plc_function_id'] = $this->session->userdata('user_id') ;
+                $dataexcel[$i - 1]['plc_function_id'] = $this->session->userdata('user_id');
                 $dataexcel[$i - 1]['code'] = $data['cells'][$i][1];
                 $dataexcel[$i - 1]['course_name'] = $data['cells'][$i][2];
                 $dataexcel[$i - 1]['objective'] = $data['cells'][$i][3];
@@ -990,9 +1020,8 @@ class Course extends CI_Controller {
                 $dataexcel[$i - 1]['end_date'] = $data['cells'][$i][8];
                 $dataexcel[$i - 1]['location'] = $data['cells'][$i][9];
                 $dataexcel[$i - 1]['sifat'] = $data['cells'][$i][10];
-            
             }
-            
+
 
 
 
@@ -1001,9 +1030,10 @@ class Course extends CI_Controller {
         }
         redirect("course");
     }
-    
-    
-    function search($offset=0) {
+
+
+    function search($offset = 0)
+    {
         $data['title'] = 'Pencarian Program';
         $this->load->helper('dompdf');
         $this->load->library('pagination');
@@ -1022,37 +1052,37 @@ class Course extends CI_Controller {
         $this->load->library('table');
         $this->table->set_empty('&nbsp;');
         $this->table->set_heading(
-                'No', 
-                'Kode', 
-                'Nama Pelatihan', 
-          //      'Sasaran', 
+            'No',
+            'Kode',
+            'Nama Pelatihan',
+            //      'Sasaran', 
             //    'Materi', 
-             //   'Persaratan Peserta', 
-                array('data' => 'Tanggal Pelaksanaan', 'width' => '180'), 
-             //   'Durasi', 
-                'Lokasi', 
-             //   'Kursil', 
-             //   array('data' => 'Status', 'width' => '90'), 
-             //   array('data' => 'Tanggal Inisiasi', 'width' => '90'), 
-             //   array('data' => 'Update Terakhir', 'width' => '90'), 
-             //   array('data'=>'Aktifitas','width'=>'30'), 
-                array('data' => 'Action', 'colspan' => 3, 'width' => '10')
+            //   'Persaratan Peserta', 
+            array('data' => 'Tanggal Pelaksanaan', 'width' => '180'),
+            //   'Durasi', 
+            'Lokasi',
+            //   'Kursil', 
+            //   array('data' => 'Status', 'width' => '90'), 
+            //   array('data' => 'Tanggal Inisiasi', 'width' => '90'), 
+            //   array('data' => 'Update Terakhir', 'width' => '90'), 
+            //   array('data'=>'Aktifitas','width'=>'30'), 
+            array('data' => 'Action', 'colspan' => 3, 'width' => '10')
         );
         $month = $this->input->post('month');
         $year = $this->input->post('year');
         $course_name = $this->input->post('course_name');
         $location = $this->input->post('location');
-        $q = $this->mdl_course->get_index($this->limit, $offset, $month,$year, $course_name,$location)->result_array();
+        $q = $this->mdl_course->get_index($this->limit, $offset, $month, $year, $course_name, $location)->result_array();
         $data['excel'] = anchor('course/to_exel/' . $month . '/' . $course_name, '<i class="icon-list icon-white"></i>&nbsp;Download Excel', array('class' => 'btn btn-success', 'rel' => 'tooltip', 'title' => 'Download Excel'));
         $i = 0 + $offset;
         $data['aktifitas'] = '';
         $data['cancel'] = '';
         $data['popup'] = '';
         foreach ($q as $row) {
- //           $start_date = $this->mdl_course->get_by_id($row['id'])->row()->start_date;
-  //          $end_date = $this->mdl_course->get_by_id($row['id'])->row()->end_date;
-  //          $selisih = strtotime($end_date) - strtotime($start_date);
-/*
+            //           $start_date = $this->mdl_course->get_by_id($row['id'])->row()->start_date;
+            //          $end_date = $this->mdl_course->get_by_id($row['id'])->row()->end_date;
+            //          $selisih = strtotime($end_date) - strtotime($start_date);
+            /*
             $data['jml_date'] = $selisih / (60 * 60 * 24);
             if ($this->mdl_course->get_kursil_by_course($row['id'])->num_rows() <= 0) {
                 $lbl_kursil = '<span class="label label-error">Belum Lengkap</span>';
@@ -1110,56 +1140,53 @@ class Course extends CI_Controller {
                 $delete = '<i class="icon-trash"></i>';
                 $duplicate = '<i class="icon-plus-sign"></i>';
             }
-//            $kursil_btn = anchor('course/kursil/' . $row['id'], '<i class="icon-search icon-white"></i>', array('class' => 'btn btn-primary', 'rel' => 'tooltip', 'title' => $rel_kursil));
-  //          $view_btn = anchor('course/view_course/' . $row['id'], '<i class="icon-search icon-white"></i>', array('class' => 'btn btn-primary', 'rel' => 'tooltip', 'title' => $rel_kursil));
+            //            $kursil_btn = anchor('course/kursil/' . $row['id'], '<i class="icon-search icon-white"></i>', array('class' => 'btn btn-primary', 'rel' => 'tooltip', 'title' => $rel_kursil));
+            //          $view_btn = anchor('course/view_course/' . $row['id'], '<i class="icon-search icon-white"></i>', array('class' => 'btn btn-primary', 'rel' => 'tooltip', 'title' => $rel_kursil));
 
             if (is_numeric($row['location'])) {
-                $lokasi=  $this->mdl_sarfas->get_class_by_id($row['location'])->row()->class_name;
-            }else{
-                $lokasi=$row['location'];
+                $lokasi =  $this->mdl_sarfas->get_class_by_id($row['location'])->row()->class_name;
+            } else {
+                $lokasi = $row['location'];
             }
             if (empty($row['kursil'])) {
-                $kursil='<span class="label label-important">Belum Tersedia</span>';
-            }  else {
-                $kursil=  anchor('./assets/uploads/kursil/'.$row['kursil'], 'Download', array('class'=>'label label-success'));
+                $kursil = '<span class="label label-important">Belum Tersedia</span>';
+            } else {
+                $kursil =  anchor('./assets/uploads/kursil/' . $row['kursil'], 'Download', array('class' => 'label label-success'));
             }
 
             $data['pic'] = $this->mdl_course->get_function_by_id($row['plc_function_id'])->row()->name;
-            if ($this->session->userdata('chk')==NULL) {
-                $chk='chk_umum';
-
-            }else{
-                $chk=$this->session->userdata('chk');                
+            if ($this->session->userdata('chk') == NULL) {
+                $chk = 'chk_umum';
+            } else {
+                $chk = $this->session->userdata('chk');
             }
             $this->table->add_row(
-                    ++$i, 
-                    $row['code'], 
- anchor('monitoring/'.$chk.'/'.$row['id'], $row['course_name'].' '.$row['batch']), 
-                   // $row['objective'], 
-                   // $row['material'], 
-                   // $row['requirement'], 
-                    $this->editor->date_correct($row['start_date']).' s/d '.$this->editor->date_correct($row['end_date']), 
-                    $lokasi, 
-               //     $kursil, 
-                   // $row['duration'] . ' Hari', 
-                   // $data['pic'], 
-                   // $status, 
-                   // $this->editor->date_correct($row['insert_date']), 
-                   // $this->editor->date_correct($row['update_date']), 
-                 //   anchor('#aktifitas' . $row['id'], '<i class="icon-search icon-white"></i>', array('class' => 'btn btn-success', 'rel' => 'tooltip', 'title' => 'Klik untuk melihat aktifitas', 'data-toggle' => 'modal')), 
-                    array('data' => $edit, 'width' => 10), 
-                    array('data' => $delete, 'width' => 10), 
-                    array('data' => $duplicate, 'width' => 10));
-            
-  //          $data['aktifitas'].=$this->editor->modal_aktifitas($row['id'], $view_btn, $lbl_kursil, $kelengkapan_btn, $lbl_activity, $peserta_btn, $lbl_peserta);
+                ++$i,
+                $row['code'],
+                anchor('monitoring/' . $chk . '/' . $row['id'], $row['course_name'] . ' ' . $row['batch']),
+                // $row['objective'], 
+                // $row['material'], 
+                // $row['requirement'], 
+                $this->editor->date_correct($row['start_date']) . ' s/d ' . $this->editor->date_correct($row['end_date']),
+                $lokasi,
+                //     $kursil, 
+                // $row['duration'] . ' Hari', 
+                // $data['pic'], 
+                // $status, 
+                // $this->editor->date_correct($row['insert_date']), 
+                // $this->editor->date_correct($row['update_date']), 
+                //   anchor('#aktifitas' . $row['id'], '<i class="icon-search icon-white"></i>', array('class' => 'btn btn-success', 'rel' => 'tooltip', 'title' => 'Klik untuk melihat aktifitas', 'data-toggle' => 'modal')), 
+                array('data' => $edit, 'width' => 10),
+                array('data' => $delete, 'width' => 10),
+                array('data' => $duplicate, 'width' => 10)
+            );
+
+            //          $data['aktifitas'].=$this->editor->modal_aktifitas($row['id'], $view_btn, $lbl_kursil, $kelengkapan_btn, $lbl_activity, $peserta_btn, $lbl_peserta);
         }
         $this->table->set_template(array('table_open' => '<table class="table table-bordered">'));
         $data['content'] = $this->table->generate();
         $this->template->display('course/search', $data);
-
-
     }
-
 }
 
 /* End of file course.php */

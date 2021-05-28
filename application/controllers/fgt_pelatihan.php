@@ -1872,5 +1872,3 @@ if (empty($plan['bap_pelatihan'])||empty($plan['cetak_sertifikat'])||empty($plan
 
 
 }
-
-?>

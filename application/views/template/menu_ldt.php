@@ -15,7 +15,7 @@
                         <b class="caret"></b>
                     </a>
                     <ul class="dropdown-menu">
-                      <!--  <li><a href="learn"><i class="icon-list-alt"></i> Tugas Belajar</a></li>
+                        <!--  <li><a href="learn"><i class="icon-list-alt"></i> Tugas Belajar</a></li>
                         <li><a href="learn/add"><i class="icon-plus"></i> Tambah Tugas Belajar</a></li>
                         <li class="divider"></li>
 -->
@@ -36,26 +36,27 @@
                     </a>
                     <ul class="dropdown-menu">
                         <li><a href="carpar/index_user"><i class="icon-list-alt"></i> CAR / PAR P&D</a></li>
- 
+
 
                     </ul>
                 </li>
             </ul>
-	    <ul class="nav pull-right">
+            <ul class="nav pull-right">
                 <li class="dropdown" id="menu1">
                     <a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="#">
-                        <?php echo $this->session->userdata('user_name');?>
+                        <?php echo $this->session->userdata('user_name'); ?>
                         <b class="caret"></b>
                     </a>
                     <ul class="dropdown-menu">
                         <li class="divider"></li>
-                        <li><a href="user/profile/<?php echo $this->session->userdata('user_id');?>" class="active">Profile</a></li>
+                        <li><a href="user/profile/<?php echo $this->session->userdata('user_id'); ?>"
+                                class="active">Profile</a></li>
                         <li class="divider"></li>
                         <li><a href="login/logout" class="active">Logout</a></li>
                     </ul>
                 </li>
-		
-	    </ul>
+
+            </ul>
         </div>
     </div>
 </div>

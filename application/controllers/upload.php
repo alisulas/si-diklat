@@ -1,6 +1,7 @@
-<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
 
-class Upload extends Member_Controller {
+class Upload extends Member_Controller
+{
 
     function Upload()
     {
@@ -28,17 +29,12 @@ class Upload extends Member_Controller {
 
         $files = $this->multi_upload->go_upload();
 
-        if ( ! $files )
-        {
+        if (!$files) {
             $error = array('error' => $this->upload->display_errors());
             $this->load->view('upload_form', $error);
-        }
-        else
-        {
+        } else {
             $data = array('upload_data' => $files);
             $this->load->view('upload_success', $data);
         }
     }
-
 }
-?>

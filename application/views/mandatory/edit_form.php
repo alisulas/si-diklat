@@ -35,13 +35,13 @@
         <td>:</td>
         <td>
             <?php
-            if ($mandatory['rnr']=='R') {
+            if ($mandatory['rnr'] == 'R') {
                 echo '<input type="radio" value ="R" name="rnr" checked>&nbsp; R &nbsp;<input type="radio" value ="NR" name="rnr">&nbsp;NR';
-}  else {
-    echo '<input type="radio" value ="R" name="rnr">&nbsp; R &nbsp;<input type="radio" checked value ="NR" name="rnr">&nbsp;NR';    
-}
+            } else {
+                echo '<input type="radio" value ="R" name="rnr">&nbsp; R &nbsp;<input type="radio" checked value ="NR" name="rnr">&nbsp;NR';
+            }
             ?>
-            
+
         </td>
     </tr>
     <tr>
@@ -49,12 +49,12 @@
         <td>:</td>
         <td>
             <?php
-if ($mandatory['ihp']=='IH') {
-    echo '<input type="radio" value ="IH" name="ihp" checked >&nbsp; IH &nbsp;<input type="radio" value ="P" name="ihp">&nbsp;P';                
-}  else {
-    echo '<input type="radio" value ="IH" name="ihp">&nbsp; IH &nbsp;<input type="radio" value ="P" name="ihp" checked >&nbsp;P';    
-}
-            ?>            
+            if ($mandatory['ihp'] == 'IH') {
+                echo '<input type="radio" value ="IH" name="ihp" checked >&nbsp; IH &nbsp;<input type="radio" value ="P" name="ihp">&nbsp;P';
+            } else {
+                echo '<input type="radio" value ="IH" name="ihp">&nbsp; IH &nbsp;<input type="radio" value ="P" name="ihp" checked >&nbsp;P';
+            }
+            ?>
         </td>
     </tr>
     <tr>
@@ -90,42 +90,42 @@ if ($mandatory['ihp']=='IH') {
 </table>
 <br>
 <br>
-<input type="submit" class="btn btn-primary" value="Simpan"><?php echo anchor('mandatory/index', 'Kembali', array('class'=>'btn')); ?>
+<input type="submit" class="btn btn-primary"
+    value="Simpan"><?php echo anchor('mandatory/index', 'Kembali', array('class' => 'btn')); ?>
 <?php echo form_close(); ?>
 
 <script type="text/javascript">
-$(function () {
- 
+$(function() {
+
     $("#datepicker1").datepicker({
-            changeMonth: true,
-            changeYear: true,
-            altFormat: 'yy-mm-dd',
-            dateFormat: 'yy-mm-dd'
+        changeMonth: true,
+        changeYear: true,
+        altFormat: 'yy-mm-dd',
+        dateFormat: 'yy-mm-dd'
     });
     $("#datepicker2").datepicker({
-            changeMonth: true,
-            changeYear: true,
-            altFormat: 'yy-mm-dd',
-            dateFormat: 'yy-mm-dd'
+        changeMonth: true,
+        changeYear: true,
+        altFormat: 'yy-mm-dd',
+        dateFormat: 'yy-mm-dd'
     });
     $("#datepicker3").datepicker({
-            changeMonth: true,
-            changeYear: true,
-            altFormat: 'yy-mm-dd',
-            dateFormat: 'yy-mm-dd'
+        changeMonth: true,
+        changeYear: true,
+        altFormat: 'yy-mm-dd',
+        dateFormat: 'yy-mm-dd'
     });
     $("#datepicker4").datepicker({
-            changeMonth: true,
-            changeYear: true,
-            altFormat: 'yy-mm-dd',
-            dateFormat: 'yy-mm-dd'
+        changeMonth: true,
+        changeYear: true,
+        altFormat: 'yy-mm-dd',
+        dateFormat: 'yy-mm-dd'
     });
     $("#datepicker5").datepicker({
-            changeMonth: true,
-            changeYear: true,
-            altFormat: 'yy-mm-dd',
-            dateFormat: 'yy-mm-dd'
+        changeMonth: true,
+        changeYear: true,
+        altFormat: 'yy-mm-dd',
+        dateFormat: 'yy-mm-dd'
     });
 });
-
 </script>
