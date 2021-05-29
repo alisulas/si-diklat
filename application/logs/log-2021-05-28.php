@@ -513,3 +513,87 @@ DEBUG - 2021-05-28 09:03:42 --> Table Class Initialized
 DEBUG - 2021-05-28 09:03:42 --> DB Transaction Failure
 ERROR - 2021-05-28 09:03:42 --> Query error: Unknown column 'status' in 'where clause'
 DEBUG - 2021-05-28 09:03:42 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2021-05-28 10:36:20 --> Config Class Initialized
+DEBUG - 2021-05-28 10:36:20 --> Hooks Class Initialized
+DEBUG - 2021-05-28 10:36:20 --> Utf8 Class Initialized
+DEBUG - 2021-05-28 10:36:20 --> UTF-8 Support Enabled
+DEBUG - 2021-05-28 10:36:20 --> URI Class Initialized
+DEBUG - 2021-05-28 10:36:20 --> Router Class Initialized
+DEBUG - 2021-05-28 10:36:20 --> Output Class Initialized
+DEBUG - 2021-05-28 10:36:20 --> Security Class Initialized
+DEBUG - 2021-05-28 10:36:20 --> Input Class Initialized
+DEBUG - 2021-05-28 10:36:20 --> XSS Filtering completed
+DEBUG - 2021-05-28 10:36:20 --> XSS Filtering completed
+DEBUG - 2021-05-28 10:36:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-28 10:36:20 --> Language Class Initialized
+DEBUG - 2021-05-28 10:36:20 --> Loader Class Initialized
+DEBUG - 2021-05-28 10:36:20 --> Helper loaded: url_helper
+DEBUG - 2021-05-28 10:36:20 --> Helper loaded: form_helper
+DEBUG - 2021-05-28 10:36:20 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-28 10:36:20 --> Database Driver Class Initialized
+DEBUG - 2021-05-28 10:36:20 --> Session Class Initialized
+DEBUG - 2021-05-28 10:36:20 --> Helper loaded: string_helper
+DEBUG - 2021-05-28 10:36:20 --> Encrypt Class Initialized
+DEBUG - 2021-05-28 10:36:21 --> Session routines successfully run
+DEBUG - 2021-05-28 10:36:21 --> Model Class Initialized
+DEBUG - 2021-05-28 10:36:21 --> Model Class Initialized
+DEBUG - 2021-05-28 10:36:21 --> Model Class Initialized
+DEBUG - 2021-05-28 10:36:21 --> Model Class Initialized
+DEBUG - 2021-05-28 10:36:21 --> Model Class Initialized
+DEBUG - 2021-05-28 10:36:21 --> Model Class Initialized
+DEBUG - 2021-05-28 10:36:21 --> Model Class Initialized
+DEBUG - 2021-05-28 10:36:21 --> Model Class Initialized
+DEBUG - 2021-05-28 10:36:21 --> Model Class Initialized
+DEBUG - 2021-05-28 10:36:21 --> Model Class Initialized
+DEBUG - 2021-05-28 10:36:21 --> Controller Class Initialized
+DEBUG - 2021-05-28 10:36:21 --> Model Class Initialized
+DEBUG - 2021-05-28 10:36:21 --> Form Validation Class Initialized
+DEBUG - 2021-05-28 10:36:21 --> Upload Class Initialized
+DEBUG - 2021-05-28 10:36:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-28 10:36:21 --> Helper loaded: file_helper
+DEBUG - 2021-05-28 10:36:21 --> Table Class Initialized
+DEBUG - 2021-05-28 10:36:21 --> DB Transaction Failure
+ERROR - 2021-05-28 10:36:21 --> Query error: Unknown column 'status' in 'where clause'
+DEBUG - 2021-05-28 10:36:21 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2021-05-28 10:42:17 --> Config Class Initialized
+DEBUG - 2021-05-28 10:42:17 --> Hooks Class Initialized
+DEBUG - 2021-05-28 10:42:18 --> Utf8 Class Initialized
+DEBUG - 2021-05-28 10:42:18 --> UTF-8 Support Enabled
+DEBUG - 2021-05-28 10:42:18 --> URI Class Initialized
+DEBUG - 2021-05-28 10:42:18 --> Router Class Initialized
+DEBUG - 2021-05-28 10:42:18 --> Output Class Initialized
+DEBUG - 2021-05-28 10:42:18 --> Security Class Initialized
+DEBUG - 2021-05-28 10:42:18 --> Input Class Initialized
+DEBUG - 2021-05-28 10:42:18 --> XSS Filtering completed
+DEBUG - 2021-05-28 10:42:18 --> XSS Filtering completed
+DEBUG - 2021-05-28 10:42:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-28 10:42:18 --> Language Class Initialized
+DEBUG - 2021-05-28 10:42:18 --> Loader Class Initialized
+DEBUG - 2021-05-28 10:42:18 --> Helper loaded: url_helper
+DEBUG - 2021-05-28 10:42:18 --> Helper loaded: form_helper
+DEBUG - 2021-05-28 10:42:18 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-28 10:42:18 --> Database Driver Class Initialized
+DEBUG - 2021-05-28 10:42:18 --> Session Class Initialized
+DEBUG - 2021-05-28 10:42:18 --> Helper loaded: string_helper
+DEBUG - 2021-05-28 10:42:18 --> Encrypt Class Initialized
+DEBUG - 2021-05-28 10:42:18 --> Session routines successfully run
+DEBUG - 2021-05-28 10:42:18 --> Model Class Initialized
+DEBUG - 2021-05-28 10:42:18 --> Model Class Initialized
+DEBUG - 2021-05-28 10:42:18 --> Model Class Initialized
+DEBUG - 2021-05-28 10:42:18 --> Model Class Initialized
+DEBUG - 2021-05-28 10:42:18 --> Model Class Initialized
+DEBUG - 2021-05-28 10:42:18 --> Model Class Initialized
+DEBUG - 2021-05-28 10:42:18 --> Model Class Initialized
+DEBUG - 2021-05-28 10:42:18 --> Model Class Initialized
+DEBUG - 2021-05-28 10:42:18 --> Model Class Initialized
+DEBUG - 2021-05-28 10:42:18 --> Model Class Initialized
+DEBUG - 2021-05-28 10:42:18 --> Controller Class Initialized
+DEBUG - 2021-05-28 10:42:18 --> Model Class Initialized
+DEBUG - 2021-05-28 10:42:18 --> Form Validation Class Initialized
+DEBUG - 2021-05-28 10:42:18 --> Upload Class Initialized
+DEBUG - 2021-05-28 10:42:18 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-28 10:42:18 --> Helper loaded: file_helper
+DEBUG - 2021-05-28 10:42:18 --> Table Class Initialized
+DEBUG - 2021-05-28 10:42:18 --> DB Transaction Failure
+ERROR - 2021-05-28 10:42:18 --> Query error: Unknown column 'status' in 'where clause'
+DEBUG - 2021-05-28 10:42:18 --> Language file loaded: language/english/db_lang.php
