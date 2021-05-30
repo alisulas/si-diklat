@@ -19,9 +19,12 @@ class Aku extends CI_Controller {
 
 
 function index(){
-    $tbl_function = $this->mdl_course->get_function()->result();
-    print_r($tbl_function);
-    echo "HALLO";
+    $data = $this->mdl_user->get_index()->result_array();
+
+
+    
+    print("<pre>".print_r($data, true)."</pre>");
+    // d($data);
 }
 
 

@@ -41,6 +41,7 @@ class User extends Member_Controller
             $edit =  anchor('user/edit/' . $row['id'], '<i class="icon-wrench"></i>', array('rel' => 'tooltip', 'title' => 'Edit'));
             $delete =  anchor('user/delete/' . $row['id'], '<i class="icon-trash"></i>', array('onclick' => "return confirm('Apakah Anda yakin akan menghapus data?')", 'rel' => 'tooltip', 'title' => 'Delete'));
             $fungsi =  $this->mdl_user->get_function_by_id($row['fungsi'])->row()->name;
+            // $fungsii =  $fungsi2['name'];
             $this->table->add_row(
                 array('data' => ++$i, 'width' => 15),
                 $row['username'],
@@ -190,6 +191,8 @@ class User extends Member_Controller
         $data['user'] = $this->mdl_user->get_by_id($id)->row_array();
         $data['action'] = 'user/change_pwd/' . $id;
         $data['fungsi'] = $this->mdl_user->get_function_by_id($data['user']['fungsi'])->row()->name;
+        $dataku = $this->mdl_user->get_function_by_id($data['user']['fungsi'])->row()->name;
+        $dataku2 = $data['user']['fungsi'];
         switch ($data['user']['role']) {
             case 1:
                 $data['role'] = 'Manager';
@@ -201,8 +204,9 @@ class User extends Member_Controller
                 $data['role'] = '';
                 break;
         }
-        // print_r($dataku);
-        // echo '<br>';
+        print_r($dataku);
+        echo '<br>';
+        print_r($dataku2);
         $this->template->display('user/profile', $data);
     }
 
@@ -226,7 +230,7 @@ class User extends Member_Controller
     function cek_status($id)
     {
         switch ($id) {
-            case 0:
+            case 2:
                 $st = '<span class="label label-important">Non Aktif</span>';
                 break;
             case 1:

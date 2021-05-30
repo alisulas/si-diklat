@@ -54,7 +54,7 @@
 function cek_status($id)
 {
     switch ($id) {
-        case 0:
+        case 2:
             $cek = '<input type="radio" name="status" value="1">&nbsp;<span class="label label-info">Aktif</span><br><input  checked="true" type="radio" name="status" value="0">&nbsp;<span class="label label-important">Non Aktif</span>';
             break;
         case 1:

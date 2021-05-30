@@ -49,9 +49,12 @@
     </tr>
     <tr>
         <td>Status</td>
-        <td><input type="radio" name="status" value="1" checked="true">&nbsp;<span
-                class="label label-info">Aktif</span><br><input type="radio" name="status" value="0">&nbsp;<span
-                class="label label-important">Non Aktif</span></td>
+        <td>
+            <input type="radio" name="status" value="1" checked="true">&nbsp;
+                <span class="label label-info">Aktif</span><br>
+            <input type="radio" name="status" value="2">&nbsp;
+                <span class="label label-important">Non Aktif</span>
+        </td>
     </tr>
 </table>
 <a class="btn" href="user" data-original-title=""><i class="icon-hand-left"></i> Kembali ke list</a>

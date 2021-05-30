@@ -7120,3 +7120,9831 @@ DEBUG - 2021-05-30 13:04:56 --> File loaded: application/views/template/menu_ldt
 DEBUG - 2021-05-30 13:04:56 --> File loaded: application/views//template/template.php
 DEBUG - 2021-05-30 13:04:56 --> Final output sent to browser
 DEBUG - 2021-05-30 13:04:56 --> Total execution time: 0.1114
+DEBUG - 2021-05-30 13:07:25 --> Config Class Initialized
+DEBUG - 2021-05-30 13:07:25 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:07:25 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:07:25 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:07:25 --> URI Class Initialized
+DEBUG - 2021-05-30 13:07:25 --> Router Class Initialized
+ERROR - 2021-05-30 13:07:25 --> 404 Page Not Found --> assets
+DEBUG - 2021-05-30 13:07:25 --> Config Class Initialized
+DEBUG - 2021-05-30 13:07:25 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:07:25 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:07:25 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:07:25 --> URI Class Initialized
+DEBUG - 2021-05-30 13:07:25 --> Router Class Initialized
+ERROR - 2021-05-30 13:07:25 --> 404 Page Not Found --> assets
+DEBUG - 2021-05-30 13:07:25 --> Config Class Initialized
+DEBUG - 2021-05-30 13:07:25 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:07:25 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:07:25 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:07:25 --> URI Class Initialized
+DEBUG - 2021-05-30 13:07:25 --> Router Class Initialized
+ERROR - 2021-05-30 13:07:25 --> 404 Page Not Found --> assets
+DEBUG - 2021-05-30 13:07:36 --> Config Class Initialized
+DEBUG - 2021-05-30 13:07:36 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:07:36 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:07:36 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:07:36 --> URI Class Initialized
+DEBUG - 2021-05-30 13:07:36 --> Router Class Initialized
+ERROR - 2021-05-30 13:07:36 --> 404 Page Not Found --> assets
+DEBUG - 2021-05-30 13:07:36 --> Config Class Initialized
+DEBUG - 2021-05-30 13:07:36 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:07:36 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:07:36 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:07:36 --> URI Class Initialized
+DEBUG - 2021-05-30 13:07:36 --> Router Class Initialized
+ERROR - 2021-05-30 13:07:36 --> 404 Page Not Found --> assets
+DEBUG - 2021-05-30 13:07:36 --> Config Class Initialized
+DEBUG - 2021-05-30 13:07:36 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:07:36 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:07:36 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:07:36 --> URI Class Initialized
+DEBUG - 2021-05-30 13:07:36 --> Router Class Initialized
+ERROR - 2021-05-30 13:07:36 --> 404 Page Not Found --> assets
+DEBUG - 2021-05-30 13:18:34 --> Config Class Initialized
+DEBUG - 2021-05-30 13:18:34 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:18:34 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:18:34 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:18:34 --> URI Class Initialized
+DEBUG - 2021-05-30 13:18:34 --> Router Class Initialized
+DEBUG - 2021-05-30 13:18:34 --> Output Class Initialized
+DEBUG - 2021-05-30 13:18:34 --> Security Class Initialized
+DEBUG - 2021-05-30 13:18:34 --> Input Class Initialized
+DEBUG - 2021-05-30 13:18:34 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:18:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:18:34 --> Language Class Initialized
+DEBUG - 2021-05-30 13:18:34 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:18:34 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:18:34 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:18:34 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:18:34 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:18:34 --> Session Class Initialized
+DEBUG - 2021-05-30 13:18:34 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:18:34 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:18:34 --> Session garbage collection performed.
+DEBUG - 2021-05-30 13:18:34 --> Session routines successfully run
+DEBUG - 2021-05-30 13:18:34 --> Model Class Initialized
+DEBUG - 2021-05-30 13:18:34 --> Model Class Initialized
+DEBUG - 2021-05-30 13:18:34 --> Model Class Initialized
+DEBUG - 2021-05-30 13:18:34 --> Model Class Initialized
+DEBUG - 2021-05-30 13:18:34 --> Model Class Initialized
+DEBUG - 2021-05-30 13:18:34 --> Model Class Initialized
+DEBUG - 2021-05-30 13:18:34 --> Model Class Initialized
+DEBUG - 2021-05-30 13:18:34 --> Model Class Initialized
+DEBUG - 2021-05-30 13:18:34 --> Model Class Initialized
+DEBUG - 2021-05-30 13:18:34 --> Model Class Initialized
+DEBUG - 2021-05-30 13:18:34 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:18:34 --> Model Class Initialized
+DEBUG - 2021-05-30 13:18:34 --> Model Class Initialized
+DEBUG - 2021-05-30 13:18:34 --> Model Class Initialized
+DEBUG - 2021-05-30 13:18:34 --> Pagination Class Initialized
+DEBUG - 2021-05-30 13:18:34 --> Table Class Initialized
+DEBUG - 2021-05-30 13:18:34 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 13:18:34 --> File loaded: application/views/template/menu_ldt.php
+DEBUG - 2021-05-30 13:18:34 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:18:34 --> Final output sent to browser
+DEBUG - 2021-05-30 13:18:34 --> Total execution time: 0.1647
+DEBUG - 2021-05-30 13:19:03 --> Config Class Initialized
+DEBUG - 2021-05-30 13:19:03 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:19:03 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:19:03 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:19:03 --> URI Class Initialized
+DEBUG - 2021-05-30 13:19:03 --> Router Class Initialized
+DEBUG - 2021-05-30 13:19:03 --> Output Class Initialized
+DEBUG - 2021-05-30 13:19:03 --> Security Class Initialized
+DEBUG - 2021-05-30 13:19:03 --> Input Class Initialized
+DEBUG - 2021-05-30 13:19:03 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:19:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:19:03 --> Language Class Initialized
+DEBUG - 2021-05-30 13:19:03 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:19:03 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:19:03 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:19:03 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:19:03 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:19:03 --> Session Class Initialized
+DEBUG - 2021-05-30 13:19:03 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:19:03 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:19:03 --> Session routines successfully run
+DEBUG - 2021-05-30 13:19:03 --> Model Class Initialized
+DEBUG - 2021-05-30 13:19:03 --> Model Class Initialized
+DEBUG - 2021-05-30 13:19:03 --> Model Class Initialized
+DEBUG - 2021-05-30 13:19:03 --> Model Class Initialized
+DEBUG - 2021-05-30 13:19:03 --> Model Class Initialized
+DEBUG - 2021-05-30 13:19:03 --> Model Class Initialized
+DEBUG - 2021-05-30 13:19:03 --> Model Class Initialized
+DEBUG - 2021-05-30 13:19:03 --> Model Class Initialized
+DEBUG - 2021-05-30 13:19:03 --> Model Class Initialized
+DEBUG - 2021-05-30 13:19:03 --> Model Class Initialized
+DEBUG - 2021-05-30 13:19:03 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:19:03 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:19:03 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:19:03 --> Model Class Initialized
+DEBUG - 2021-05-30 13:19:03 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 13:19:03 --> File loaded: application/views/user/profile.php
+DEBUG - 2021-05-30 13:19:03 --> File loaded: application/views/template/menu_ldt.php
+DEBUG - 2021-05-30 13:19:03 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:19:03 --> Final output sent to browser
+DEBUG - 2021-05-30 13:19:03 --> Total execution time: 0.1167
+DEBUG - 2021-05-30 13:19:37 --> Config Class Initialized
+DEBUG - 2021-05-30 13:19:37 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:19:37 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:19:37 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:19:37 --> URI Class Initialized
+DEBUG - 2021-05-30 13:19:37 --> Router Class Initialized
+DEBUG - 2021-05-30 13:19:38 --> Output Class Initialized
+DEBUG - 2021-05-30 13:19:38 --> Security Class Initialized
+DEBUG - 2021-05-30 13:19:38 --> Input Class Initialized
+DEBUG - 2021-05-30 13:19:38 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:19:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:19:38 --> Language Class Initialized
+DEBUG - 2021-05-30 13:19:38 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:19:38 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:19:38 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:19:38 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:19:38 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:19:38 --> Session Class Initialized
+DEBUG - 2021-05-30 13:19:38 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:19:38 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:19:38 --> Session routines successfully run
+DEBUG - 2021-05-30 13:19:38 --> Model Class Initialized
+DEBUG - 2021-05-30 13:19:38 --> Model Class Initialized
+DEBUG - 2021-05-30 13:19:38 --> Model Class Initialized
+DEBUG - 2021-05-30 13:19:38 --> Model Class Initialized
+DEBUG - 2021-05-30 13:19:38 --> Model Class Initialized
+DEBUG - 2021-05-30 13:19:38 --> Model Class Initialized
+DEBUG - 2021-05-30 13:19:38 --> Model Class Initialized
+DEBUG - 2021-05-30 13:19:38 --> Model Class Initialized
+DEBUG - 2021-05-30 13:19:38 --> Model Class Initialized
+DEBUG - 2021-05-30 13:19:38 --> Model Class Initialized
+DEBUG - 2021-05-30 13:19:38 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:19:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:19:38 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:19:38 --> Model Class Initialized
+DEBUG - 2021-05-30 13:19:38 --> Form Validation Class Initialized
+ERROR - 2021-05-30 13:19:38 --> Severity: Notice  --> Undefined variable: username C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 204
+DEBUG - 2021-05-30 13:19:38 --> File loaded: application/views/user/profile.php
+DEBUG - 2021-05-30 13:19:38 --> File loaded: application/views/template/menu_ldt.php
+DEBUG - 2021-05-30 13:19:38 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:19:38 --> Final output sent to browser
+DEBUG - 2021-05-30 13:19:38 --> Total execution time: 0.1590
+DEBUG - 2021-05-30 13:24:31 --> Config Class Initialized
+DEBUG - 2021-05-30 13:24:31 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:24:31 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:24:31 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:24:31 --> URI Class Initialized
+DEBUG - 2021-05-30 13:24:31 --> Router Class Initialized
+DEBUG - 2021-05-30 13:24:31 --> Output Class Initialized
+DEBUG - 2021-05-30 13:24:31 --> Security Class Initialized
+DEBUG - 2021-05-30 13:24:31 --> Input Class Initialized
+DEBUG - 2021-05-30 13:24:31 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:24:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:24:31 --> Language Class Initialized
+DEBUG - 2021-05-30 13:24:31 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:24:31 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:24:31 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:24:31 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:24:31 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:24:31 --> Session Class Initialized
+DEBUG - 2021-05-30 13:24:31 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:24:31 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:24:31 --> Session garbage collection performed.
+DEBUG - 2021-05-30 13:24:31 --> Session routines successfully run
+DEBUG - 2021-05-30 13:24:31 --> Model Class Initialized
+DEBUG - 2021-05-30 13:24:31 --> Model Class Initialized
+DEBUG - 2021-05-30 13:24:31 --> Model Class Initialized
+DEBUG - 2021-05-30 13:24:31 --> Model Class Initialized
+DEBUG - 2021-05-30 13:24:31 --> Model Class Initialized
+DEBUG - 2021-05-30 13:24:31 --> Model Class Initialized
+DEBUG - 2021-05-30 13:24:31 --> Model Class Initialized
+DEBUG - 2021-05-30 13:24:31 --> Model Class Initialized
+DEBUG - 2021-05-30 13:24:31 --> Model Class Initialized
+DEBUG - 2021-05-30 13:24:31 --> Model Class Initialized
+DEBUG - 2021-05-30 13:24:31 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:24:31 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:24:31 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:24:31 --> Model Class Initialized
+DEBUG - 2021-05-30 13:24:31 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 13:24:31 --> File loaded: application/views/user/profile.php
+DEBUG - 2021-05-30 13:24:31 --> File loaded: application/views/template/menu_ldt.php
+DEBUG - 2021-05-30 13:24:31 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:24:31 --> Final output sent to browser
+DEBUG - 2021-05-30 13:24:31 --> Total execution time: 0.2311
+DEBUG - 2021-05-30 13:25:53 --> Config Class Initialized
+DEBUG - 2021-05-30 13:25:53 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:25:53 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:25:53 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:25:53 --> URI Class Initialized
+DEBUG - 2021-05-30 13:25:53 --> Router Class Initialized
+DEBUG - 2021-05-30 13:25:53 --> Output Class Initialized
+DEBUG - 2021-05-30 13:25:53 --> Security Class Initialized
+DEBUG - 2021-05-30 13:25:53 --> Input Class Initialized
+DEBUG - 2021-05-30 13:25:53 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:25:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:25:53 --> Language Class Initialized
+DEBUG - 2021-05-30 13:25:53 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:25:53 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:25:53 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:25:53 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:25:53 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:25:53 --> Session Class Initialized
+DEBUG - 2021-05-30 13:25:53 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:25:53 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:25:53 --> Session routines successfully run
+DEBUG - 2021-05-30 13:25:53 --> Model Class Initialized
+DEBUG - 2021-05-30 13:25:53 --> Model Class Initialized
+DEBUG - 2021-05-30 13:25:53 --> Model Class Initialized
+DEBUG - 2021-05-30 13:25:53 --> Model Class Initialized
+DEBUG - 2021-05-30 13:25:53 --> Model Class Initialized
+DEBUG - 2021-05-30 13:25:53 --> Model Class Initialized
+DEBUG - 2021-05-30 13:25:53 --> Model Class Initialized
+DEBUG - 2021-05-30 13:25:53 --> Model Class Initialized
+DEBUG - 2021-05-30 13:25:53 --> Model Class Initialized
+DEBUG - 2021-05-30 13:25:53 --> Model Class Initialized
+DEBUG - 2021-05-30 13:25:53 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:25:53 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:25:53 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:25:53 --> Model Class Initialized
+DEBUG - 2021-05-30 13:25:53 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 13:25:53 --> File loaded: application/views/user/profile.php
+DEBUG - 2021-05-30 13:25:53 --> File loaded: application/views/template/menu_ldt.php
+DEBUG - 2021-05-30 13:25:53 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:25:53 --> Final output sent to browser
+DEBUG - 2021-05-30 13:25:53 --> Total execution time: 0.1298
+DEBUG - 2021-05-30 13:36:18 --> Config Class Initialized
+DEBUG - 2021-05-30 13:36:18 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:36:18 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:36:18 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:36:18 --> URI Class Initialized
+DEBUG - 2021-05-30 13:36:18 --> Router Class Initialized
+DEBUG - 2021-05-30 13:36:18 --> Output Class Initialized
+DEBUG - 2021-05-30 13:36:18 --> Security Class Initialized
+DEBUG - 2021-05-30 13:36:18 --> Input Class Initialized
+DEBUG - 2021-05-30 13:36:18 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:36:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:36:18 --> Language Class Initialized
+DEBUG - 2021-05-30 13:36:18 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:36:18 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:36:18 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:36:18 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:36:18 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:36:18 --> Session Class Initialized
+DEBUG - 2021-05-30 13:36:18 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:36:18 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:36:18 --> Session routines successfully run
+DEBUG - 2021-05-30 13:36:18 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:18 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:18 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:18 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:18 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:18 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:18 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:18 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:18 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:18 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:18 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:36:18 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:18 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:18 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:18 --> Pagination Class Initialized
+DEBUG - 2021-05-30 13:36:18 --> Table Class Initialized
+DEBUG - 2021-05-30 13:36:18 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 13:36:18 --> File loaded: application/views/template/menu_ldt.php
+DEBUG - 2021-05-30 13:36:18 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:36:18 --> Final output sent to browser
+DEBUG - 2021-05-30 13:36:18 --> Total execution time: 0.1768
+DEBUG - 2021-05-30 13:36:28 --> Config Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:36:28 --> URI Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Router Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Output Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Security Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Input Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:36:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:36:28 --> Language Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:36:28 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:36:28 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:36:28 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Session Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:36:28 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Session routines successfully run
+DEBUG - 2021-05-30 13:36:28 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:36:28 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:36:28 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:36:28 --> Config Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:36:28 --> URI Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Router Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Output Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Security Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Input Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:36:28 --> Language Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:36:28 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:36:28 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:36:28 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Session Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:36:28 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> A session cookie was not found.
+DEBUG - 2021-05-30 13:36:28 --> Session routines successfully run
+DEBUG - 2021-05-30 13:36:28 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:36:28 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:36:28 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:36:28 --> Config Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:36:28 --> URI Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Router Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Output Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Security Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Input Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:36:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:36:28 --> Language Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:36:28 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:36:28 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:36:28 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Session Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:36:28 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Session routines successfully run
+DEBUG - 2021-05-30 13:36:28 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:28 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:29 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:29 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:29 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:29 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:29 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:29 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:29 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:29 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:36:29 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:29 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:29 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:29 --> Pagination Class Initialized
+DEBUG - 2021-05-30 13:36:29 --> Table Class Initialized
+DEBUG - 2021-05-30 13:36:29 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 13:36:29 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 13:36:29 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:36:29 --> Final output sent to browser
+DEBUG - 2021-05-30 13:36:29 --> Total execution time: 0.1220
+DEBUG - 2021-05-30 13:36:32 --> Config Class Initialized
+DEBUG - 2021-05-30 13:36:32 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:36:32 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:36:32 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:36:32 --> URI Class Initialized
+DEBUG - 2021-05-30 13:36:32 --> Router Class Initialized
+DEBUG - 2021-05-30 13:36:32 --> Output Class Initialized
+DEBUG - 2021-05-30 13:36:32 --> Security Class Initialized
+DEBUG - 2021-05-30 13:36:32 --> Input Class Initialized
+DEBUG - 2021-05-30 13:36:32 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:36:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:36:32 --> Language Class Initialized
+DEBUG - 2021-05-30 13:36:32 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:36:32 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:36:32 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:36:32 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:36:32 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:36:32 --> Session Class Initialized
+DEBUG - 2021-05-30 13:36:32 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:36:32 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:36:32 --> Session routines successfully run
+DEBUG - 2021-05-30 13:36:32 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:32 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:32 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:32 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:32 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:32 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:32 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:32 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:32 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:32 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:32 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:36:32 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:32 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 13:36:32 --> Upload Class Initialized
+DEBUG - 2021-05-30 13:36:32 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:36:32 --> Helper loaded: file_helper
+DEBUG - 2021-05-30 13:36:32 --> Table Class Initialized
+DEBUG - 2021-05-30 13:36:32 --> File loaded: application/views/sarfas/agenda.php
+DEBUG - 2021-05-30 13:36:32 --> Final output sent to browser
+DEBUG - 2021-05-30 13:36:32 --> Total execution time: 0.1456
+DEBUG - 2021-05-30 13:36:39 --> Config Class Initialized
+DEBUG - 2021-05-30 13:36:39 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:36:39 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:36:39 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:36:39 --> URI Class Initialized
+DEBUG - 2021-05-30 13:36:39 --> Router Class Initialized
+DEBUG - 2021-05-30 13:36:39 --> Output Class Initialized
+DEBUG - 2021-05-30 13:36:39 --> Security Class Initialized
+DEBUG - 2021-05-30 13:36:39 --> Input Class Initialized
+DEBUG - 2021-05-30 13:36:39 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:36:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:36:39 --> Language Class Initialized
+DEBUG - 2021-05-30 13:36:39 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:36:39 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:36:39 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:36:39 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:36:39 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:36:39 --> Session Class Initialized
+DEBUG - 2021-05-30 13:36:39 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:36:39 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:36:39 --> Session routines successfully run
+DEBUG - 2021-05-30 13:36:39 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:39 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:39 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:39 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:39 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:39 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:39 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:39 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:39 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:39 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:39 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:36:39 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:39 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 13:36:39 --> Upload Class Initialized
+DEBUG - 2021-05-30 13:36:39 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:36:39 --> Helper loaded: file_helper
+DEBUG - 2021-05-30 13:36:39 --> Table Class Initialized
+DEBUG - 2021-05-30 13:36:39 --> File loaded: application/views/sarfas/agenda.php
+DEBUG - 2021-05-30 13:36:39 --> Final output sent to browser
+DEBUG - 2021-05-30 13:36:39 --> Total execution time: 0.1145
+DEBUG - 2021-05-30 13:36:57 --> Config Class Initialized
+DEBUG - 2021-05-30 13:36:57 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:36:57 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:36:57 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:36:57 --> URI Class Initialized
+DEBUG - 2021-05-30 13:36:57 --> Router Class Initialized
+DEBUG - 2021-05-30 13:36:57 --> Output Class Initialized
+DEBUG - 2021-05-30 13:36:57 --> Security Class Initialized
+DEBUG - 2021-05-30 13:36:57 --> Input Class Initialized
+DEBUG - 2021-05-30 13:36:57 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:36:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:36:57 --> Language Class Initialized
+DEBUG - 2021-05-30 13:36:57 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:36:57 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:36:57 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:36:57 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:36:57 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:36:57 --> Session Class Initialized
+DEBUG - 2021-05-30 13:36:57 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:36:57 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:36:57 --> Session routines successfully run
+DEBUG - 2021-05-30 13:36:57 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:57 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:57 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:57 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:57 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:57 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:57 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:57 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:57 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:57 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:57 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:36:57 --> Model Class Initialized
+DEBUG - 2021-05-30 13:36:57 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 13:36:57 --> Upload Class Initialized
+DEBUG - 2021-05-30 13:36:57 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:36:57 --> Helper loaded: file_helper
+DEBUG - 2021-05-30 13:36:57 --> Table Class Initialized
+DEBUG - 2021-05-30 13:36:57 --> File loaded: application/views/sarfas/agenda.php
+DEBUG - 2021-05-30 13:36:57 --> Final output sent to browser
+DEBUG - 2021-05-30 13:36:57 --> Total execution time: 0.1253
+DEBUG - 2021-05-30 13:37:06 --> Config Class Initialized
+DEBUG - 2021-05-30 13:37:06 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:37:06 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:37:06 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:37:06 --> URI Class Initialized
+DEBUG - 2021-05-30 13:37:06 --> Router Class Initialized
+DEBUG - 2021-05-30 13:37:06 --> Output Class Initialized
+DEBUG - 2021-05-30 13:37:06 --> Security Class Initialized
+DEBUG - 2021-05-30 13:37:06 --> Input Class Initialized
+DEBUG - 2021-05-30 13:37:06 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:37:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:37:06 --> Language Class Initialized
+DEBUG - 2021-05-30 13:37:06 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:37:06 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:37:06 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:37:06 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:37:06 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:37:06 --> Session Class Initialized
+DEBUG - 2021-05-30 13:37:06 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:37:06 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:37:06 --> Session routines successfully run
+DEBUG - 2021-05-30 13:37:06 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:06 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:06 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:06 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:06 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:06 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:06 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:06 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:06 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:06 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:06 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:37:06 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:06 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:06 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:37:06 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:37:06 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:37:06 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 13:37:06 --> File loaded: application/views/login/index.php
+DEBUG - 2021-05-30 13:37:06 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 13:37:06 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:37:06 --> Final output sent to browser
+DEBUG - 2021-05-30 13:37:06 --> Total execution time: 0.1143
+DEBUG - 2021-05-30 13:37:13 --> Config Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:37:13 --> URI Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> Router Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> Output Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> Security Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> Input Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:37:13 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:37:13 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:37:13 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:37:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:37:13 --> Language Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:37:13 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:37:13 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:37:13 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> Session Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:37:13 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> Session routines successfully run
+DEBUG - 2021-05-30 13:37:13 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:37:13 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:37:13 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:37:13 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2021-05-30 13:37:13 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:37:13 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:37:13 --> Config Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:37:13 --> URI Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> Router Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> Output Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> Security Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> Input Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:37:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:37:13 --> Language Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:37:13 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:37:13 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:37:13 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> Session Class Initialized
+DEBUG - 2021-05-30 13:37:13 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:37:13 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:37:14 --> Session routines successfully run
+DEBUG - 2021-05-30 13:37:14 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:14 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:14 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:14 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:14 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:14 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:14 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:14 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:14 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:14 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:14 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:37:14 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:14 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:14 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:14 --> Pagination Class Initialized
+DEBUG - 2021-05-30 13:37:14 --> Table Class Initialized
+DEBUG - 2021-05-30 13:37:14 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 13:37:14 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 13:37:14 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:37:14 --> Final output sent to browser
+DEBUG - 2021-05-30 13:37:14 --> Total execution time: 0.3476
+DEBUG - 2021-05-30 13:37:54 --> Config Class Initialized
+DEBUG - 2021-05-30 13:37:54 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:37:54 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:37:54 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:37:54 --> URI Class Initialized
+DEBUG - 2021-05-30 13:37:54 --> Router Class Initialized
+DEBUG - 2021-05-30 13:37:54 --> Output Class Initialized
+DEBUG - 2021-05-30 13:37:54 --> Security Class Initialized
+DEBUG - 2021-05-30 13:37:54 --> Input Class Initialized
+DEBUG - 2021-05-30 13:37:54 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:37:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:37:54 --> Language Class Initialized
+DEBUG - 2021-05-30 13:37:54 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:37:54 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:37:54 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:37:54 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:37:54 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:37:54 --> Session Class Initialized
+DEBUG - 2021-05-30 13:37:54 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:37:54 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:37:54 --> Session routines successfully run
+DEBUG - 2021-05-30 13:37:54 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:54 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:54 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:54 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:54 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:54 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:54 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:54 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:54 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:54 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:54 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:37:54 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:54 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:54 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:37:54 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:37:54 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:37:54 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 13:37:54 --> File loaded: application/views/login/index.php
+DEBUG - 2021-05-30 13:37:54 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 13:37:54 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:37:54 --> Final output sent to browser
+DEBUG - 2021-05-30 13:37:54 --> Total execution time: 0.2329
+DEBUG - 2021-05-30 13:37:56 --> Config Class Initialized
+DEBUG - 2021-05-30 13:37:56 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:37:56 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:37:56 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:37:56 --> URI Class Initialized
+DEBUG - 2021-05-30 13:37:56 --> Router Class Initialized
+DEBUG - 2021-05-30 13:37:56 --> Output Class Initialized
+DEBUG - 2021-05-30 13:37:56 --> Security Class Initialized
+DEBUG - 2021-05-30 13:37:56 --> Input Class Initialized
+DEBUG - 2021-05-30 13:37:56 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:37:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:37:56 --> Language Class Initialized
+DEBUG - 2021-05-30 13:37:56 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:37:56 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:37:56 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:37:56 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:37:56 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:37:56 --> Session Class Initialized
+DEBUG - 2021-05-30 13:37:56 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:37:56 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:37:56 --> Session routines successfully run
+DEBUG - 2021-05-30 13:37:56 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:56 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:56 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:56 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:56 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:56 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:56 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:56 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:56 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:56 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:56 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:37:56 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:56 --> Model Class Initialized
+DEBUG - 2021-05-30 13:37:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:37:56 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:37:56 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:37:56 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 13:37:56 --> File loaded: application/views/login/index.php
+DEBUG - 2021-05-30 13:37:56 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 13:37:56 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:37:56 --> Final output sent to browser
+DEBUG - 2021-05-30 13:37:56 --> Total execution time: 0.1095
+DEBUG - 2021-05-30 13:38:04 --> Config Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:38:04 --> URI Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Router Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Output Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Security Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Input Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:38:04 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:38:04 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:38:04 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:38:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:38:04 --> Language Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:38:04 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:38:04 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:38:04 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Session Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:38:04 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Session routines successfully run
+DEBUG - 2021-05-30 13:38:04 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:38:04 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:38:04 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:38:04 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2021-05-30 13:38:04 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:38:04 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:38:04 --> Config Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:38:04 --> URI Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Router Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Output Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Security Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Input Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:38:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:38:04 --> Language Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:38:04 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:38:04 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:38:04 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Session Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:38:04 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Session routines successfully run
+DEBUG - 2021-05-30 13:38:04 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:04 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:38:05 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:05 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:05 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:05 --> Pagination Class Initialized
+DEBUG - 2021-05-30 13:38:05 --> Table Class Initialized
+DEBUG - 2021-05-30 13:38:05 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 13:38:05 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 13:38:05 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:38:05 --> Final output sent to browser
+DEBUG - 2021-05-30 13:38:05 --> Total execution time: 0.1923
+DEBUG - 2021-05-30 13:38:46 --> Config Class Initialized
+DEBUG - 2021-05-30 13:38:46 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:38:46 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:38:46 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:38:46 --> URI Class Initialized
+DEBUG - 2021-05-30 13:38:46 --> Router Class Initialized
+DEBUG - 2021-05-30 13:38:46 --> Output Class Initialized
+DEBUG - 2021-05-30 13:38:46 --> Security Class Initialized
+DEBUG - 2021-05-30 13:38:46 --> Input Class Initialized
+DEBUG - 2021-05-30 13:38:46 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:38:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:38:46 --> Language Class Initialized
+DEBUG - 2021-05-30 13:38:46 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:38:46 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:38:46 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:38:46 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:38:46 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:38:46 --> Session Class Initialized
+DEBUG - 2021-05-30 13:38:46 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:38:46 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:38:47 --> Session routines successfully run
+DEBUG - 2021-05-30 13:38:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:47 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:38:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:47 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:38:47 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:38:47 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:38:47 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 13:38:47 --> File loaded: application/views/login/index.php
+DEBUG - 2021-05-30 13:38:47 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 13:38:47 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:38:47 --> Final output sent to browser
+DEBUG - 2021-05-30 13:38:47 --> Total execution time: 0.1984
+DEBUG - 2021-05-30 13:38:54 --> Config Class Initialized
+DEBUG - 2021-05-30 13:38:54 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:38:54 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:38:54 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:38:54 --> URI Class Initialized
+DEBUG - 2021-05-30 13:38:54 --> Router Class Initialized
+DEBUG - 2021-05-30 13:38:54 --> Output Class Initialized
+DEBUG - 2021-05-30 13:38:54 --> Security Class Initialized
+DEBUG - 2021-05-30 13:38:54 --> Input Class Initialized
+DEBUG - 2021-05-30 13:38:54 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:38:54 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:38:54 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:38:54 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:38:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:38:54 --> Language Class Initialized
+DEBUG - 2021-05-30 13:38:54 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:38:54 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:38:54 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:38:54 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:38:54 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:38:54 --> Session Class Initialized
+DEBUG - 2021-05-30 13:38:54 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:38:54 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:38:54 --> Session routines successfully run
+DEBUG - 2021-05-30 13:38:54 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:54 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:54 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:54 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:54 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:54 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:54 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:54 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:54 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:54 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:54 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:38:54 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:54 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:54 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:38:54 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:38:54 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:38:54 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 13:38:54 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2021-05-30 13:38:54 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:38:54 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:38:55 --> Config Class Initialized
+DEBUG - 2021-05-30 13:38:55 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:38:55 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:38:55 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:38:55 --> URI Class Initialized
+DEBUG - 2021-05-30 13:38:55 --> Router Class Initialized
+DEBUG - 2021-05-30 13:38:55 --> Output Class Initialized
+DEBUG - 2021-05-30 13:38:55 --> Security Class Initialized
+DEBUG - 2021-05-30 13:38:55 --> Input Class Initialized
+DEBUG - 2021-05-30 13:38:55 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:38:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:38:55 --> Language Class Initialized
+DEBUG - 2021-05-30 13:38:55 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:38:55 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:38:55 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:38:55 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:38:55 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:38:55 --> Session Class Initialized
+DEBUG - 2021-05-30 13:38:55 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:38:55 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:38:55 --> Session routines successfully run
+DEBUG - 2021-05-30 13:38:55 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:55 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:55 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:55 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:55 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:55 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:55 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:55 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:55 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:55 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:55 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:38:55 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:55 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:55 --> Model Class Initialized
+DEBUG - 2021-05-30 13:38:55 --> Pagination Class Initialized
+DEBUG - 2021-05-30 13:38:55 --> Table Class Initialized
+DEBUG - 2021-05-30 13:38:55 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 13:38:55 --> File loaded: application/views/template/menu_pnd.php
+DEBUG - 2021-05-30 13:38:55 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:38:55 --> Final output sent to browser
+DEBUG - 2021-05-30 13:38:55 --> Total execution time: 0.2113
+DEBUG - 2021-05-30 13:40:30 --> Config Class Initialized
+DEBUG - 2021-05-30 13:40:30 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:40:30 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:40:30 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:40:30 --> URI Class Initialized
+DEBUG - 2021-05-30 13:40:30 --> Router Class Initialized
+DEBUG - 2021-05-30 13:40:30 --> Output Class Initialized
+DEBUG - 2021-05-30 13:40:30 --> Security Class Initialized
+DEBUG - 2021-05-30 13:40:30 --> Input Class Initialized
+DEBUG - 2021-05-30 13:40:30 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:40:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:40:30 --> Language Class Initialized
+DEBUG - 2021-05-30 13:40:30 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:40:30 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:40:30 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:40:30 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:40:30 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:40:30 --> Session Class Initialized
+DEBUG - 2021-05-30 13:40:30 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:40:30 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:40:30 --> Session routines successfully run
+DEBUG - 2021-05-30 13:40:30 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:30 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:30 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:30 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:30 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:30 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:30 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:30 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:30 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:30 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:30 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:40:30 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:30 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:30 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:30 --> Pagination Class Initialized
+DEBUG - 2021-05-30 13:40:30 --> Table Class Initialized
+DEBUG - 2021-05-30 13:40:30 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 13:40:30 --> File loaded: application/views/template/menu_pnd.php
+DEBUG - 2021-05-30 13:40:30 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:40:30 --> Final output sent to browser
+DEBUG - 2021-05-30 13:40:30 --> Total execution time: 0.1979
+DEBUG - 2021-05-30 13:40:51 --> Config Class Initialized
+DEBUG - 2021-05-30 13:40:51 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:40:51 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:40:51 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:40:51 --> URI Class Initialized
+DEBUG - 2021-05-30 13:40:51 --> Router Class Initialized
+DEBUG - 2021-05-30 13:40:51 --> Output Class Initialized
+DEBUG - 2021-05-30 13:40:51 --> Security Class Initialized
+DEBUG - 2021-05-30 13:40:51 --> Input Class Initialized
+DEBUG - 2021-05-30 13:40:51 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:40:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:40:51 --> Language Class Initialized
+DEBUG - 2021-05-30 13:40:51 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:40:51 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:40:51 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:40:51 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:40:51 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:40:51 --> Session Class Initialized
+DEBUG - 2021-05-30 13:40:51 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:40:51 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:40:51 --> Session routines successfully run
+DEBUG - 2021-05-30 13:40:51 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:51 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:51 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:51 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:51 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:51 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:51 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:52 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:52 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:52 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:52 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:40:52 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:52 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:52 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:52 --> Pagination Class Initialized
+DEBUG - 2021-05-30 13:40:52 --> Table Class Initialized
+DEBUG - 2021-05-30 13:40:52 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 13:40:52 --> File loaded: application/views/template/menu_pnd.php
+DEBUG - 2021-05-30 13:40:52 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:40:52 --> Final output sent to browser
+DEBUG - 2021-05-30 13:40:52 --> Total execution time: 0.1229
+DEBUG - 2021-05-30 13:40:54 --> Config Class Initialized
+DEBUG - 2021-05-30 13:40:54 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:40:54 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:40:54 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:40:54 --> URI Class Initialized
+DEBUG - 2021-05-30 13:40:54 --> Router Class Initialized
+DEBUG - 2021-05-30 13:40:54 --> Output Class Initialized
+DEBUG - 2021-05-30 13:40:54 --> Security Class Initialized
+DEBUG - 2021-05-30 13:40:54 --> Input Class Initialized
+DEBUG - 2021-05-30 13:40:54 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:40:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:40:54 --> Language Class Initialized
+DEBUG - 2021-05-30 13:40:54 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:40:54 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:40:54 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:40:54 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:40:54 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:40:54 --> Session Class Initialized
+DEBUG - 2021-05-30 13:40:54 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:40:54 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:40:54 --> Session routines successfully run
+DEBUG - 2021-05-30 13:40:54 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:54 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:54 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:54 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:54 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:54 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:54 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:54 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:54 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:54 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:54 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:40:54 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:54 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:54 --> Model Class Initialized
+DEBUG - 2021-05-30 13:40:54 --> Pagination Class Initialized
+DEBUG - 2021-05-30 13:40:54 --> Table Class Initialized
+DEBUG - 2021-05-30 13:40:54 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 13:40:54 --> File loaded: application/views/template/menu_pnd.php
+DEBUG - 2021-05-30 13:40:54 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:40:54 --> Final output sent to browser
+DEBUG - 2021-05-30 13:40:54 --> Total execution time: 0.1351
+DEBUG - 2021-05-30 13:41:00 --> Config Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:41:00 --> URI Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Router Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Output Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Security Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Input Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:41:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:41:00 --> Language Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:41:00 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:41:00 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:41:00 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Session Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:41:00 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Session routines successfully run
+DEBUG - 2021-05-30 13:41:00 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:41:00 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:41:00 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:41:00 --> Config Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:41:00 --> URI Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Router Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Output Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Security Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Input Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:41:00 --> Language Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:41:00 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:41:00 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:41:00 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Session Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:41:00 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> A session cookie was not found.
+DEBUG - 2021-05-30 13:41:00 --> Session routines successfully run
+DEBUG - 2021-05-30 13:41:00 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:00 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:41:00 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:41:00 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:41:01 --> Config Class Initialized
+DEBUG - 2021-05-30 13:41:01 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:41:01 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:41:01 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:41:01 --> URI Class Initialized
+DEBUG - 2021-05-30 13:41:01 --> Router Class Initialized
+DEBUG - 2021-05-30 13:41:01 --> Output Class Initialized
+DEBUG - 2021-05-30 13:41:01 --> Security Class Initialized
+DEBUG - 2021-05-30 13:41:01 --> Input Class Initialized
+DEBUG - 2021-05-30 13:41:01 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:41:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:41:01 --> Language Class Initialized
+DEBUG - 2021-05-30 13:41:01 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:41:01 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:41:01 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:41:01 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:41:01 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:41:01 --> Session Class Initialized
+DEBUG - 2021-05-30 13:41:01 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:41:01 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:41:01 --> Session routines successfully run
+DEBUG - 2021-05-30 13:41:01 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:01 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:01 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:01 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:01 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:01 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:01 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:01 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:01 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:01 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:01 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:41:01 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:01 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:01 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:01 --> Pagination Class Initialized
+DEBUG - 2021-05-30 13:41:01 --> Table Class Initialized
+DEBUG - 2021-05-30 13:41:01 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 13:41:01 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 13:41:01 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:41:01 --> Final output sent to browser
+DEBUG - 2021-05-30 13:41:01 --> Total execution time: 0.1128
+DEBUG - 2021-05-30 13:41:03 --> Config Class Initialized
+DEBUG - 2021-05-30 13:41:03 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:41:03 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:41:03 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:41:03 --> URI Class Initialized
+DEBUG - 2021-05-30 13:41:03 --> Router Class Initialized
+DEBUG - 2021-05-30 13:41:03 --> Output Class Initialized
+DEBUG - 2021-05-30 13:41:03 --> Security Class Initialized
+DEBUG - 2021-05-30 13:41:03 --> Input Class Initialized
+DEBUG - 2021-05-30 13:41:03 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:41:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:41:03 --> Language Class Initialized
+DEBUG - 2021-05-30 13:41:03 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:41:03 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:41:03 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:41:03 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:41:03 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:41:03 --> Session Class Initialized
+DEBUG - 2021-05-30 13:41:03 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:41:03 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:41:03 --> Session routines successfully run
+DEBUG - 2021-05-30 13:41:03 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:03 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:03 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:03 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:03 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:03 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:03 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:03 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:03 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:03 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:03 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:41:03 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:03 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:03 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:41:03 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:41:03 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:41:03 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 13:41:03 --> File loaded: application/views/login/index.php
+DEBUG - 2021-05-30 13:41:03 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 13:41:03 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:41:03 --> Final output sent to browser
+DEBUG - 2021-05-30 13:41:03 --> Total execution time: 0.1150
+DEBUG - 2021-05-30 13:41:10 --> Config Class Initialized
+DEBUG - 2021-05-30 13:41:10 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:41:10 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:41:10 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:41:10 --> URI Class Initialized
+DEBUG - 2021-05-30 13:41:10 --> Router Class Initialized
+DEBUG - 2021-05-30 13:41:10 --> Output Class Initialized
+DEBUG - 2021-05-30 13:41:10 --> Security Class Initialized
+DEBUG - 2021-05-30 13:41:10 --> Input Class Initialized
+DEBUG - 2021-05-30 13:41:10 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:41:10 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:41:10 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:41:10 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:41:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:41:10 --> Language Class Initialized
+DEBUG - 2021-05-30 13:41:10 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:41:10 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:41:10 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:41:10 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:41:10 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:41:10 --> Session Class Initialized
+DEBUG - 2021-05-30 13:41:10 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:41:10 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:41:10 --> Session routines successfully run
+DEBUG - 2021-05-30 13:41:10 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:10 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:10 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:10 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:10 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:10 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:10 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:10 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:10 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:10 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:10 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:41:10 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:10 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:10 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:41:10 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:41:10 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:41:10 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 13:41:10 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2021-05-30 13:41:10 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:41:10 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:41:11 --> Config Class Initialized
+DEBUG - 2021-05-30 13:41:11 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:41:11 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:41:11 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:41:11 --> URI Class Initialized
+DEBUG - 2021-05-30 13:41:11 --> Router Class Initialized
+DEBUG - 2021-05-30 13:41:11 --> Output Class Initialized
+DEBUG - 2021-05-30 13:41:11 --> Security Class Initialized
+DEBUG - 2021-05-30 13:41:11 --> Input Class Initialized
+DEBUG - 2021-05-30 13:41:11 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:41:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:41:11 --> Language Class Initialized
+DEBUG - 2021-05-30 13:41:11 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:41:11 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:41:11 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:41:11 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:41:11 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:41:11 --> Session Class Initialized
+DEBUG - 2021-05-30 13:41:11 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:41:11 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:41:11 --> Session routines successfully run
+DEBUG - 2021-05-30 13:41:11 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:11 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:11 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:11 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:11 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:11 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:11 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:11 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:11 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:11 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:11 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:41:11 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:11 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:11 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:11 --> Pagination Class Initialized
+DEBUG - 2021-05-30 13:41:11 --> Table Class Initialized
+DEBUG - 2021-05-30 13:41:11 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 13:41:11 --> File loaded: application/views/template/menu_pnd.php
+DEBUG - 2021-05-30 13:41:11 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:41:11 --> Final output sent to browser
+DEBUG - 2021-05-30 13:41:11 --> Total execution time: 0.1655
+DEBUG - 2021-05-30 13:41:13 --> Config Class Initialized
+DEBUG - 2021-05-30 13:41:13 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:41:13 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:41:13 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:41:13 --> URI Class Initialized
+DEBUG - 2021-05-30 13:41:13 --> Router Class Initialized
+DEBUG - 2021-05-30 13:41:13 --> Output Class Initialized
+DEBUG - 2021-05-30 13:41:13 --> Security Class Initialized
+DEBUG - 2021-05-30 13:41:13 --> Input Class Initialized
+DEBUG - 2021-05-30 13:41:13 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:41:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:41:13 --> Language Class Initialized
+DEBUG - 2021-05-30 13:41:13 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:41:13 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:41:13 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:41:13 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:41:13 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:41:13 --> Session Class Initialized
+DEBUG - 2021-05-30 13:41:13 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:41:14 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:41:14 --> Session routines successfully run
+DEBUG - 2021-05-30 13:41:14 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:14 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:14 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:14 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:14 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:14 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:14 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:14 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:14 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:14 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:14 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:41:14 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:41:14 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:41:14 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:14 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 13:41:14 --> File loaded: application/views/user/profile.php
+DEBUG - 2021-05-30 13:41:14 --> File loaded: application/views/template/menu_pnd.php
+DEBUG - 2021-05-30 13:41:14 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:41:14 --> Final output sent to browser
+DEBUG - 2021-05-30 13:41:14 --> Total execution time: 0.1777
+DEBUG - 2021-05-30 13:41:42 --> Config Class Initialized
+DEBUG - 2021-05-30 13:41:42 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:41:42 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:41:42 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:41:42 --> URI Class Initialized
+DEBUG - 2021-05-30 13:41:42 --> Router Class Initialized
+DEBUG - 2021-05-30 13:41:42 --> Output Class Initialized
+DEBUG - 2021-05-30 13:41:42 --> Security Class Initialized
+DEBUG - 2021-05-30 13:41:42 --> Input Class Initialized
+DEBUG - 2021-05-30 13:41:42 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:41:42 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:41:42 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:41:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:41:42 --> Language Class Initialized
+DEBUG - 2021-05-30 13:41:42 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:41:42 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:41:42 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:41:42 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:41:42 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:41:42 --> Session Class Initialized
+DEBUG - 2021-05-30 13:41:42 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:41:42 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:41:42 --> Session routines successfully run
+DEBUG - 2021-05-30 13:41:42 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:42 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:42 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:42 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:42 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:42 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:42 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:42 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:42 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:42 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:42 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:41:42 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:41:42 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:41:42 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:42 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 13:41:42 --> Config Class Initialized
+DEBUG - 2021-05-30 13:41:42 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:41:42 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:41:42 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:41:42 --> URI Class Initialized
+DEBUG - 2021-05-30 13:41:42 --> Router Class Initialized
+DEBUG - 2021-05-30 13:41:42 --> Output Class Initialized
+DEBUG - 2021-05-30 13:41:42 --> Security Class Initialized
+DEBUG - 2021-05-30 13:41:42 --> Input Class Initialized
+DEBUG - 2021-05-30 13:41:42 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:41:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:41:42 --> Language Class Initialized
+DEBUG - 2021-05-30 13:41:42 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:41:42 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:41:42 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:41:42 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:41:42 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:41:42 --> Session Class Initialized
+DEBUG - 2021-05-30 13:41:42 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:41:42 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:41:43 --> Session routines successfully run
+DEBUG - 2021-05-30 13:41:43 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:43 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:43 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:43 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:43 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:43 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:43 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:43 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:43 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:43 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:43 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:41:43 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:41:43 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:41:43 --> Model Class Initialized
+DEBUG - 2021-05-30 13:41:43 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 13:41:43 --> File loaded: application/views/user/profile.php
+DEBUG - 2021-05-30 13:41:43 --> File loaded: application/views/template/menu_pnd.php
+DEBUG - 2021-05-30 13:41:43 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:41:43 --> Final output sent to browser
+DEBUG - 2021-05-30 13:41:43 --> Total execution time: 0.3071
+DEBUG - 2021-05-30 13:45:21 --> Config Class Initialized
+DEBUG - 2021-05-30 13:45:21 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:45:21 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:45:21 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:45:21 --> URI Class Initialized
+DEBUG - 2021-05-30 13:45:21 --> Router Class Initialized
+DEBUG - 2021-05-30 13:45:21 --> Output Class Initialized
+DEBUG - 2021-05-30 13:45:21 --> Security Class Initialized
+DEBUG - 2021-05-30 13:45:21 --> Input Class Initialized
+DEBUG - 2021-05-30 13:45:21 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:45:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:45:21 --> Language Class Initialized
+DEBUG - 2021-05-30 13:45:21 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:45:21 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:45:21 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:45:21 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:45:21 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:45:21 --> Session Class Initialized
+DEBUG - 2021-05-30 13:45:21 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:45:21 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:45:22 --> Session routines successfully run
+DEBUG - 2021-05-30 13:45:22 --> Model Class Initialized
+DEBUG - 2021-05-30 13:45:22 --> Model Class Initialized
+DEBUG - 2021-05-30 13:45:22 --> Model Class Initialized
+DEBUG - 2021-05-30 13:45:22 --> Model Class Initialized
+DEBUG - 2021-05-30 13:45:22 --> Model Class Initialized
+DEBUG - 2021-05-30 13:45:22 --> Model Class Initialized
+DEBUG - 2021-05-30 13:45:22 --> Model Class Initialized
+DEBUG - 2021-05-30 13:45:22 --> Model Class Initialized
+DEBUG - 2021-05-30 13:45:22 --> Model Class Initialized
+DEBUG - 2021-05-30 13:45:22 --> Model Class Initialized
+DEBUG - 2021-05-30 13:45:22 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:45:22 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:45:22 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:45:22 --> Model Class Initialized
+DEBUG - 2021-05-30 13:45:22 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 13:45:22 --> File loaded: application/views/user/profile.php
+DEBUG - 2021-05-30 13:45:22 --> File loaded: application/views/template/menu_pnd.php
+DEBUG - 2021-05-30 13:45:22 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:45:22 --> Final output sent to browser
+DEBUG - 2021-05-30 13:45:22 --> Total execution time: 0.2118
+DEBUG - 2021-05-30 13:46:01 --> Config Class Initialized
+DEBUG - 2021-05-30 13:46:01 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:46:01 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:46:01 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:46:01 --> URI Class Initialized
+DEBUG - 2021-05-30 13:46:01 --> Router Class Initialized
+DEBUG - 2021-05-30 13:46:01 --> Output Class Initialized
+DEBUG - 2021-05-30 13:46:01 --> Security Class Initialized
+DEBUG - 2021-05-30 13:46:01 --> Input Class Initialized
+DEBUG - 2021-05-30 13:46:01 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:46:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:46:01 --> Language Class Initialized
+DEBUG - 2021-05-30 13:46:14 --> Config Class Initialized
+DEBUG - 2021-05-30 13:46:14 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:46:14 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:46:14 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:46:14 --> URI Class Initialized
+DEBUG - 2021-05-30 13:46:14 --> Router Class Initialized
+DEBUG - 2021-05-30 13:46:14 --> Output Class Initialized
+DEBUG - 2021-05-30 13:46:14 --> Security Class Initialized
+DEBUG - 2021-05-30 13:46:14 --> Input Class Initialized
+DEBUG - 2021-05-30 13:46:14 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:46:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:46:14 --> Language Class Initialized
+DEBUG - 2021-05-30 13:46:14 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:46:14 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:46:14 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:46:14 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:46:14 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:46:14 --> Session Class Initialized
+DEBUG - 2021-05-30 13:46:14 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:46:14 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:46:14 --> Session routines successfully run
+DEBUG - 2021-05-30 13:46:14 --> Model Class Initialized
+DEBUG - 2021-05-30 13:46:14 --> Model Class Initialized
+DEBUG - 2021-05-30 13:46:14 --> Model Class Initialized
+DEBUG - 2021-05-30 13:46:14 --> Model Class Initialized
+DEBUG - 2021-05-30 13:46:14 --> Model Class Initialized
+DEBUG - 2021-05-30 13:46:14 --> Model Class Initialized
+DEBUG - 2021-05-30 13:46:14 --> Model Class Initialized
+DEBUG - 2021-05-30 13:46:14 --> Model Class Initialized
+DEBUG - 2021-05-30 13:46:14 --> Model Class Initialized
+DEBUG - 2021-05-30 13:46:14 --> Model Class Initialized
+DEBUG - 2021-05-30 13:46:14 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:46:14 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:46:14 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:46:14 --> Model Class Initialized
+DEBUG - 2021-05-30 13:46:14 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 13:46:14 --> File loaded: application/views/user/profile.php
+DEBUG - 2021-05-30 13:46:14 --> File loaded: application/views/template/menu_pnd.php
+DEBUG - 2021-05-30 13:46:14 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:46:14 --> Final output sent to browser
+DEBUG - 2021-05-30 13:46:14 --> Total execution time: 0.2516
+DEBUG - 2021-05-30 13:47:36 --> Config Class Initialized
+DEBUG - 2021-05-30 13:47:36 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:47:36 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:47:36 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:47:36 --> URI Class Initialized
+DEBUG - 2021-05-30 13:47:36 --> Router Class Initialized
+DEBUG - 2021-05-30 13:47:36 --> Output Class Initialized
+DEBUG - 2021-05-30 13:47:36 --> Security Class Initialized
+DEBUG - 2021-05-30 13:47:36 --> Input Class Initialized
+DEBUG - 2021-05-30 13:47:36 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:47:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:47:36 --> Language Class Initialized
+DEBUG - 2021-05-30 13:47:36 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:47:36 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:47:36 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:47:36 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:47:36 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:47:36 --> Session Class Initialized
+DEBUG - 2021-05-30 13:47:36 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:47:36 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:47:36 --> Session routines successfully run
+DEBUG - 2021-05-30 13:47:36 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:36 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:36 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:36 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:36 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:36 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:36 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:36 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:36 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:36 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:36 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:47:36 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:47:36 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:47:36 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:36 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 13:47:36 --> File loaded: application/views/user/profile.php
+DEBUG - 2021-05-30 13:47:36 --> File loaded: application/views/template/menu_pnd.php
+DEBUG - 2021-05-30 13:47:36 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:47:36 --> Final output sent to browser
+DEBUG - 2021-05-30 13:47:36 --> Total execution time: 0.1078
+DEBUG - 2021-05-30 13:47:38 --> Config Class Initialized
+DEBUG - 2021-05-30 13:47:38 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:47:38 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:47:38 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:47:38 --> URI Class Initialized
+DEBUG - 2021-05-30 13:47:38 --> Router Class Initialized
+DEBUG - 2021-05-30 13:47:38 --> Output Class Initialized
+DEBUG - 2021-05-30 13:47:38 --> Security Class Initialized
+DEBUG - 2021-05-30 13:47:38 --> Input Class Initialized
+DEBUG - 2021-05-30 13:47:38 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:47:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:47:38 --> Language Class Initialized
+DEBUG - 2021-05-30 13:47:38 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:47:38 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:47:38 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:47:38 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:47:38 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:47:38 --> Session Class Initialized
+DEBUG - 2021-05-30 13:47:38 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:47:38 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:47:38 --> Session routines successfully run
+DEBUG - 2021-05-30 13:47:38 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:38 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:38 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:38 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:38 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:38 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:38 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:38 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:38 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:38 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:38 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:47:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:47:38 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:47:38 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:38 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 13:47:38 --> File loaded: application/views/user/profile.php
+DEBUG - 2021-05-30 13:47:38 --> File loaded: application/views/template/menu_pnd.php
+DEBUG - 2021-05-30 13:47:38 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:47:38 --> Final output sent to browser
+DEBUG - 2021-05-30 13:47:38 --> Total execution time: 0.1116
+DEBUG - 2021-05-30 13:47:46 --> Config Class Initialized
+DEBUG - 2021-05-30 13:47:46 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:47:46 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:47:46 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:47:46 --> URI Class Initialized
+DEBUG - 2021-05-30 13:47:46 --> Router Class Initialized
+DEBUG - 2021-05-30 13:47:46 --> Output Class Initialized
+DEBUG - 2021-05-30 13:47:46 --> Security Class Initialized
+DEBUG - 2021-05-30 13:47:46 --> Input Class Initialized
+DEBUG - 2021-05-30 13:47:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:47:46 --> Language Class Initialized
+DEBUG - 2021-05-30 13:47:46 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:47:46 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:47:46 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:47:46 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:47:46 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:47:46 --> Session Class Initialized
+DEBUG - 2021-05-30 13:47:46 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:47:46 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:47:46 --> A session cookie was not found.
+DEBUG - 2021-05-30 13:47:46 --> Session routines successfully run
+DEBUG - 2021-05-30 13:47:46 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:46 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:46 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:46 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:46 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:46 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:46 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:46 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:46 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:46 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:46 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:47:47 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:47:47 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:47:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:47 --> Config Class Initialized
+DEBUG - 2021-05-30 13:47:47 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:47:47 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:47:47 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:47:47 --> URI Class Initialized
+DEBUG - 2021-05-30 13:47:47 --> Router Class Initialized
+DEBUG - 2021-05-30 13:47:47 --> Output Class Initialized
+DEBUG - 2021-05-30 13:47:47 --> Security Class Initialized
+DEBUG - 2021-05-30 13:47:47 --> Input Class Initialized
+DEBUG - 2021-05-30 13:47:47 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:47:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:47:47 --> Language Class Initialized
+DEBUG - 2021-05-30 13:47:47 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:47:47 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:47:47 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:47:47 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:47:47 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:47:47 --> Session Class Initialized
+DEBUG - 2021-05-30 13:47:47 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:47:47 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:47:47 --> Session routines successfully run
+DEBUG - 2021-05-30 13:47:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:47 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:47:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:47 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:47:47 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:47:47 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:47:47 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 13:47:47 --> File loaded: application/views/login/index.php
+DEBUG - 2021-05-30 13:47:47 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 13:47:47 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:47:47 --> Final output sent to browser
+DEBUG - 2021-05-30 13:47:47 --> Total execution time: 0.1726
+DEBUG - 2021-05-30 13:47:55 --> Config Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:47:55 --> URI Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Router Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Output Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Security Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Input Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:47:55 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:47:55 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:47:55 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:47:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:47:55 --> Language Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:47:55 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:47:55 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:47:55 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Session Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:47:55 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Session routines successfully run
+DEBUG - 2021-05-30 13:47:55 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:47:55 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:47:55 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:47:55 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2021-05-30 13:47:55 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:47:55 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:47:55 --> Config Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:47:55 --> URI Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Router Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Output Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Security Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Input Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:47:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:47:55 --> Language Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:47:55 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:47:55 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:47:55 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Session Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:47:55 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Session routines successfully run
+DEBUG - 2021-05-30 13:47:55 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:55 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:56 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:56 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:56 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:56 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:56 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:56 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:56 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:47:56 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:56 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:56 --> Model Class Initialized
+DEBUG - 2021-05-30 13:47:56 --> Pagination Class Initialized
+DEBUG - 2021-05-30 13:47:56 --> Table Class Initialized
+DEBUG - 2021-05-30 13:47:56 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 13:47:56 --> File loaded: application/views/template/menu_ldt.php
+DEBUG - 2021-05-30 13:47:56 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:47:56 --> Final output sent to browser
+DEBUG - 2021-05-30 13:47:56 --> Total execution time: 0.1830
+DEBUG - 2021-05-30 13:48:47 --> Config Class Initialized
+DEBUG - 2021-05-30 13:48:47 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:48:47 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:48:47 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:48:47 --> URI Class Initialized
+DEBUG - 2021-05-30 13:48:47 --> Router Class Initialized
+DEBUG - 2021-05-30 13:48:47 --> Output Class Initialized
+DEBUG - 2021-05-30 13:48:47 --> Security Class Initialized
+DEBUG - 2021-05-30 13:48:47 --> Input Class Initialized
+DEBUG - 2021-05-30 13:48:47 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:48:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:48:47 --> Language Class Initialized
+DEBUG - 2021-05-30 13:48:47 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:48:47 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:48:47 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:48:47 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:48:47 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:48:47 --> Session Class Initialized
+DEBUG - 2021-05-30 13:48:47 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:48:47 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:48:47 --> Session routines successfully run
+DEBUG - 2021-05-30 13:48:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:48:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:48:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:48:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:48:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:48:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:48:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:48:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:48:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:48:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:48:47 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:48:47 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:48:47 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:48:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:48:47 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 13:48:47 --> File loaded: application/views/user/profile.php
+DEBUG - 2021-05-30 13:48:47 --> File loaded: application/views/template/menu_pnd.php
+DEBUG - 2021-05-30 13:48:47 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:48:47 --> Final output sent to browser
+DEBUG - 2021-05-30 13:48:47 --> Total execution time: 0.1065
+DEBUG - 2021-05-30 13:49:42 --> Config Class Initialized
+DEBUG - 2021-05-30 13:49:42 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:49:42 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:49:42 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:49:42 --> URI Class Initialized
+DEBUG - 2021-05-30 13:49:42 --> Router Class Initialized
+DEBUG - 2021-05-30 13:49:42 --> Output Class Initialized
+DEBUG - 2021-05-30 13:49:42 --> Security Class Initialized
+DEBUG - 2021-05-30 13:49:42 --> Input Class Initialized
+DEBUG - 2021-05-30 13:49:42 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:49:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:49:42 --> Language Class Initialized
+DEBUG - 2021-05-30 13:49:42 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:49:42 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:49:42 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:49:42 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:49:42 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:49:42 --> Session Class Initialized
+DEBUG - 2021-05-30 13:49:42 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:49:42 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:49:42 --> Session routines successfully run
+DEBUG - 2021-05-30 13:49:42 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:42 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:42 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:42 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:42 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:42 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:42 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:42 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:42 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:42 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:42 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:49:42 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:49:42 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:49:42 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:42 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 13:49:42 --> File loaded: application/views/user/profile.php
+DEBUG - 2021-05-30 13:49:42 --> File loaded: application/views/template/menu_pnd.php
+DEBUG - 2021-05-30 13:49:42 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:49:42 --> Final output sent to browser
+DEBUG - 2021-05-30 13:49:42 --> Total execution time: 0.1139
+DEBUG - 2021-05-30 13:49:46 --> Config Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:49:46 --> URI Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Router Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Output Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Security Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Input Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:49:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:49:46 --> Language Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:49:46 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:49:46 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:49:46 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Session Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:49:46 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Session routines successfully run
+DEBUG - 2021-05-30 13:49:46 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:49:46 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:49:46 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:49:46 --> Config Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:49:46 --> URI Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Router Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Output Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Security Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Input Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:49:46 --> Language Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:49:46 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:49:46 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:49:46 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Session Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:49:46 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> A session cookie was not found.
+DEBUG - 2021-05-30 13:49:46 --> Session routines successfully run
+DEBUG - 2021-05-30 13:49:46 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:46 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:49:46 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:49:46 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:49:47 --> Config Class Initialized
+DEBUG - 2021-05-30 13:49:47 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:49:47 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:49:47 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:49:47 --> URI Class Initialized
+DEBUG - 2021-05-30 13:49:47 --> Router Class Initialized
+DEBUG - 2021-05-30 13:49:47 --> Output Class Initialized
+DEBUG - 2021-05-30 13:49:47 --> Security Class Initialized
+DEBUG - 2021-05-30 13:49:47 --> Input Class Initialized
+DEBUG - 2021-05-30 13:49:47 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:49:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:49:47 --> Language Class Initialized
+DEBUG - 2021-05-30 13:49:47 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:49:47 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:49:47 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:49:47 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:49:47 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:49:47 --> Session Class Initialized
+DEBUG - 2021-05-30 13:49:47 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:49:47 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:49:47 --> Session routines successfully run
+DEBUG - 2021-05-30 13:49:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:47 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:49:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:47 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:47 --> Pagination Class Initialized
+DEBUG - 2021-05-30 13:49:47 --> Table Class Initialized
+DEBUG - 2021-05-30 13:49:47 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 13:49:47 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 13:49:47 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:49:47 --> Final output sent to browser
+DEBUG - 2021-05-30 13:49:47 --> Total execution time: 0.1196
+DEBUG - 2021-05-30 13:49:48 --> Config Class Initialized
+DEBUG - 2021-05-30 13:49:48 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:49:48 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:49:48 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:49:48 --> URI Class Initialized
+DEBUG - 2021-05-30 13:49:49 --> Router Class Initialized
+DEBUG - 2021-05-30 13:49:49 --> Output Class Initialized
+DEBUG - 2021-05-30 13:49:49 --> Security Class Initialized
+DEBUG - 2021-05-30 13:49:49 --> Input Class Initialized
+DEBUG - 2021-05-30 13:49:49 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:49:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:49:49 --> Language Class Initialized
+DEBUG - 2021-05-30 13:49:49 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:49:49 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:49:49 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:49:49 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:49:49 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:49:49 --> Session Class Initialized
+DEBUG - 2021-05-30 13:49:49 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:49:49 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:49:49 --> Session routines successfully run
+DEBUG - 2021-05-30 13:49:49 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:49 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:49 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:49 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:49 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:49 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:49 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:49 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:49 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:49 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:49 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:49:49 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:49 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:49 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:49:49 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:49:49 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:49:49 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 13:49:49 --> File loaded: application/views/login/index.php
+DEBUG - 2021-05-30 13:49:49 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 13:49:49 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:49:49 --> Final output sent to browser
+DEBUG - 2021-05-30 13:49:49 --> Total execution time: 0.1375
+DEBUG - 2021-05-30 13:49:58 --> Config Class Initialized
+DEBUG - 2021-05-30 13:49:58 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:49:58 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:49:58 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:49:58 --> URI Class Initialized
+DEBUG - 2021-05-30 13:49:58 --> Router Class Initialized
+DEBUG - 2021-05-30 13:49:58 --> Output Class Initialized
+DEBUG - 2021-05-30 13:49:58 --> Security Class Initialized
+DEBUG - 2021-05-30 13:49:58 --> Input Class Initialized
+DEBUG - 2021-05-30 13:49:58 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:49:58 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:49:58 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:49:58 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:49:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:49:58 --> Language Class Initialized
+DEBUG - 2021-05-30 13:49:58 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:49:58 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:49:58 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:49:58 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:49:58 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:49:58 --> Session Class Initialized
+DEBUG - 2021-05-30 13:49:58 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:49:58 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:49:58 --> Session routines successfully run
+DEBUG - 2021-05-30 13:49:58 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:58 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:58 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:58 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:58 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:58 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:58 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:58 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:58 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:58 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:58 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:49:58 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:58 --> Model Class Initialized
+DEBUG - 2021-05-30 13:49:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:49:58 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:49:58 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:49:58 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 13:49:58 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2021-05-30 13:49:58 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:49:58 --> XSS Filtering completed
+ERROR - 2021-05-30 13:49:58 --> Could not find the language line "check_login"
+DEBUG - 2021-05-30 13:49:58 --> File loaded: application/views/login/index.php
+DEBUG - 2021-05-30 13:49:58 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 13:49:58 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:49:58 --> Final output sent to browser
+DEBUG - 2021-05-30 13:49:58 --> Total execution time: 0.2281
+DEBUG - 2021-05-30 13:50:03 --> Config Class Initialized
+DEBUG - 2021-05-30 13:50:03 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:50:03 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:50:03 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:50:03 --> URI Class Initialized
+DEBUG - 2021-05-30 13:50:03 --> Router Class Initialized
+DEBUG - 2021-05-30 13:50:03 --> Output Class Initialized
+DEBUG - 2021-05-30 13:50:03 --> Security Class Initialized
+DEBUG - 2021-05-30 13:50:03 --> Input Class Initialized
+DEBUG - 2021-05-30 13:50:03 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:50:03 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:50:03 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:50:03 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:50:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:50:03 --> Language Class Initialized
+DEBUG - 2021-05-30 13:50:03 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:50:03 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:50:03 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:50:03 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:50:03 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:50:03 --> Session Class Initialized
+DEBUG - 2021-05-30 13:50:03 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:50:03 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:50:03 --> Session routines successfully run
+DEBUG - 2021-05-30 13:50:03 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:03 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:03 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:03 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:03 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:03 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:03 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:03 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:03 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:03 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:03 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:50:03 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:03 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:03 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:50:03 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:50:03 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:50:03 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 13:50:03 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2021-05-30 13:50:03 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:50:03 --> XSS Filtering completed
+ERROR - 2021-05-30 13:50:03 --> Could not find the language line "check_login"
+DEBUG - 2021-05-30 13:50:03 --> File loaded: application/views/login/index.php
+DEBUG - 2021-05-30 13:50:03 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 13:50:03 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:50:03 --> Final output sent to browser
+DEBUG - 2021-05-30 13:50:03 --> Total execution time: 0.2768
+DEBUG - 2021-05-30 13:50:12 --> Config Class Initialized
+DEBUG - 2021-05-30 13:50:12 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:50:12 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:50:12 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:50:12 --> URI Class Initialized
+DEBUG - 2021-05-30 13:50:12 --> Router Class Initialized
+DEBUG - 2021-05-30 13:50:12 --> Output Class Initialized
+DEBUG - 2021-05-30 13:50:12 --> Security Class Initialized
+DEBUG - 2021-05-30 13:50:12 --> Input Class Initialized
+DEBUG - 2021-05-30 13:50:12 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:50:12 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:50:12 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:50:12 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:50:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:50:12 --> Language Class Initialized
+DEBUG - 2021-05-30 13:50:12 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:50:12 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:50:12 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:50:12 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:50:12 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:50:12 --> Session Class Initialized
+DEBUG - 2021-05-30 13:50:12 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:50:12 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:50:12 --> Session routines successfully run
+DEBUG - 2021-05-30 13:50:12 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:12 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:12 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:12 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:12 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:12 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:12 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:12 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:12 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:12 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:12 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:50:12 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:12 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:12 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:50:12 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:50:12 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:50:12 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 13:50:12 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2021-05-30 13:50:12 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:50:12 --> XSS Filtering completed
+ERROR - 2021-05-30 13:50:12 --> Could not find the language line "check_login"
+DEBUG - 2021-05-30 13:50:12 --> File loaded: application/views/login/index.php
+DEBUG - 2021-05-30 13:50:12 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 13:50:12 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:50:12 --> Final output sent to browser
+DEBUG - 2021-05-30 13:50:12 --> Total execution time: 0.3494
+DEBUG - 2021-05-30 13:50:24 --> Config Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:50:24 --> URI Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> Router Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> Output Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> Security Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> Input Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:50:24 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:50:24 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:50:24 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:50:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:50:24 --> Language Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:50:24 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:50:24 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:50:24 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> Session Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:50:24 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> Session routines successfully run
+DEBUG - 2021-05-30 13:50:24 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:50:24 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:50:24 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:50:24 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2021-05-30 13:50:24 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:50:24 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:50:24 --> Config Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:50:24 --> URI Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> Router Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> Output Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> Security Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> Input Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:50:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:50:24 --> Language Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:50:24 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:50:24 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:50:24 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> Session Class Initialized
+DEBUG - 2021-05-30 13:50:24 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:50:24 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:50:25 --> Session routines successfully run
+DEBUG - 2021-05-30 13:50:25 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:25 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:25 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:25 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:25 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:25 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:25 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:25 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:25 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:25 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:25 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:50:25 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:25 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:25 --> Model Class Initialized
+DEBUG - 2021-05-30 13:50:25 --> Pagination Class Initialized
+DEBUG - 2021-05-30 13:50:25 --> Table Class Initialized
+DEBUG - 2021-05-30 13:50:25 --> File loaded: application/views/dashboard/index.php
+ERROR - 2021-05-30 13:50:25 --> Severity: Notice  --> Undefined variable: menu C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\libraries\Template.php 72
+DEBUG - 2021-05-30 13:52:56 --> Config Class Initialized
+DEBUG - 2021-05-30 13:52:56 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:52:56 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:52:56 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:52:56 --> URI Class Initialized
+DEBUG - 2021-05-30 13:52:56 --> Router Class Initialized
+DEBUG - 2021-05-30 13:52:56 --> Output Class Initialized
+DEBUG - 2021-05-30 13:52:56 --> Security Class Initialized
+DEBUG - 2021-05-30 13:52:56 --> Input Class Initialized
+DEBUG - 2021-05-30 13:52:56 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:52:56 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:52:56 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:52:56 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:52:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:52:56 --> Language Class Initialized
+DEBUG - 2021-05-30 13:52:56 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:52:56 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:52:56 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:52:56 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:52:56 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:52:56 --> Session Class Initialized
+DEBUG - 2021-05-30 13:52:56 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:52:56 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Session garbage collection performed.
+DEBUG - 2021-05-30 13:52:57 --> Session routines successfully run
+DEBUG - 2021-05-30 13:52:57 --> Model Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Model Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Model Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Model Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Model Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Model Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Model Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Model Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Model Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Model Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Model Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Model Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:52:57 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:52:57 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:52:57 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2021-05-30 13:52:57 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:52:57 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:52:57 --> Config Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:52:57 --> URI Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Router Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Output Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Security Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Input Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:52:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:52:57 --> Language Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:52:57 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:52:57 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:52:57 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Session Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:52:57 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Session garbage collection performed.
+DEBUG - 2021-05-30 13:52:57 --> Session routines successfully run
+DEBUG - 2021-05-30 13:52:57 --> Model Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Model Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Model Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Model Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Model Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Model Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Model Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Model Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Model Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Model Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Model Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Model Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Model Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Pagination Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> Table Class Initialized
+DEBUG - 2021-05-30 13:52:57 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 13:52:57 --> File loaded: application/views/template/menu_ldt.php
+DEBUG - 2021-05-30 13:52:57 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:52:57 --> Final output sent to browser
+DEBUG - 2021-05-30 13:52:57 --> Total execution time: 0.1706
+DEBUG - 2021-05-30 13:53:07 --> Config Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:53:07 --> URI Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Router Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Output Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Security Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Input Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:53:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:53:07 --> Language Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:53:07 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:53:07 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:53:07 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Session Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:53:07 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Session routines successfully run
+DEBUG - 2021-05-30 13:53:07 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:53:07 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:53:07 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:53:07 --> Config Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:53:07 --> URI Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Router Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Output Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Security Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Input Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:53:07 --> Language Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:53:07 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:53:07 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:53:07 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Session Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:53:07 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> A session cookie was not found.
+DEBUG - 2021-05-30 13:53:07 --> Session routines successfully run
+DEBUG - 2021-05-30 13:53:07 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:53:07 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:53:07 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:53:08 --> Config Class Initialized
+DEBUG - 2021-05-30 13:53:08 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:53:08 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:53:08 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:53:08 --> URI Class Initialized
+DEBUG - 2021-05-30 13:53:08 --> Router Class Initialized
+DEBUG - 2021-05-30 13:53:08 --> Output Class Initialized
+DEBUG - 2021-05-30 13:53:08 --> Security Class Initialized
+DEBUG - 2021-05-30 13:53:08 --> Input Class Initialized
+DEBUG - 2021-05-30 13:53:08 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:53:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:53:08 --> Language Class Initialized
+DEBUG - 2021-05-30 13:53:08 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:53:08 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:53:08 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:53:08 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:53:08 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:53:08 --> Session Class Initialized
+DEBUG - 2021-05-30 13:53:08 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:53:08 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:53:08 --> Session routines successfully run
+DEBUG - 2021-05-30 13:53:08 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:08 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:08 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:08 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:08 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:08 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:08 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:08 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:08 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:08 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:08 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:53:08 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:08 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:08 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:08 --> Pagination Class Initialized
+DEBUG - 2021-05-30 13:53:08 --> Table Class Initialized
+DEBUG - 2021-05-30 13:53:08 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 13:53:08 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 13:53:08 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:53:08 --> Final output sent to browser
+DEBUG - 2021-05-30 13:53:08 --> Total execution time: 0.1147
+DEBUG - 2021-05-30 13:53:10 --> Config Class Initialized
+DEBUG - 2021-05-30 13:53:10 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:53:10 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:53:10 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:53:10 --> URI Class Initialized
+DEBUG - 2021-05-30 13:53:10 --> Router Class Initialized
+DEBUG - 2021-05-30 13:53:10 --> Output Class Initialized
+DEBUG - 2021-05-30 13:53:10 --> Security Class Initialized
+DEBUG - 2021-05-30 13:53:10 --> Input Class Initialized
+DEBUG - 2021-05-30 13:53:10 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:53:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:53:10 --> Language Class Initialized
+DEBUG - 2021-05-30 13:53:10 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:53:10 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:53:10 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:53:10 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:53:10 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:53:10 --> Session Class Initialized
+DEBUG - 2021-05-30 13:53:10 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:53:10 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:53:10 --> Session routines successfully run
+DEBUG - 2021-05-30 13:53:10 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:10 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:10 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:10 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:10 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:10 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:10 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:10 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:10 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:10 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:10 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:53:10 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:10 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:10 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:53:10 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:53:10 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:53:10 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 13:53:10 --> File loaded: application/views/login/index.php
+DEBUG - 2021-05-30 13:53:10 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 13:53:10 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:53:10 --> Final output sent to browser
+DEBUG - 2021-05-30 13:53:10 --> Total execution time: 0.1248
+DEBUG - 2021-05-30 13:53:19 --> Config Class Initialized
+DEBUG - 2021-05-30 13:53:19 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:53:19 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:53:19 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:53:19 --> URI Class Initialized
+DEBUG - 2021-05-30 13:53:19 --> Router Class Initialized
+DEBUG - 2021-05-30 13:53:19 --> Output Class Initialized
+DEBUG - 2021-05-30 13:53:19 --> Security Class Initialized
+DEBUG - 2021-05-30 13:53:19 --> Input Class Initialized
+DEBUG - 2021-05-30 13:53:19 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:53:19 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:53:19 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:53:19 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:53:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:53:19 --> Language Class Initialized
+DEBUG - 2021-05-30 13:53:19 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:53:19 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:53:19 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:53:19 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:53:20 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:53:20 --> Session Class Initialized
+DEBUG - 2021-05-30 13:53:20 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:53:20 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:53:20 --> Session routines successfully run
+DEBUG - 2021-05-30 13:53:20 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:20 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:20 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:20 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:20 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:20 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:20 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:20 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:20 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:20 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:20 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:53:20 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:20 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:20 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:53:20 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:53:20 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:53:20 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 13:53:20 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2021-05-30 13:53:20 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:53:20 --> XSS Filtering completed
+ERROR - 2021-05-30 13:53:20 --> Could not find the language line "check_login"
+DEBUG - 2021-05-30 13:53:20 --> File loaded: application/views/login/index.php
+DEBUG - 2021-05-30 13:53:20 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 13:53:20 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:53:20 --> Final output sent to browser
+DEBUG - 2021-05-30 13:53:20 --> Total execution time: 0.2295
+DEBUG - 2021-05-30 13:53:27 --> Config Class Initialized
+DEBUG - 2021-05-30 13:53:27 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:53:27 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:53:27 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:53:27 --> URI Class Initialized
+DEBUG - 2021-05-30 13:53:27 --> Router Class Initialized
+DEBUG - 2021-05-30 13:53:27 --> Output Class Initialized
+DEBUG - 2021-05-30 13:53:27 --> Security Class Initialized
+DEBUG - 2021-05-30 13:53:27 --> Input Class Initialized
+DEBUG - 2021-05-30 13:53:27 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:53:27 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:53:27 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:53:27 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:53:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:53:27 --> Language Class Initialized
+DEBUG - 2021-05-30 13:53:27 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:53:27 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:53:27 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:53:27 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:53:27 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:53:27 --> Session Class Initialized
+DEBUG - 2021-05-30 13:53:27 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:53:27 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:53:27 --> Session routines successfully run
+DEBUG - 2021-05-30 13:53:27 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:27 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:27 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:27 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:27 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:27 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:27 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:27 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:27 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:27 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:27 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:53:27 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:27 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:27 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:53:28 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:53:28 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:53:28 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 13:53:28 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2021-05-30 13:53:28 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:53:28 --> XSS Filtering completed
+ERROR - 2021-05-30 13:53:28 --> Could not find the language line "check_login"
+DEBUG - 2021-05-30 13:53:28 --> File loaded: application/views/login/index.php
+DEBUG - 2021-05-30 13:53:28 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 13:53:28 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:53:28 --> Final output sent to browser
+DEBUG - 2021-05-30 13:53:28 --> Total execution time: 0.2478
+DEBUG - 2021-05-30 13:53:40 --> Config Class Initialized
+DEBUG - 2021-05-30 13:53:40 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:53:40 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:53:40 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:53:40 --> URI Class Initialized
+DEBUG - 2021-05-30 13:53:40 --> Router Class Initialized
+DEBUG - 2021-05-30 13:53:40 --> Output Class Initialized
+DEBUG - 2021-05-30 13:53:40 --> Security Class Initialized
+DEBUG - 2021-05-30 13:53:40 --> Input Class Initialized
+DEBUG - 2021-05-30 13:53:40 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:53:40 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:53:40 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:53:40 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:53:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:53:40 --> Language Class Initialized
+DEBUG - 2021-05-30 13:53:40 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:53:40 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:53:40 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:53:40 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:53:40 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:53:40 --> Session Class Initialized
+DEBUG - 2021-05-30 13:53:40 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:53:40 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:53:40 --> Session routines successfully run
+DEBUG - 2021-05-30 13:53:40 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:40 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:40 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:40 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:40 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:40 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:40 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:40 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:40 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:40 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:40 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:53:41 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:41 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:41 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:53:41 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:53:41 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:53:41 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 13:53:41 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2021-05-30 13:53:41 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:53:41 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:53:41 --> Config Class Initialized
+DEBUG - 2021-05-30 13:53:41 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:53:41 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:53:41 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:53:41 --> URI Class Initialized
+DEBUG - 2021-05-30 13:53:41 --> Router Class Initialized
+DEBUG - 2021-05-30 13:53:41 --> Output Class Initialized
+DEBUG - 2021-05-30 13:53:41 --> Security Class Initialized
+DEBUG - 2021-05-30 13:53:41 --> Input Class Initialized
+DEBUG - 2021-05-30 13:53:41 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:53:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:53:41 --> Language Class Initialized
+DEBUG - 2021-05-30 13:53:41 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:53:41 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:53:41 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:53:41 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:53:41 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:53:41 --> Session Class Initialized
+DEBUG - 2021-05-30 13:53:41 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:53:41 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:53:41 --> Session routines successfully run
+DEBUG - 2021-05-30 13:53:41 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:41 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:41 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:41 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:41 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:41 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:41 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:41 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:41 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:41 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:41 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:53:41 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:41 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:41 --> Model Class Initialized
+DEBUG - 2021-05-30 13:53:41 --> Pagination Class Initialized
+DEBUG - 2021-05-30 13:53:41 --> Table Class Initialized
+DEBUG - 2021-05-30 13:53:41 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 13:53:41 --> File loaded: application/views/template/menu_pnd.php
+DEBUG - 2021-05-30 13:53:41 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:53:41 --> Final output sent to browser
+DEBUG - 2021-05-30 13:53:41 --> Total execution time: 0.2858
+DEBUG - 2021-05-30 13:54:18 --> Config Class Initialized
+DEBUG - 2021-05-30 13:54:18 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:54:18 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:54:18 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:54:18 --> URI Class Initialized
+DEBUG - 2021-05-30 13:54:18 --> Router Class Initialized
+DEBUG - 2021-05-30 13:54:18 --> Output Class Initialized
+DEBUG - 2021-05-30 13:54:18 --> Security Class Initialized
+DEBUG - 2021-05-30 13:54:18 --> Input Class Initialized
+DEBUG - 2021-05-30 13:54:18 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:54:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:54:18 --> Language Class Initialized
+DEBUG - 2021-05-30 13:54:18 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:54:18 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:54:18 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:54:18 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:54:18 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:54:18 --> Session Class Initialized
+DEBUG - 2021-05-30 13:54:18 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:54:18 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Session routines successfully run
+DEBUG - 2021-05-30 13:54:19 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:54:19 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:54:19 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:54:19 --> Config Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:54:19 --> URI Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Router Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Output Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Security Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Input Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:54:19 --> Language Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:54:19 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:54:19 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:54:19 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Session Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:54:19 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> A session cookie was not found.
+DEBUG - 2021-05-30 13:54:19 --> Session routines successfully run
+DEBUG - 2021-05-30 13:54:19 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:54:19 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:54:19 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:54:19 --> Config Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:54:19 --> URI Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Router Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Output Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Security Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Input Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:54:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:54:19 --> Language Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:54:19 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:54:19 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:54:19 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Session Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:54:19 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Session routines successfully run
+DEBUG - 2021-05-30 13:54:19 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Pagination Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> Table Class Initialized
+DEBUG - 2021-05-30 13:54:19 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 13:54:19 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 13:54:19 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:54:19 --> Final output sent to browser
+DEBUG - 2021-05-30 13:54:19 --> Total execution time: 0.1102
+DEBUG - 2021-05-30 13:54:21 --> Config Class Initialized
+DEBUG - 2021-05-30 13:54:21 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:54:21 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:54:21 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:54:21 --> URI Class Initialized
+DEBUG - 2021-05-30 13:54:21 --> Router Class Initialized
+DEBUG - 2021-05-30 13:54:21 --> Output Class Initialized
+DEBUG - 2021-05-30 13:54:21 --> Security Class Initialized
+DEBUG - 2021-05-30 13:54:21 --> Input Class Initialized
+DEBUG - 2021-05-30 13:54:21 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:54:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:54:21 --> Language Class Initialized
+DEBUG - 2021-05-30 13:54:21 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:54:21 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:54:21 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:54:21 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:54:21 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:54:21 --> Session Class Initialized
+DEBUG - 2021-05-30 13:54:21 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:54:21 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:54:21 --> Session garbage collection performed.
+DEBUG - 2021-05-30 13:54:21 --> Session routines successfully run
+DEBUG - 2021-05-30 13:54:21 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:21 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:21 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:21 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:21 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:21 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:21 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:21 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:21 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:21 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:21 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:54:21 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:21 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:54:21 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:54:21 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:54:21 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 13:54:21 --> File loaded: application/views/login/index.php
+DEBUG - 2021-05-30 13:54:21 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 13:54:21 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 13:54:21 --> Final output sent to browser
+DEBUG - 2021-05-30 13:54:21 --> Total execution time: 0.1108
+DEBUG - 2021-05-30 13:54:43 --> Config Class Initialized
+DEBUG - 2021-05-30 13:54:43 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:54:43 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:54:43 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:54:43 --> URI Class Initialized
+DEBUG - 2021-05-30 13:54:43 --> Router Class Initialized
+DEBUG - 2021-05-30 13:54:43 --> Output Class Initialized
+DEBUG - 2021-05-30 13:54:43 --> Security Class Initialized
+DEBUG - 2021-05-30 13:54:43 --> Input Class Initialized
+DEBUG - 2021-05-30 13:54:43 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:54:43 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:54:43 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:54:43 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:54:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:54:43 --> Language Class Initialized
+DEBUG - 2021-05-30 13:54:43 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:54:43 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:54:43 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:54:43 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:54:43 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:54:43 --> Session Class Initialized
+DEBUG - 2021-05-30 13:54:43 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:54:43 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:54:43 --> Session routines successfully run
+DEBUG - 2021-05-30 13:54:43 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:43 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:43 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:43 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:43 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:43 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:43 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:43 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:43 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:43 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:43 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:54:43 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:43 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:43 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:54:43 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 13:54:43 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 13:54:43 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 13:54:43 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2021-05-30 13:54:43 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:54:43 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:54:44 --> Config Class Initialized
+DEBUG - 2021-05-30 13:54:44 --> Hooks Class Initialized
+DEBUG - 2021-05-30 13:54:44 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 13:54:44 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 13:54:44 --> URI Class Initialized
+DEBUG - 2021-05-30 13:54:44 --> Router Class Initialized
+DEBUG - 2021-05-30 13:54:44 --> Output Class Initialized
+DEBUG - 2021-05-30 13:54:44 --> Security Class Initialized
+DEBUG - 2021-05-30 13:54:44 --> Input Class Initialized
+DEBUG - 2021-05-30 13:54:44 --> XSS Filtering completed
+DEBUG - 2021-05-30 13:54:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 13:54:44 --> Language Class Initialized
+DEBUG - 2021-05-30 13:54:44 --> Loader Class Initialized
+DEBUG - 2021-05-30 13:54:44 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 13:54:44 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 13:54:44 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 13:54:44 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 13:54:44 --> Session Class Initialized
+DEBUG - 2021-05-30 13:54:44 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 13:54:44 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 13:54:44 --> Session routines successfully run
+DEBUG - 2021-05-30 13:54:44 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:44 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:44 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:44 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:44 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:44 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:44 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:44 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:44 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:44 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:44 --> Controller Class Initialized
+DEBUG - 2021-05-30 13:54:44 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:44 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:44 --> Model Class Initialized
+DEBUG - 2021-05-30 13:54:44 --> Pagination Class Initialized
+DEBUG - 2021-05-30 13:54:44 --> Table Class Initialized
+DEBUG - 2021-05-30 13:54:44 --> File loaded: application/views/dashboard/index.php
+ERROR - 2021-05-30 13:54:44 --> Severity: Notice  --> Undefined variable: menu C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\libraries\Template.php 72
+DEBUG - 2021-05-30 14:00:20 --> Config Class Initialized
+DEBUG - 2021-05-30 14:00:20 --> Hooks Class Initialized
+DEBUG - 2021-05-30 14:00:20 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 14:00:20 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 14:00:20 --> URI Class Initialized
+DEBUG - 2021-05-30 14:00:20 --> Router Class Initialized
+DEBUG - 2021-05-30 14:00:20 --> Output Class Initialized
+DEBUG - 2021-05-30 14:00:20 --> Security Class Initialized
+DEBUG - 2021-05-30 14:00:20 --> Input Class Initialized
+DEBUG - 2021-05-30 14:00:20 --> XSS Filtering completed
+DEBUG - 2021-05-30 14:00:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 14:00:20 --> Language Class Initialized
+DEBUG - 2021-05-30 14:00:20 --> Loader Class Initialized
+DEBUG - 2021-05-30 14:00:20 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 14:00:20 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 14:00:20 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 14:00:20 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 14:00:20 --> Session Class Initialized
+DEBUG - 2021-05-30 14:00:20 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 14:00:20 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 14:00:20 --> Session routines successfully run
+DEBUG - 2021-05-30 14:00:20 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:20 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:20 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:20 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:20 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:20 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:20 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:20 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:20 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:20 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:20 --> Controller Class Initialized
+DEBUG - 2021-05-30 14:00:20 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:20 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:20 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 14:00:20 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 14:00:20 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 14:00:20 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 14:00:20 --> File loaded: application/views/login/index.php
+ERROR - 2021-05-30 14:00:20 --> Severity: Notice  --> Undefined variable: menu C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\libraries\Template.php 72
+DEBUG - 2021-05-30 14:00:24 --> Config Class Initialized
+DEBUG - 2021-05-30 14:00:24 --> Hooks Class Initialized
+DEBUG - 2021-05-30 14:00:24 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 14:00:24 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 14:00:24 --> URI Class Initialized
+DEBUG - 2021-05-30 14:00:24 --> Router Class Initialized
+DEBUG - 2021-05-30 14:00:24 --> Output Class Initialized
+DEBUG - 2021-05-30 14:00:24 --> Security Class Initialized
+DEBUG - 2021-05-30 14:00:24 --> Input Class Initialized
+DEBUG - 2021-05-30 14:00:24 --> XSS Filtering completed
+DEBUG - 2021-05-30 14:00:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 14:00:24 --> Language Class Initialized
+DEBUG - 2021-05-30 14:00:24 --> Loader Class Initialized
+DEBUG - 2021-05-30 14:00:24 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 14:00:24 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 14:00:24 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 14:00:24 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 14:00:24 --> Session Class Initialized
+DEBUG - 2021-05-30 14:00:24 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 14:00:24 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 14:00:24 --> Session routines successfully run
+DEBUG - 2021-05-30 14:00:24 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:24 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:24 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:24 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:24 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:24 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:24 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:24 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:24 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:24 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:24 --> Controller Class Initialized
+DEBUG - 2021-05-30 14:00:24 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:24 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:24 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:24 --> Pagination Class Initialized
+DEBUG - 2021-05-30 14:00:24 --> Table Class Initialized
+DEBUG - 2021-05-30 14:00:24 --> File loaded: application/views/dashboard/index.php
+ERROR - 2021-05-30 14:00:24 --> Severity: Notice  --> Undefined variable: menu C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\libraries\Template.php 72
+DEBUG - 2021-05-30 14:00:34 --> Config Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Hooks Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 14:00:34 --> URI Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Router Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Output Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Security Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Input Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> XSS Filtering completed
+DEBUG - 2021-05-30 14:00:34 --> XSS Filtering completed
+DEBUG - 2021-05-30 14:00:34 --> XSS Filtering completed
+DEBUG - 2021-05-30 14:00:34 --> XSS Filtering completed
+DEBUG - 2021-05-30 14:00:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 14:00:34 --> Language Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Loader Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 14:00:34 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 14:00:34 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 14:00:34 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Session Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 14:00:34 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Session routines successfully run
+DEBUG - 2021-05-30 14:00:34 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Controller Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 14:00:34 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 14:00:34 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 14:00:34 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2021-05-30 14:00:34 --> XSS Filtering completed
+DEBUG - 2021-05-30 14:00:34 --> XSS Filtering completed
+DEBUG - 2021-05-30 14:00:34 --> Config Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Hooks Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 14:00:34 --> URI Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Router Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Output Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Security Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Input Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> XSS Filtering completed
+DEBUG - 2021-05-30 14:00:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 14:00:34 --> Language Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Loader Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 14:00:34 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 14:00:34 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 14:00:34 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Session Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 14:00:34 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Session routines successfully run
+DEBUG - 2021-05-30 14:00:34 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Controller Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Model Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Pagination Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> Table Class Initialized
+DEBUG - 2021-05-30 14:00:34 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 14:00:34 --> File loaded: application/views/template/menu_ls.php
+DEBUG - 2021-05-30 14:00:34 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 14:00:34 --> Final output sent to browser
+DEBUG - 2021-05-30 14:00:34 --> Total execution time: 0.1903
+DEBUG - 2021-05-30 18:12:30 --> Config Class Initialized
+DEBUG - 2021-05-30 18:12:30 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:12:30 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:12:30 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:12:30 --> URI Class Initialized
+DEBUG - 2021-05-30 18:12:30 --> Router Class Initialized
+DEBUG - 2021-05-30 18:12:30 --> Output Class Initialized
+DEBUG - 2021-05-30 18:12:30 --> Security Class Initialized
+DEBUG - 2021-05-30 18:12:30 --> Input Class Initialized
+DEBUG - 2021-05-30 18:12:30 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:12:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:12:30 --> Language Class Initialized
+DEBUG - 2021-05-30 18:12:30 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:12:30 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:12:30 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:12:30 --> Config Class Initialized
+DEBUG - 2021-05-30 18:12:30 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:12:30 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:12:30 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:12:30 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:12:30 --> URI Class Initialized
+DEBUG - 2021-05-30 18:12:30 --> Router Class Initialized
+DEBUG - 2021-05-30 18:12:30 --> Output Class Initialized
+DEBUG - 2021-05-30 18:12:30 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:12:30 --> Security Class Initialized
+DEBUG - 2021-05-30 18:12:30 --> Input Class Initialized
+DEBUG - 2021-05-30 18:12:30 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:12:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:12:30 --> Session Class Initialized
+DEBUG - 2021-05-30 18:12:30 --> Language Class Initialized
+DEBUG - 2021-05-30 18:12:30 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:12:30 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:12:30 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:12:30 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:12:30 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:12:30 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:12:30 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:12:30 --> Session Class Initialized
+DEBUG - 2021-05-30 18:12:30 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:12:30 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:12:31 --> Session routines successfully run
+DEBUG - 2021-05-30 18:12:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:12:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:12:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:12:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:12:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:12:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:12:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:12:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:12:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:12:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:12:31 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:12:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:12:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:12:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:12:31 --> Pagination Class Initialized
+DEBUG - 2021-05-30 18:12:31 --> Session routines successfully run
+DEBUG - 2021-05-30 18:12:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:12:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:12:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:12:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:12:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:12:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:12:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:12:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:12:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:12:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:12:31 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:12:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:12:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:12:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:12:31 --> Pagination Class Initialized
+DEBUG - 2021-05-30 18:12:31 --> Table Class Initialized
+DEBUG - 2021-05-30 18:12:31 --> Table Class Initialized
+DEBUG - 2021-05-30 18:12:31 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 18:12:31 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 18:12:31 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 18:12:31 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 18:12:31 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:12:31 --> Final output sent to browser
+DEBUG - 2021-05-30 18:12:31 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:12:31 --> Total execution time: 0.6884
+DEBUG - 2021-05-30 18:12:31 --> Final output sent to browser
+DEBUG - 2021-05-30 18:12:31 --> Total execution time: 0.6347
+DEBUG - 2021-05-30 18:14:58 --> Config Class Initialized
+DEBUG - 2021-05-30 18:14:58 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:14:58 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:14:58 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:14:58 --> URI Class Initialized
+DEBUG - 2021-05-30 18:14:58 --> Router Class Initialized
+DEBUG - 2021-05-30 18:14:58 --> Output Class Initialized
+DEBUG - 2021-05-30 18:14:58 --> Security Class Initialized
+DEBUG - 2021-05-30 18:14:58 --> Input Class Initialized
+DEBUG - 2021-05-30 18:14:58 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:14:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:14:58 --> Language Class Initialized
+DEBUG - 2021-05-30 18:14:58 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:14:58 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:14:58 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:14:58 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:14:58 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:14:58 --> Session Class Initialized
+DEBUG - 2021-05-30 18:14:58 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:14:58 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:14:58 --> Session routines successfully run
+DEBUG - 2021-05-30 18:14:58 --> Model Class Initialized
+DEBUG - 2021-05-30 18:14:58 --> Model Class Initialized
+DEBUG - 2021-05-30 18:14:58 --> Model Class Initialized
+DEBUG - 2021-05-30 18:14:58 --> Model Class Initialized
+DEBUG - 2021-05-30 18:14:58 --> Model Class Initialized
+DEBUG - 2021-05-30 18:14:58 --> Model Class Initialized
+DEBUG - 2021-05-30 18:14:58 --> Model Class Initialized
+DEBUG - 2021-05-30 18:14:58 --> Model Class Initialized
+DEBUG - 2021-05-30 18:14:58 --> Model Class Initialized
+DEBUG - 2021-05-30 18:14:58 --> Model Class Initialized
+DEBUG - 2021-05-30 18:14:58 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:14:58 --> Model Class Initialized
+DEBUG - 2021-05-30 18:14:58 --> Model Class Initialized
+DEBUG - 2021-05-30 18:14:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:14:58 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:14:58 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:14:58 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:14:58 --> File loaded: application/views/login/index.php
+DEBUG - 2021-05-30 18:14:58 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 18:14:58 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:14:58 --> Final output sent to browser
+DEBUG - 2021-05-30 18:14:58 --> Total execution time: 0.1111
+DEBUG - 2021-05-30 18:15:09 --> Config Class Initialized
+DEBUG - 2021-05-30 18:15:09 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:15:09 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:15:09 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:15:09 --> URI Class Initialized
+DEBUG - 2021-05-30 18:15:09 --> Router Class Initialized
+DEBUG - 2021-05-30 18:15:09 --> Output Class Initialized
+DEBUG - 2021-05-30 18:15:09 --> Security Class Initialized
+DEBUG - 2021-05-30 18:15:09 --> Input Class Initialized
+DEBUG - 2021-05-30 18:15:09 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:15:09 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:15:09 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:15:09 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:15:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:15:09 --> Language Class Initialized
+DEBUG - 2021-05-30 18:15:09 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:15:09 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:15:09 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:15:09 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:15:09 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:15:09 --> Session Class Initialized
+DEBUG - 2021-05-30 18:15:09 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:15:09 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:15:09 --> Session routines successfully run
+DEBUG - 2021-05-30 18:15:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:15:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:15:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:15:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:15:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:15:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:15:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:15:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:15:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:15:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:15:09 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:15:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:15:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:15:09 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:15:09 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:15:09 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:15:09 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:15:09 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2021-05-30 18:15:09 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:15:09 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:15:10 --> Config Class Initialized
+DEBUG - 2021-05-30 18:15:10 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:15:10 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:15:10 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:15:10 --> URI Class Initialized
+DEBUG - 2021-05-30 18:15:10 --> Router Class Initialized
+DEBUG - 2021-05-30 18:15:10 --> Output Class Initialized
+DEBUG - 2021-05-30 18:15:10 --> Security Class Initialized
+DEBUG - 2021-05-30 18:15:10 --> Input Class Initialized
+DEBUG - 2021-05-30 18:15:10 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:15:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:15:10 --> Language Class Initialized
+DEBUG - 2021-05-30 18:15:10 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:15:10 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:15:10 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:15:10 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:15:10 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:15:10 --> Session Class Initialized
+DEBUG - 2021-05-30 18:15:10 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:15:10 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:15:10 --> Session routines successfully run
+DEBUG - 2021-05-30 18:15:10 --> Model Class Initialized
+DEBUG - 2021-05-30 18:15:10 --> Model Class Initialized
+DEBUG - 2021-05-30 18:15:10 --> Model Class Initialized
+DEBUG - 2021-05-30 18:15:10 --> Model Class Initialized
+DEBUG - 2021-05-30 18:15:10 --> Model Class Initialized
+DEBUG - 2021-05-30 18:15:10 --> Model Class Initialized
+DEBUG - 2021-05-30 18:15:10 --> Model Class Initialized
+DEBUG - 2021-05-30 18:15:10 --> Model Class Initialized
+DEBUG - 2021-05-30 18:15:10 --> Model Class Initialized
+DEBUG - 2021-05-30 18:15:10 --> Model Class Initialized
+DEBUG - 2021-05-30 18:15:10 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:15:10 --> Model Class Initialized
+DEBUG - 2021-05-30 18:15:10 --> Model Class Initialized
+DEBUG - 2021-05-30 18:15:10 --> Model Class Initialized
+DEBUG - 2021-05-30 18:15:10 --> Pagination Class Initialized
+DEBUG - 2021-05-30 18:15:10 --> Table Class Initialized
+DEBUG - 2021-05-30 18:15:10 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 18:15:10 --> File loaded: application/views/template/menu_fgt.php
+DEBUG - 2021-05-30 18:15:10 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:15:10 --> Final output sent to browser
+DEBUG - 2021-05-30 18:15:10 --> Total execution time: 0.1927
+DEBUG - 2021-05-30 18:17:27 --> Config Class Initialized
+DEBUG - 2021-05-30 18:17:27 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:17:27 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:17:27 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:17:27 --> URI Class Initialized
+DEBUG - 2021-05-30 18:17:27 --> Router Class Initialized
+DEBUG - 2021-05-30 18:17:27 --> Output Class Initialized
+DEBUG - 2021-05-30 18:17:27 --> Security Class Initialized
+DEBUG - 2021-05-30 18:17:27 --> Input Class Initialized
+DEBUG - 2021-05-30 18:17:27 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:17:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:17:27 --> Language Class Initialized
+DEBUG - 2021-05-30 18:17:27 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:17:27 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:17:27 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:17:27 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:17:27 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:17:27 --> Session Class Initialized
+DEBUG - 2021-05-30 18:17:27 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:17:27 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:17:28 --> Session routines successfully run
+DEBUG - 2021-05-30 18:17:28 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:28 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:28 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:28 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:28 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:28 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:28 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:28 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:28 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:28 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:28 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:17:28 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:28 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:28 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:28 --> Pagination Class Initialized
+DEBUG - 2021-05-30 18:17:28 --> Table Class Initialized
+DEBUG - 2021-05-30 18:17:28 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 18:17:28 --> File loaded: application/views/template/menu_fgt.php
+DEBUG - 2021-05-30 18:17:28 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:17:28 --> Final output sent to browser
+DEBUG - 2021-05-30 18:17:28 --> Total execution time: 0.2266
+DEBUG - 2021-05-30 18:17:30 --> Config Class Initialized
+DEBUG - 2021-05-30 18:17:30 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:17:30 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:17:30 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:17:30 --> URI Class Initialized
+DEBUG - 2021-05-30 18:17:30 --> Router Class Initialized
+DEBUG - 2021-05-30 18:17:30 --> Output Class Initialized
+DEBUG - 2021-05-30 18:17:30 --> Security Class Initialized
+DEBUG - 2021-05-30 18:17:30 --> Input Class Initialized
+DEBUG - 2021-05-30 18:17:30 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:17:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:17:30 --> Language Class Initialized
+DEBUG - 2021-05-30 18:17:30 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:17:30 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:17:30 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:17:30 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:17:30 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:17:30 --> Session Class Initialized
+DEBUG - 2021-05-30 18:17:30 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:17:30 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:17:30 --> Session routines successfully run
+DEBUG - 2021-05-30 18:17:30 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:30 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:30 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:30 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:30 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:30 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:30 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:30 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:30 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:30 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:30 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:17:30 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:30 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:17:30 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:17:30 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:17:31 --> Config Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:17:31 --> URI Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Router Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Output Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Security Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Input Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:17:31 --> Language Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:17:31 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:17:31 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:17:31 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Session Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:17:31 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> A session cookie was not found.
+DEBUG - 2021-05-30 18:17:31 --> Session routines successfully run
+DEBUG - 2021-05-30 18:17:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:17:31 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:17:31 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:17:31 --> Config Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:17:31 --> URI Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Router Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Output Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Security Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Input Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:17:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:17:31 --> Language Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:17:31 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:17:31 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:17:31 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Session Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:17:31 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Session routines successfully run
+DEBUG - 2021-05-30 18:17:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Pagination Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> Table Class Initialized
+DEBUG - 2021-05-30 18:17:31 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 18:17:31 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 18:17:31 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:17:31 --> Final output sent to browser
+DEBUG - 2021-05-30 18:17:31 --> Total execution time: 0.1182
+DEBUG - 2021-05-30 18:17:33 --> Config Class Initialized
+DEBUG - 2021-05-30 18:17:33 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:17:33 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:17:33 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:17:33 --> URI Class Initialized
+DEBUG - 2021-05-30 18:17:33 --> Router Class Initialized
+DEBUG - 2021-05-30 18:17:33 --> Output Class Initialized
+DEBUG - 2021-05-30 18:17:33 --> Security Class Initialized
+DEBUG - 2021-05-30 18:17:33 --> Input Class Initialized
+DEBUG - 2021-05-30 18:17:33 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:17:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:17:33 --> Language Class Initialized
+DEBUG - 2021-05-30 18:17:33 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:17:33 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:17:33 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:17:33 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:17:33 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:17:33 --> Session Class Initialized
+DEBUG - 2021-05-30 18:17:33 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:17:33 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:17:33 --> Session routines successfully run
+DEBUG - 2021-05-30 18:17:33 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:33 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:33 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:33 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:33 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:33 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:33 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:33 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:33 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:33 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:33 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:17:33 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:33 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:33 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:17:33 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:17:33 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:17:33 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:17:33 --> File loaded: application/views/login/index.php
+DEBUG - 2021-05-30 18:17:33 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 18:17:33 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:17:33 --> Final output sent to browser
+DEBUG - 2021-05-30 18:17:33 --> Total execution time: 0.1168
+DEBUG - 2021-05-30 18:17:42 --> Config Class Initialized
+DEBUG - 2021-05-30 18:17:42 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:17:42 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:17:42 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:17:42 --> URI Class Initialized
+DEBUG - 2021-05-30 18:17:42 --> Router Class Initialized
+DEBUG - 2021-05-30 18:17:42 --> Output Class Initialized
+DEBUG - 2021-05-30 18:17:42 --> Security Class Initialized
+DEBUG - 2021-05-30 18:17:42 --> Input Class Initialized
+DEBUG - 2021-05-30 18:17:42 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:17:42 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:17:42 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:17:42 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:17:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:17:42 --> Language Class Initialized
+DEBUG - 2021-05-30 18:17:42 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:17:42 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:17:42 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:17:42 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:17:42 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:17:42 --> Session Class Initialized
+DEBUG - 2021-05-30 18:17:42 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:17:42 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:17:42 --> Session garbage collection performed.
+DEBUG - 2021-05-30 18:17:42 --> Session routines successfully run
+DEBUG - 2021-05-30 18:17:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:42 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:17:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:17:42 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:17:42 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:17:42 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:17:42 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:17:42 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2021-05-30 18:17:42 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:17:42 --> XSS Filtering completed
+ERROR - 2021-05-30 18:17:42 --> Could not find the language line "check_login"
+DEBUG - 2021-05-30 18:17:42 --> File loaded: application/views/login/index.php
+DEBUG - 2021-05-30 18:17:42 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 18:17:42 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:17:42 --> Final output sent to browser
+DEBUG - 2021-05-30 18:17:42 --> Total execution time: 0.3820
+DEBUG - 2021-05-30 18:18:19 --> Config Class Initialized
+DEBUG - 2021-05-30 18:18:19 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:18:19 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:18:19 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:18:19 --> URI Class Initialized
+DEBUG - 2021-05-30 18:18:19 --> Router Class Initialized
+DEBUG - 2021-05-30 18:18:19 --> Output Class Initialized
+DEBUG - 2021-05-30 18:18:19 --> Security Class Initialized
+DEBUG - 2021-05-30 18:18:19 --> Input Class Initialized
+DEBUG - 2021-05-30 18:18:19 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:18:19 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:18:19 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:18:19 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:18:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:18:19 --> Language Class Initialized
+DEBUG - 2021-05-30 18:18:19 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:18:19 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:18:19 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:18:19 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:18:19 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:18:19 --> Session Class Initialized
+DEBUG - 2021-05-30 18:18:19 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:18:19 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:18:19 --> Session routines successfully run
+DEBUG - 2021-05-30 18:18:19 --> Model Class Initialized
+DEBUG - 2021-05-30 18:18:19 --> Model Class Initialized
+DEBUG - 2021-05-30 18:18:19 --> Model Class Initialized
+DEBUG - 2021-05-30 18:18:19 --> Model Class Initialized
+DEBUG - 2021-05-30 18:18:19 --> Model Class Initialized
+DEBUG - 2021-05-30 18:18:19 --> Model Class Initialized
+DEBUG - 2021-05-30 18:18:19 --> Model Class Initialized
+DEBUG - 2021-05-30 18:18:19 --> Model Class Initialized
+DEBUG - 2021-05-30 18:18:19 --> Model Class Initialized
+DEBUG - 2021-05-30 18:18:19 --> Model Class Initialized
+DEBUG - 2021-05-30 18:18:19 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:18:19 --> Model Class Initialized
+DEBUG - 2021-05-30 18:18:19 --> Model Class Initialized
+DEBUG - 2021-05-30 18:18:19 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:18:19 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:18:19 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:18:19 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:18:19 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2021-05-30 18:18:19 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:18:19 --> XSS Filtering completed
+ERROR - 2021-05-30 18:18:19 --> Could not find the language line "check_login"
+DEBUG - 2021-05-30 18:18:19 --> File loaded: application/views/login/index.php
+DEBUG - 2021-05-30 18:18:19 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 18:18:19 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:18:19 --> Final output sent to browser
+DEBUG - 2021-05-30 18:18:19 --> Total execution time: 0.2978
+DEBUG - 2021-05-30 18:18:23 --> Config Class Initialized
+DEBUG - 2021-05-30 18:18:23 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:18:23 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:18:23 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:18:23 --> URI Class Initialized
+DEBUG - 2021-05-30 18:18:23 --> Router Class Initialized
+DEBUG - 2021-05-30 18:18:23 --> Output Class Initialized
+DEBUG - 2021-05-30 18:18:23 --> Security Class Initialized
+DEBUG - 2021-05-30 18:18:23 --> Input Class Initialized
+DEBUG - 2021-05-30 18:18:23 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:18:23 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:18:23 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:18:23 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:18:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:18:23 --> Language Class Initialized
+DEBUG - 2021-05-30 18:18:23 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:18:23 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:18:23 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:18:23 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:18:23 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:18:23 --> Session Class Initialized
+DEBUG - 2021-05-30 18:18:23 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:18:23 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:18:23 --> Session routines successfully run
+DEBUG - 2021-05-30 18:18:23 --> Model Class Initialized
+DEBUG - 2021-05-30 18:18:23 --> Model Class Initialized
+DEBUG - 2021-05-30 18:18:23 --> Model Class Initialized
+DEBUG - 2021-05-30 18:18:23 --> Model Class Initialized
+DEBUG - 2021-05-30 18:18:23 --> Model Class Initialized
+DEBUG - 2021-05-30 18:18:23 --> Model Class Initialized
+DEBUG - 2021-05-30 18:18:23 --> Model Class Initialized
+DEBUG - 2021-05-30 18:18:23 --> Model Class Initialized
+DEBUG - 2021-05-30 18:18:23 --> Model Class Initialized
+DEBUG - 2021-05-30 18:18:23 --> Model Class Initialized
+DEBUG - 2021-05-30 18:18:23 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:18:23 --> Model Class Initialized
+DEBUG - 2021-05-30 18:18:23 --> Model Class Initialized
+DEBUG - 2021-05-30 18:18:23 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:18:23 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:18:23 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:18:23 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:18:23 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2021-05-30 18:18:23 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:18:23 --> XSS Filtering completed
+ERROR - 2021-05-30 18:18:23 --> Could not find the language line "check_login"
+DEBUG - 2021-05-30 18:18:23 --> File loaded: application/views/login/index.php
+DEBUG - 2021-05-30 18:18:23 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 18:18:23 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:18:23 --> Final output sent to browser
+DEBUG - 2021-05-30 18:18:23 --> Total execution time: 0.4214
+DEBUG - 2021-05-30 18:18:36 --> Config Class Initialized
+DEBUG - 2021-05-30 18:18:36 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:18:36 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:18:36 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:18:36 --> URI Class Initialized
+DEBUG - 2021-05-30 18:18:36 --> Router Class Initialized
+DEBUG - 2021-05-30 18:18:36 --> Output Class Initialized
+DEBUG - 2021-05-30 18:18:36 --> Security Class Initialized
+DEBUG - 2021-05-30 18:18:36 --> Input Class Initialized
+DEBUG - 2021-05-30 18:18:36 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:18:36 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:18:36 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:18:36 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:18:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:18:36 --> Language Class Initialized
+DEBUG - 2021-05-30 18:18:36 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:18:36 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:18:36 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:18:36 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:18:36 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:18:36 --> Session Class Initialized
+DEBUG - 2021-05-30 18:18:36 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:18:36 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:18:36 --> Session routines successfully run
+DEBUG - 2021-05-30 18:18:36 --> Model Class Initialized
+DEBUG - 2021-05-30 18:18:36 --> Model Class Initialized
+DEBUG - 2021-05-30 18:18:36 --> Model Class Initialized
+DEBUG - 2021-05-30 18:18:36 --> Model Class Initialized
+DEBUG - 2021-05-30 18:18:36 --> Model Class Initialized
+DEBUG - 2021-05-30 18:18:36 --> Model Class Initialized
+DEBUG - 2021-05-30 18:18:36 --> Model Class Initialized
+DEBUG - 2021-05-30 18:18:36 --> Model Class Initialized
+DEBUG - 2021-05-30 18:18:36 --> Model Class Initialized
+DEBUG - 2021-05-30 18:18:36 --> Model Class Initialized
+DEBUG - 2021-05-30 18:18:36 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:18:36 --> Model Class Initialized
+DEBUG - 2021-05-30 18:18:36 --> Model Class Initialized
+DEBUG - 2021-05-30 18:18:36 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:18:36 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:18:36 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:18:36 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:18:36 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2021-05-30 18:18:36 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:18:36 --> XSS Filtering completed
+ERROR - 2021-05-30 18:18:36 --> Could not find the language line "check_login"
+DEBUG - 2021-05-30 18:18:36 --> File loaded: application/views/login/index.php
+DEBUG - 2021-05-30 18:18:36 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 18:18:36 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:18:36 --> Final output sent to browser
+DEBUG - 2021-05-30 18:18:36 --> Total execution time: 0.3176
+DEBUG - 2021-05-30 18:19:06 --> Config Class Initialized
+DEBUG - 2021-05-30 18:19:06 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:19:06 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:19:06 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:19:06 --> URI Class Initialized
+DEBUG - 2021-05-30 18:19:06 --> Router Class Initialized
+DEBUG - 2021-05-30 18:19:06 --> Output Class Initialized
+DEBUG - 2021-05-30 18:19:06 --> Security Class Initialized
+DEBUG - 2021-05-30 18:19:06 --> Input Class Initialized
+DEBUG - 2021-05-30 18:19:06 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:19:06 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:19:06 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:19:06 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:19:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:19:06 --> Language Class Initialized
+DEBUG - 2021-05-30 18:19:06 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:19:06 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:19:06 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:19:06 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:19:06 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:19:06 --> Session Class Initialized
+DEBUG - 2021-05-30 18:19:06 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:19:06 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:19:06 --> Session garbage collection performed.
+DEBUG - 2021-05-30 18:19:06 --> Session routines successfully run
+DEBUG - 2021-05-30 18:19:06 --> Model Class Initialized
+DEBUG - 2021-05-30 18:19:06 --> Model Class Initialized
+DEBUG - 2021-05-30 18:19:06 --> Model Class Initialized
+DEBUG - 2021-05-30 18:19:06 --> Model Class Initialized
+DEBUG - 2021-05-30 18:19:06 --> Model Class Initialized
+DEBUG - 2021-05-30 18:19:06 --> Model Class Initialized
+DEBUG - 2021-05-30 18:19:06 --> Model Class Initialized
+DEBUG - 2021-05-30 18:19:06 --> Model Class Initialized
+DEBUG - 2021-05-30 18:19:06 --> Model Class Initialized
+DEBUG - 2021-05-30 18:19:06 --> Model Class Initialized
+DEBUG - 2021-05-30 18:19:06 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:19:06 --> Model Class Initialized
+DEBUG - 2021-05-30 18:19:06 --> Model Class Initialized
+DEBUG - 2021-05-30 18:19:06 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:19:06 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:19:06 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:19:06 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:19:06 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2021-05-30 18:19:06 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:19:06 --> XSS Filtering completed
+ERROR - 2021-05-30 18:19:06 --> Could not find the language line "check_login"
+DEBUG - 2021-05-30 18:19:06 --> File loaded: application/views/login/index.php
+DEBUG - 2021-05-30 18:19:06 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 18:19:06 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:19:06 --> Final output sent to browser
+DEBUG - 2021-05-30 18:19:06 --> Total execution time: 0.4622
+DEBUG - 2021-05-30 18:19:22 --> Config Class Initialized
+DEBUG - 2021-05-30 18:19:22 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:19:22 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:19:22 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:19:22 --> URI Class Initialized
+DEBUG - 2021-05-30 18:19:22 --> Router Class Initialized
+DEBUG - 2021-05-30 18:19:22 --> Output Class Initialized
+DEBUG - 2021-05-30 18:19:22 --> Security Class Initialized
+DEBUG - 2021-05-30 18:19:22 --> Input Class Initialized
+DEBUG - 2021-05-30 18:19:22 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:19:22 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:19:22 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:19:22 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:19:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:19:22 --> Language Class Initialized
+DEBUG - 2021-05-30 18:19:22 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:19:22 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:19:22 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:19:22 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:19:22 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:19:22 --> Session Class Initialized
+DEBUG - 2021-05-30 18:19:22 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:19:22 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:19:22 --> Session routines successfully run
+DEBUG - 2021-05-30 18:19:22 --> Model Class Initialized
+DEBUG - 2021-05-30 18:19:22 --> Model Class Initialized
+DEBUG - 2021-05-30 18:19:22 --> Model Class Initialized
+DEBUG - 2021-05-30 18:19:22 --> Model Class Initialized
+DEBUG - 2021-05-30 18:19:22 --> Model Class Initialized
+DEBUG - 2021-05-30 18:19:22 --> Model Class Initialized
+DEBUG - 2021-05-30 18:19:22 --> Model Class Initialized
+DEBUG - 2021-05-30 18:19:22 --> Model Class Initialized
+DEBUG - 2021-05-30 18:19:22 --> Model Class Initialized
+DEBUG - 2021-05-30 18:19:22 --> Model Class Initialized
+DEBUG - 2021-05-30 18:19:22 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:19:22 --> Model Class Initialized
+DEBUG - 2021-05-30 18:19:22 --> Model Class Initialized
+DEBUG - 2021-05-30 18:19:22 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:19:22 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:19:22 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:19:22 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:19:22 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2021-05-30 18:19:22 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:19:22 --> XSS Filtering completed
+ERROR - 2021-05-30 18:19:22 --> Could not find the language line "check_login"
+DEBUG - 2021-05-30 18:19:22 --> File loaded: application/views/login/index.php
+DEBUG - 2021-05-30 18:19:22 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 18:19:22 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:19:22 --> Final output sent to browser
+DEBUG - 2021-05-30 18:19:22 --> Total execution time: 0.4470
+DEBUG - 2021-05-30 18:19:59 --> Config Class Initialized
+DEBUG - 2021-05-30 18:19:59 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:19:59 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:19:59 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:19:59 --> URI Class Initialized
+DEBUG - 2021-05-30 18:19:59 --> Router Class Initialized
+DEBUG - 2021-05-30 18:19:59 --> Output Class Initialized
+DEBUG - 2021-05-30 18:20:00 --> Security Class Initialized
+DEBUG - 2021-05-30 18:20:00 --> Input Class Initialized
+DEBUG - 2021-05-30 18:20:00 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:20:00 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:20:00 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:20:00 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:20:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:20:00 --> Language Class Initialized
+DEBUG - 2021-05-30 18:20:00 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:20:00 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:20:00 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:20:00 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:20:00 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:20:00 --> Session Class Initialized
+DEBUG - 2021-05-30 18:20:00 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:20:00 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:20:00 --> Session routines successfully run
+DEBUG - 2021-05-30 18:20:00 --> Model Class Initialized
+DEBUG - 2021-05-30 18:20:00 --> Model Class Initialized
+DEBUG - 2021-05-30 18:20:00 --> Model Class Initialized
+DEBUG - 2021-05-30 18:20:00 --> Model Class Initialized
+DEBUG - 2021-05-30 18:20:00 --> Model Class Initialized
+DEBUG - 2021-05-30 18:20:00 --> Model Class Initialized
+DEBUG - 2021-05-30 18:20:00 --> Model Class Initialized
+DEBUG - 2021-05-30 18:20:00 --> Model Class Initialized
+DEBUG - 2021-05-30 18:20:00 --> Model Class Initialized
+DEBUG - 2021-05-30 18:20:00 --> Model Class Initialized
+DEBUG - 2021-05-30 18:20:00 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:20:00 --> Model Class Initialized
+DEBUG - 2021-05-30 18:20:00 --> Model Class Initialized
+DEBUG - 2021-05-30 18:20:00 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:20:00 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:20:00 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:20:00 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:20:00 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2021-05-30 18:20:00 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:20:00 --> XSS Filtering completed
+ERROR - 2021-05-30 18:20:00 --> Could not find the language line "check_login"
+DEBUG - 2021-05-30 18:20:00 --> File loaded: application/views/login/index.php
+DEBUG - 2021-05-30 18:20:00 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 18:20:00 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:20:00 --> Final output sent to browser
+DEBUG - 2021-05-30 18:20:00 --> Total execution time: 0.5074
+DEBUG - 2021-05-30 18:20:20 --> Config Class Initialized
+DEBUG - 2021-05-30 18:20:20 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:20:20 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:20:20 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:20:20 --> URI Class Initialized
+DEBUG - 2021-05-30 18:20:20 --> Router Class Initialized
+DEBUG - 2021-05-30 18:20:20 --> Output Class Initialized
+DEBUG - 2021-05-30 18:20:20 --> Security Class Initialized
+DEBUG - 2021-05-30 18:20:20 --> Input Class Initialized
+DEBUG - 2021-05-30 18:20:20 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:20:20 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:20:20 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:20:20 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:20:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:20:20 --> Language Class Initialized
+DEBUG - 2021-05-30 18:20:20 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:20:20 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:20:20 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:20:20 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:20:20 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:20:20 --> Session Class Initialized
+DEBUG - 2021-05-30 18:20:20 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:20:20 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Session routines successfully run
+DEBUG - 2021-05-30 18:20:21 --> Model Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Model Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Model Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Model Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Model Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Model Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Model Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Model Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Model Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Model Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Model Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Model Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:20:21 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:20:21 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:20:21 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2021-05-30 18:20:21 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:20:21 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:20:21 --> Config Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:20:21 --> URI Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Router Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Output Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Security Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Input Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:20:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:20:21 --> Language Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:20:21 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:20:21 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:20:21 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Session Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:20:21 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Session routines successfully run
+DEBUG - 2021-05-30 18:20:21 --> Model Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Model Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Model Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Model Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Model Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Model Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Model Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Model Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Model Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Model Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Model Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Model Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Model Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Pagination Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> Table Class Initialized
+DEBUG - 2021-05-30 18:20:21 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 18:20:21 --> File loaded: application/views/template/menu_ls.php
+DEBUG - 2021-05-30 18:20:21 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:20:21 --> Final output sent to browser
+DEBUG - 2021-05-30 18:20:21 --> Total execution time: 0.2549
+DEBUG - 2021-05-30 18:21:05 --> Config Class Initialized
+DEBUG - 2021-05-30 18:21:05 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:21:05 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:21:05 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:21:05 --> URI Class Initialized
+DEBUG - 2021-05-30 18:21:05 --> Router Class Initialized
+DEBUG - 2021-05-30 18:21:05 --> Output Class Initialized
+DEBUG - 2021-05-30 18:21:05 --> Security Class Initialized
+DEBUG - 2021-05-30 18:21:05 --> Input Class Initialized
+DEBUG - 2021-05-30 18:21:05 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:21:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:21:05 --> Language Class Initialized
+DEBUG - 2021-05-30 18:21:05 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:21:05 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:21:05 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:21:05 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:21:05 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:21:05 --> Session Class Initialized
+DEBUG - 2021-05-30 18:21:05 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:21:05 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:21:05 --> Session garbage collection performed.
+DEBUG - 2021-05-30 18:21:05 --> Session routines successfully run
+DEBUG - 2021-05-30 18:21:05 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:05 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:05 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:05 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:05 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:05 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:05 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:05 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:05 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:05 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:05 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:21:05 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:05 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:05 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:21:05 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:21:05 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:21:05 --> Config Class Initialized
+DEBUG - 2021-05-30 18:21:05 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:21:05 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:21:05 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:21:05 --> URI Class Initialized
+DEBUG - 2021-05-30 18:21:05 --> Router Class Initialized
+DEBUG - 2021-05-30 18:21:05 --> Output Class Initialized
+DEBUG - 2021-05-30 18:21:05 --> Security Class Initialized
+DEBUG - 2021-05-30 18:21:05 --> Input Class Initialized
+DEBUG - 2021-05-30 18:21:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:21:05 --> Language Class Initialized
+DEBUG - 2021-05-30 18:21:05 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:21:05 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:21:05 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:21:05 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:21:05 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Session Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:21:06 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> A session cookie was not found.
+DEBUG - 2021-05-30 18:21:06 --> Session routines successfully run
+DEBUG - 2021-05-30 18:21:06 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:21:06 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:21:06 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:21:06 --> Config Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:21:06 --> URI Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Router Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Output Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Security Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Input Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:21:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:21:06 --> Language Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:21:06 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:21:06 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:21:06 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Session Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:21:06 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Session routines successfully run
+DEBUG - 2021-05-30 18:21:06 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Pagination Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> Table Class Initialized
+DEBUG - 2021-05-30 18:21:06 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 18:21:06 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 18:21:06 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:21:06 --> Final output sent to browser
+DEBUG - 2021-05-30 18:21:06 --> Total execution time: 0.1144
+DEBUG - 2021-05-30 18:21:08 --> Config Class Initialized
+DEBUG - 2021-05-30 18:21:08 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:21:08 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:21:08 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:21:08 --> URI Class Initialized
+DEBUG - 2021-05-30 18:21:08 --> Router Class Initialized
+DEBUG - 2021-05-30 18:21:08 --> Output Class Initialized
+DEBUG - 2021-05-30 18:21:08 --> Security Class Initialized
+DEBUG - 2021-05-30 18:21:09 --> Input Class Initialized
+DEBUG - 2021-05-30 18:21:09 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:21:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:21:09 --> Language Class Initialized
+DEBUG - 2021-05-30 18:21:09 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:21:09 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:21:09 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:21:09 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:21:09 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:21:09 --> Session Class Initialized
+DEBUG - 2021-05-30 18:21:09 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:21:09 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:21:09 --> Session routines successfully run
+DEBUG - 2021-05-30 18:21:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:09 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:21:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:09 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:21:09 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:21:09 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:21:09 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:21:09 --> File loaded: application/views/login/index.php
+DEBUG - 2021-05-30 18:21:09 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 18:21:09 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:21:09 --> Final output sent to browser
+DEBUG - 2021-05-30 18:21:09 --> Total execution time: 0.1079
+DEBUG - 2021-05-30 18:21:16 --> Config Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:21:16 --> URI Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> Router Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> Output Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> Security Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> Input Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:21:16 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:21:16 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:21:16 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:21:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:21:16 --> Language Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:21:16 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:21:16 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:21:16 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> Session Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:21:16 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> Session routines successfully run
+DEBUG - 2021-05-30 18:21:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:21:16 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:21:16 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:21:16 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2021-05-30 18:21:16 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:21:16 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:21:16 --> Config Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:21:16 --> URI Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> Router Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> Output Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> Security Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> Input Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:21:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:21:16 --> Language Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:21:16 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:21:16 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:21:16 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> Session Class Initialized
+DEBUG - 2021-05-30 18:21:16 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:21:16 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:21:17 --> Session routines successfully run
+DEBUG - 2021-05-30 18:21:17 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:17 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:17 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:17 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:17 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:17 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:17 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:17 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:17 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:17 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:17 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:21:17 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:17 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:17 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:17 --> Pagination Class Initialized
+DEBUG - 2021-05-30 18:21:17 --> Table Class Initialized
+DEBUG - 2021-05-30 18:21:17 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 18:21:17 --> File loaded: application/views/template/menu_fgt.php
+DEBUG - 2021-05-30 18:21:17 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:21:17 --> Final output sent to browser
+DEBUG - 2021-05-30 18:21:17 --> Total execution time: 0.1792
+DEBUG - 2021-05-30 18:21:24 --> Config Class Initialized
+DEBUG - 2021-05-30 18:21:24 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:21:24 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:21:24 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:21:24 --> URI Class Initialized
+DEBUG - 2021-05-30 18:21:24 --> Router Class Initialized
+DEBUG - 2021-05-30 18:21:24 --> Output Class Initialized
+DEBUG - 2021-05-30 18:21:24 --> Security Class Initialized
+DEBUG - 2021-05-30 18:21:24 --> Input Class Initialized
+DEBUG - 2021-05-30 18:21:24 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:21:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:21:24 --> Language Class Initialized
+DEBUG - 2021-05-30 18:21:24 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:21:24 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:21:24 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:21:24 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:21:24 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:21:24 --> Session Class Initialized
+DEBUG - 2021-05-30 18:21:24 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:21:24 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:21:24 --> Session routines successfully run
+DEBUG - 2021-05-30 18:21:24 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:24 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:24 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:24 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:24 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:24 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:24 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:24 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:24 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:24 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:24 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:21:24 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:21:24 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:21:24 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:24 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:24 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:24 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:24 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:24 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:24 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:24 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:24 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:21:24 --> Upload Class Initialized
+DEBUG - 2021-05-30 18:21:24 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:21:24 --> Pagination Class Initialized
+DEBUG - 2021-05-30 18:21:24 --> Table Class Initialized
+DEBUG - 2021-05-30 18:21:24 --> File loaded: application/views/fgt_pelatihan/index_view.php
+DEBUG - 2021-05-30 18:21:24 --> File loaded: application/views/template/menu_fgt.php
+DEBUG - 2021-05-30 18:21:24 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:21:24 --> Final output sent to browser
+DEBUG - 2021-05-30 18:21:24 --> Total execution time: 0.2632
+DEBUG - 2021-05-30 18:21:28 --> Config Class Initialized
+DEBUG - 2021-05-30 18:21:28 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:21:28 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:21:28 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:21:28 --> URI Class Initialized
+DEBUG - 2021-05-30 18:21:28 --> Router Class Initialized
+DEBUG - 2021-05-30 18:21:28 --> Output Class Initialized
+DEBUG - 2021-05-30 18:21:28 --> Security Class Initialized
+DEBUG - 2021-05-30 18:21:28 --> Input Class Initialized
+DEBUG - 2021-05-30 18:21:28 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:21:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:21:28 --> Language Class Initialized
+DEBUG - 2021-05-30 18:21:28 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:21:28 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:21:28 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:21:29 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:21:29 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:21:29 --> Session Class Initialized
+DEBUG - 2021-05-30 18:21:29 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:21:29 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:21:29 --> Session routines successfully run
+DEBUG - 2021-05-30 18:21:29 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:29 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:29 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:29 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:29 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:29 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:29 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:29 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:29 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:29 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:29 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:21:29 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:21:29 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:21:29 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:29 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:29 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:29 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:29 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:29 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:29 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:29 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:29 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:21:29 --> Upload Class Initialized
+DEBUG - 2021-05-30 18:21:29 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:21:29 --> Pagination Class Initialized
+DEBUG - 2021-05-30 18:21:29 --> Table Class Initialized
+DEBUG - 2021-05-30 18:21:29 --> File loaded: application/views/fgt_pelatihan/index_view.php
+DEBUG - 2021-05-30 18:21:29 --> File loaded: application/views/template/menu_fgt.php
+DEBUG - 2021-05-30 18:21:29 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:21:29 --> Final output sent to browser
+DEBUG - 2021-05-30 18:21:29 --> Total execution time: 0.1465
+DEBUG - 2021-05-30 18:21:36 --> Config Class Initialized
+DEBUG - 2021-05-30 18:21:36 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:21:36 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:21:36 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:21:36 --> URI Class Initialized
+DEBUG - 2021-05-30 18:21:36 --> Router Class Initialized
+DEBUG - 2021-05-30 18:21:36 --> Output Class Initialized
+DEBUG - 2021-05-30 18:21:36 --> Security Class Initialized
+DEBUG - 2021-05-30 18:21:36 --> Input Class Initialized
+DEBUG - 2021-05-30 18:21:36 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:21:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:21:36 --> Language Class Initialized
+DEBUG - 2021-05-30 18:21:36 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:21:36 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:21:36 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:21:36 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:21:36 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:21:36 --> Session Class Initialized
+DEBUG - 2021-05-30 18:21:36 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:21:36 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:21:36 --> Session routines successfully run
+DEBUG - 2021-05-30 18:21:36 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:36 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:36 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:36 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:36 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:36 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:36 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:36 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:36 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:36 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:36 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:21:36 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:21:36 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:21:36 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:36 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:36 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:36 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:36 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:36 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:36 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:36 --> Model Class Initialized
+DEBUG - 2021-05-30 18:21:36 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:21:36 --> Upload Class Initialized
+DEBUG - 2021-05-30 18:21:36 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:21:36 --> Table Class Initialized
+DEBUG - 2021-05-30 18:21:36 --> File loaded: application/views/fgt_pelatihan/index_report.php
+DEBUG - 2021-05-30 18:21:36 --> File loaded: application/views/template/menu_fgt.php
+DEBUG - 2021-05-30 18:21:36 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:21:36 --> Final output sent to browser
+DEBUG - 2021-05-30 18:21:36 --> Total execution time: 0.1322
+DEBUG - 2021-05-30 18:30:55 --> Config Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:30:55 --> URI Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> Router Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> Output Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> Security Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> Input Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:30:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:30:55 --> Language Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:30:55 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:30:55 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:30:55 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> Session Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:30:55 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> Session routines successfully run
+DEBUG - 2021-05-30 18:30:55 --> Model Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> Model Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> Model Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> Model Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> Model Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> Model Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> Model Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> Model Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> Model Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> Model Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> Model Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> Model Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:30:55 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:30:55 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:30:55 --> Config Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:30:55 --> URI Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> Router Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> Output Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> Security Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> Input Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:30:55 --> Language Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:30:55 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:30:55 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:30:55 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> Session Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:30:55 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:30:55 --> A session cookie was not found.
+DEBUG - 2021-05-30 18:30:56 --> Session routines successfully run
+DEBUG - 2021-05-30 18:30:56 --> Model Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Model Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Model Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Model Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Model Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Model Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Model Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Model Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Model Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Model Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Model Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Model Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:30:56 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:30:56 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:30:56 --> Config Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:30:56 --> URI Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Router Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Output Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Security Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Input Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:30:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:30:56 --> Language Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:30:56 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:30:56 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:30:56 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Session Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:30:56 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Session routines successfully run
+DEBUG - 2021-05-30 18:30:56 --> Model Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Model Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Model Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Model Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Model Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Model Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Model Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Model Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Model Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Model Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Model Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Model Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Model Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Pagination Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> Table Class Initialized
+DEBUG - 2021-05-30 18:30:56 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 18:30:56 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 18:30:56 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:30:56 --> Final output sent to browser
+DEBUG - 2021-05-30 18:30:56 --> Total execution time: 0.1142
+DEBUG - 2021-05-30 18:31:03 --> Config Class Initialized
+DEBUG - 2021-05-30 18:31:03 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:31:03 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:31:03 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:31:03 --> URI Class Initialized
+DEBUG - 2021-05-30 18:31:03 --> Router Class Initialized
+DEBUG - 2021-05-30 18:31:03 --> Output Class Initialized
+DEBUG - 2021-05-30 18:31:03 --> Security Class Initialized
+DEBUG - 2021-05-30 18:31:03 --> Input Class Initialized
+DEBUG - 2021-05-30 18:31:03 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:31:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:31:03 --> Language Class Initialized
+DEBUG - 2021-05-30 18:31:03 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:31:03 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:31:03 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:31:03 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:31:03 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:31:03 --> Session Class Initialized
+DEBUG - 2021-05-30 18:31:03 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:31:03 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:31:03 --> Session routines successfully run
+DEBUG - 2021-05-30 18:31:03 --> Model Class Initialized
+DEBUG - 2021-05-30 18:31:03 --> Model Class Initialized
+DEBUG - 2021-05-30 18:31:03 --> Model Class Initialized
+DEBUG - 2021-05-30 18:31:03 --> Model Class Initialized
+DEBUG - 2021-05-30 18:31:03 --> Model Class Initialized
+DEBUG - 2021-05-30 18:31:03 --> Model Class Initialized
+DEBUG - 2021-05-30 18:31:03 --> Model Class Initialized
+DEBUG - 2021-05-30 18:31:03 --> Model Class Initialized
+DEBUG - 2021-05-30 18:31:03 --> Model Class Initialized
+DEBUG - 2021-05-30 18:31:03 --> Model Class Initialized
+DEBUG - 2021-05-30 18:31:03 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:31:03 --> Model Class Initialized
+DEBUG - 2021-05-30 18:31:03 --> Model Class Initialized
+DEBUG - 2021-05-30 18:31:03 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:31:03 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:31:03 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:31:03 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:31:03 --> File loaded: application/views/login/index.php
+DEBUG - 2021-05-30 18:31:03 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 18:31:03 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:31:03 --> Final output sent to browser
+DEBUG - 2021-05-30 18:31:03 --> Total execution time: 0.1143
+DEBUG - 2021-05-30 18:31:09 --> Config Class Initialized
+DEBUG - 2021-05-30 18:31:09 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:31:09 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:31:09 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:31:09 --> URI Class Initialized
+DEBUG - 2021-05-30 18:31:09 --> Router Class Initialized
+DEBUG - 2021-05-30 18:31:09 --> Output Class Initialized
+DEBUG - 2021-05-30 18:31:09 --> Security Class Initialized
+DEBUG - 2021-05-30 18:31:09 --> Input Class Initialized
+DEBUG - 2021-05-30 18:31:09 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:31:09 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:31:09 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:31:09 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:31:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:31:09 --> Language Class Initialized
+DEBUG - 2021-05-30 18:31:09 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:31:09 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:31:09 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:31:09 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:31:09 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:31:09 --> Session Class Initialized
+DEBUG - 2021-05-30 18:31:09 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:31:09 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:31:09 --> Session routines successfully run
+DEBUG - 2021-05-30 18:31:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:31:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:31:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:31:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:31:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:31:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:31:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:31:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:31:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:31:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:31:09 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:31:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:31:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:31:09 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:31:09 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:31:09 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:31:09 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:31:09 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2021-05-30 18:31:09 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:31:09 --> XSS Filtering completed
+ERROR - 2021-05-30 18:31:10 --> Could not find the language line "check_login"
+DEBUG - 2021-05-30 18:31:10 --> File loaded: application/views/login/index.php
+DEBUG - 2021-05-30 18:31:10 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 18:31:10 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:31:10 --> Final output sent to browser
+DEBUG - 2021-05-30 18:31:10 --> Total execution time: 0.1916
+DEBUG - 2021-05-30 18:32:09 --> Config Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:32:09 --> URI Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Router Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Output Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Security Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Input Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:32:09 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:32:09 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:32:09 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:32:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:32:09 --> Language Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:32:09 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:32:09 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:32:09 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Session Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:32:09 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Session routines successfully run
+DEBUG - 2021-05-30 18:32:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:32:09 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:32:09 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:32:09 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2021-05-30 18:32:09 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:32:09 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:32:09 --> Config Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:32:09 --> URI Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Router Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Output Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Security Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Input Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:32:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:32:09 --> Language Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:32:09 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:32:09 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:32:09 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Session Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:32:09 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Session routines successfully run
+DEBUG - 2021-05-30 18:32:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Pagination Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> Table Class Initialized
+DEBUG - 2021-05-30 18:32:09 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 18:32:09 --> File loaded: application/views/template/menu_vp.php
+DEBUG - 2021-05-30 18:32:09 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:32:09 --> Final output sent to browser
+DEBUG - 2021-05-30 18:32:09 --> Total execution time: 0.2271
+DEBUG - 2021-05-30 18:32:57 --> Config Class Initialized
+DEBUG - 2021-05-30 18:32:57 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:32:57 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:32:57 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:32:57 --> URI Class Initialized
+DEBUG - 2021-05-30 18:32:57 --> Router Class Initialized
+DEBUG - 2021-05-30 18:32:57 --> Output Class Initialized
+DEBUG - 2021-05-30 18:32:57 --> Security Class Initialized
+DEBUG - 2021-05-30 18:32:57 --> Input Class Initialized
+DEBUG - 2021-05-30 18:32:57 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:32:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:32:57 --> Language Class Initialized
+DEBUG - 2021-05-30 18:32:57 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:32:57 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:32:57 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:32:57 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:32:57 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:32:57 --> Session Class Initialized
+DEBUG - 2021-05-30 18:32:57 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:32:57 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:32:57 --> Session routines successfully run
+DEBUG - 2021-05-30 18:32:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:57 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:32:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:32:57 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:32:57 --> Upload Class Initialized
+DEBUG - 2021-05-30 18:32:57 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:32:57 --> Helper loaded: file_helper
+DEBUG - 2021-05-30 18:32:57 --> Pagination Class Initialized
+DEBUG - 2021-05-30 18:32:57 --> DB Transaction Failure
+ERROR - 2021-05-30 18:32:57 --> Query error: Table 'db_plc_monitoring.plc_sarfas_gl' doesn't exist
+DEBUG - 2021-05-30 18:32:57 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2021-05-30 18:33:20 --> Config Class Initialized
+DEBUG - 2021-05-30 18:33:20 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:33:20 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:33:20 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:33:20 --> URI Class Initialized
+DEBUG - 2021-05-30 18:33:20 --> Router Class Initialized
+DEBUG - 2021-05-30 18:33:20 --> Output Class Initialized
+DEBUG - 2021-05-30 18:33:20 --> Security Class Initialized
+DEBUG - 2021-05-30 18:33:20 --> Input Class Initialized
+DEBUG - 2021-05-30 18:33:20 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:33:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:33:20 --> Language Class Initialized
+DEBUG - 2021-05-30 18:33:20 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:33:20 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:33:20 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:33:20 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:33:20 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:33:20 --> Session Class Initialized
+DEBUG - 2021-05-30 18:33:20 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:33:20 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:33:20 --> Session routines successfully run
+DEBUG - 2021-05-30 18:33:20 --> Model Class Initialized
+DEBUG - 2021-05-30 18:33:20 --> Model Class Initialized
+DEBUG - 2021-05-30 18:33:20 --> Model Class Initialized
+DEBUG - 2021-05-30 18:33:20 --> Model Class Initialized
+DEBUG - 2021-05-30 18:33:20 --> Model Class Initialized
+DEBUG - 2021-05-30 18:33:20 --> Model Class Initialized
+DEBUG - 2021-05-30 18:33:20 --> Model Class Initialized
+DEBUG - 2021-05-30 18:33:20 --> Model Class Initialized
+DEBUG - 2021-05-30 18:33:20 --> Model Class Initialized
+DEBUG - 2021-05-30 18:33:20 --> Model Class Initialized
+DEBUG - 2021-05-30 18:33:20 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:33:20 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:33:20 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:33:20 --> Model Class Initialized
+DEBUG - 2021-05-30 18:33:20 --> Model Class Initialized
+DEBUG - 2021-05-30 18:33:20 --> Model Class Initialized
+DEBUG - 2021-05-30 18:33:20 --> Model Class Initialized
+DEBUG - 2021-05-30 18:33:20 --> Model Class Initialized
+DEBUG - 2021-05-30 18:33:20 --> Model Class Initialized
+DEBUG - 2021-05-30 18:33:20 --> Model Class Initialized
+DEBUG - 2021-05-30 18:33:20 --> Model Class Initialized
+DEBUG - 2021-05-30 18:33:20 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:33:20 --> Upload Class Initialized
+DEBUG - 2021-05-30 18:33:20 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:33:20 --> Pagination Class Initialized
+DEBUG - 2021-05-30 18:33:20 --> Table Class Initialized
+DEBUG - 2021-05-30 18:33:20 --> File loaded: application/views/fgt_pelatihan/index_view.php
+DEBUG - 2021-05-30 18:33:20 --> File loaded: application/views/template/menu_vp.php
+DEBUG - 2021-05-30 18:33:20 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:33:20 --> Final output sent to browser
+DEBUG - 2021-05-30 18:33:20 --> Total execution time: 0.1493
+DEBUG - 2021-05-30 18:33:26 --> Config Class Initialized
+DEBUG - 2021-05-30 18:33:26 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:33:26 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:33:26 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:33:26 --> URI Class Initialized
+DEBUG - 2021-05-30 18:33:26 --> Router Class Initialized
+DEBUG - 2021-05-30 18:33:26 --> Output Class Initialized
+DEBUG - 2021-05-30 18:33:26 --> Security Class Initialized
+DEBUG - 2021-05-30 18:33:26 --> Input Class Initialized
+DEBUG - 2021-05-30 18:33:26 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:33:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:33:26 --> Language Class Initialized
+DEBUG - 2021-05-30 18:33:26 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:33:26 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:33:26 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:33:26 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:33:26 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:33:26 --> Session Class Initialized
+DEBUG - 2021-05-30 18:33:26 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:33:26 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:33:26 --> Session routines successfully run
+DEBUG - 2021-05-30 18:33:26 --> Model Class Initialized
+DEBUG - 2021-05-30 18:33:26 --> Model Class Initialized
+DEBUG - 2021-05-30 18:33:26 --> Model Class Initialized
+DEBUG - 2021-05-30 18:33:26 --> Model Class Initialized
+DEBUG - 2021-05-30 18:33:26 --> Model Class Initialized
+DEBUG - 2021-05-30 18:33:26 --> Model Class Initialized
+DEBUG - 2021-05-30 18:33:26 --> Model Class Initialized
+DEBUG - 2021-05-30 18:33:26 --> Model Class Initialized
+DEBUG - 2021-05-30 18:33:26 --> Model Class Initialized
+DEBUG - 2021-05-30 18:33:26 --> Model Class Initialized
+DEBUG - 2021-05-30 18:33:26 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:33:26 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:33:26 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:33:26 --> Model Class Initialized
+DEBUG - 2021-05-30 18:33:26 --> Model Class Initialized
+DEBUG - 2021-05-30 18:33:26 --> Model Class Initialized
+DEBUG - 2021-05-30 18:33:26 --> Model Class Initialized
+DEBUG - 2021-05-30 18:33:26 --> Model Class Initialized
+DEBUG - 2021-05-30 18:33:26 --> Model Class Initialized
+DEBUG - 2021-05-30 18:33:26 --> Model Class Initialized
+DEBUG - 2021-05-30 18:33:26 --> Model Class Initialized
+DEBUG - 2021-05-30 18:33:26 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:33:26 --> Upload Class Initialized
+DEBUG - 2021-05-30 18:33:26 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:33:26 --> Table Class Initialized
+ERROR - 2021-05-30 18:33:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\fgt_pelatihan.php 129
+DEBUG - 2021-05-30 18:33:26 --> DB Transaction Failure
+ERROR - 2021-05-30 18:33:26 --> Query error: Table 'db_plc_monitoring.plc_biaya_pengajar' doesn't exist
+DEBUG - 2021-05-30 18:33:26 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2021-05-30 18:35:12 --> Config Class Initialized
+DEBUG - 2021-05-30 18:35:12 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:35:12 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:35:12 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:35:12 --> URI Class Initialized
+DEBUG - 2021-05-30 18:35:12 --> Router Class Initialized
+DEBUG - 2021-05-30 18:35:12 --> Output Class Initialized
+DEBUG - 2021-05-30 18:35:12 --> Security Class Initialized
+DEBUG - 2021-05-30 18:35:12 --> Input Class Initialized
+DEBUG - 2021-05-30 18:35:12 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:35:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:35:12 --> Language Class Initialized
+DEBUG - 2021-05-30 18:35:12 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:35:12 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:35:12 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:35:12 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:35:12 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:35:12 --> Session Class Initialized
+DEBUG - 2021-05-30 18:35:12 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:35:12 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:35:12 --> Session routines successfully run
+DEBUG - 2021-05-30 18:35:12 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:12 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:12 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:12 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:12 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:12 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:12 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:12 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:12 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:12 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:12 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:35:12 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:35:12 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:35:12 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:12 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:12 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:12 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:12 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:12 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:12 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:12 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:12 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:35:12 --> Upload Class Initialized
+DEBUG - 2021-05-30 18:35:12 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:35:12 --> Table Class Initialized
+ERROR - 2021-05-30 18:35:12 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\fgt_pelatihan.php 504
+DEBUG - 2021-05-30 18:35:12 --> DB Transaction Failure
+ERROR - 2021-05-30 18:35:12 --> Query error: Table 'db_plc_monitoring.plc_biaya_observer' doesn't exist
+DEBUG - 2021-05-30 18:35:12 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2021-05-30 18:35:22 --> Config Class Initialized
+DEBUG - 2021-05-30 18:35:22 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:35:22 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:35:22 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:35:22 --> URI Class Initialized
+DEBUG - 2021-05-30 18:35:22 --> Router Class Initialized
+DEBUG - 2021-05-30 18:35:22 --> Output Class Initialized
+DEBUG - 2021-05-30 18:35:22 --> Security Class Initialized
+DEBUG - 2021-05-30 18:35:22 --> Input Class Initialized
+DEBUG - 2021-05-30 18:35:22 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:35:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:35:22 --> Language Class Initialized
+DEBUG - 2021-05-30 18:35:22 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:35:22 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:35:22 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:35:22 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:35:22 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:35:22 --> Session Class Initialized
+DEBUG - 2021-05-30 18:35:22 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:35:22 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:35:22 --> Session routines successfully run
+DEBUG - 2021-05-30 18:35:22 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:22 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:22 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:22 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:22 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:22 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:22 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:22 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:22 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:22 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:22 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:35:22 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:35:22 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:35:22 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:22 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:22 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:22 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:22 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:22 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:22 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:22 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:22 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:35:22 --> Upload Class Initialized
+DEBUG - 2021-05-30 18:35:22 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:35:22 --> Table Class Initialized
+ERROR - 2021-05-30 18:35:22 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\fgt_pelatihan.php 129
+DEBUG - 2021-05-30 18:35:22 --> DB Transaction Failure
+ERROR - 2021-05-30 18:35:22 --> Query error: Table 'db_plc_monitoring.plc_biaya_pengajar' doesn't exist
+DEBUG - 2021-05-30 18:35:22 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2021-05-30 18:35:28 --> Config Class Initialized
+DEBUG - 2021-05-30 18:35:28 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:35:28 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:35:28 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:35:28 --> URI Class Initialized
+DEBUG - 2021-05-30 18:35:28 --> Router Class Initialized
+DEBUG - 2021-05-30 18:35:28 --> Output Class Initialized
+DEBUG - 2021-05-30 18:35:28 --> Security Class Initialized
+DEBUG - 2021-05-30 18:35:28 --> Input Class Initialized
+DEBUG - 2021-05-30 18:35:28 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:35:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:35:28 --> Language Class Initialized
+DEBUG - 2021-05-30 18:35:28 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:35:28 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:35:28 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:35:28 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:35:28 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:35:28 --> Session Class Initialized
+DEBUG - 2021-05-30 18:35:28 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:35:28 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:35:28 --> Session routines successfully run
+DEBUG - 2021-05-30 18:35:28 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:28 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:28 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:28 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:28 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:28 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:28 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:28 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:28 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:28 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:28 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:35:28 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:35:28 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:35:28 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:28 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:28 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:28 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:28 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:28 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:28 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:28 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:28 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:35:28 --> Upload Class Initialized
+DEBUG - 2021-05-30 18:35:28 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:35:28 --> Table Class Initialized
+DEBUG - 2021-05-30 18:35:28 --> File loaded: application/views/fgt_pelatihan/index_check.php
+DEBUG - 2021-05-30 18:35:28 --> File loaded: application/views/template/menu_vp.php
+DEBUG - 2021-05-30 18:35:28 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:35:28 --> Final output sent to browser
+DEBUG - 2021-05-30 18:35:28 --> Total execution time: 0.1444
+DEBUG - 2021-05-30 18:35:42 --> Config Class Initialized
+DEBUG - 2021-05-30 18:35:42 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:35:42 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:35:42 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:35:42 --> URI Class Initialized
+DEBUG - 2021-05-30 18:35:42 --> Router Class Initialized
+DEBUG - 2021-05-30 18:35:42 --> Output Class Initialized
+DEBUG - 2021-05-30 18:35:42 --> Security Class Initialized
+DEBUG - 2021-05-30 18:35:42 --> Input Class Initialized
+DEBUG - 2021-05-30 18:35:42 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:35:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:35:42 --> Language Class Initialized
+DEBUG - 2021-05-30 18:35:42 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:35:42 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:35:42 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:35:42 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:35:42 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:35:42 --> Session Class Initialized
+DEBUG - 2021-05-30 18:35:42 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:35:42 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:35:42 --> Session routines successfully run
+DEBUG - 2021-05-30 18:35:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:42 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:35:42 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:35:42 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:35:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:35:42 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:35:42 --> Upload Class Initialized
+DEBUG - 2021-05-30 18:35:42 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:35:42 --> Table Class Initialized
+ERROR - 2021-05-30 18:35:42 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\fgt_pelatihan.php 762
+DEBUG - 2021-05-30 18:35:42 --> DB Transaction Failure
+ERROR - 2021-05-30 18:35:42 --> Query error: Table 'db_plc_monitoring.plc_biaya_provider' doesn't exist
+DEBUG - 2021-05-30 18:35:42 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2021-05-30 18:36:19 --> Config Class Initialized
+DEBUG - 2021-05-30 18:36:19 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:36:19 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:36:19 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:36:19 --> URI Class Initialized
+DEBUG - 2021-05-30 18:36:19 --> Router Class Initialized
+DEBUG - 2021-05-30 18:36:19 --> Output Class Initialized
+DEBUG - 2021-05-30 18:36:19 --> Security Class Initialized
+DEBUG - 2021-05-30 18:36:19 --> Input Class Initialized
+DEBUG - 2021-05-30 18:36:19 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:36:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:36:19 --> Language Class Initialized
+DEBUG - 2021-05-30 18:36:19 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:36:19 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:36:19 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:36:19 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:36:19 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:36:19 --> Session Class Initialized
+DEBUG - 2021-05-30 18:36:19 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:36:19 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:36:20 --> Session garbage collection performed.
+DEBUG - 2021-05-30 18:36:20 --> Session routines successfully run
+DEBUG - 2021-05-30 18:36:20 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:20 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:20 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:20 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:20 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:20 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:20 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:20 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:20 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:20 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:20 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:36:20 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:36:20 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:36:20 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:20 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:20 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:20 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:20 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:20 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:20 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:20 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:20 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:36:20 --> Upload Class Initialized
+DEBUG - 2021-05-30 18:36:20 --> Session class already loaded. Second attempt ignored.
+ERROR - 2021-05-30 18:36:20 --> 404 Page Not Found --> fgt_pelatihan/list_result
+DEBUG - 2021-05-30 18:36:29 --> Config Class Initialized
+DEBUG - 2021-05-30 18:36:29 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:36:29 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:36:29 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:36:29 --> URI Class Initialized
+DEBUG - 2021-05-30 18:36:29 --> Router Class Initialized
+DEBUG - 2021-05-30 18:36:29 --> Output Class Initialized
+DEBUG - 2021-05-30 18:36:29 --> Security Class Initialized
+DEBUG - 2021-05-30 18:36:29 --> Input Class Initialized
+DEBUG - 2021-05-30 18:36:29 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:36:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:36:29 --> Language Class Initialized
+DEBUG - 2021-05-30 18:36:29 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:36:29 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:36:29 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:36:29 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:36:29 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:36:29 --> Session Class Initialized
+DEBUG - 2021-05-30 18:36:29 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:36:29 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:36:29 --> Session routines successfully run
+DEBUG - 2021-05-30 18:36:29 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:29 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:29 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:29 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:29 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:29 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:29 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:29 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:29 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:29 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:29 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:36:29 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:36:29 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:36:29 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:29 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:29 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:29 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:29 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:29 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:29 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:29 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:29 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:36:29 --> Upload Class Initialized
+DEBUG - 2021-05-30 18:36:29 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:36:29 --> Table Class Initialized
+DEBUG - 2021-05-30 18:36:29 --> File loaded: application/views/fgt_pelatihan/index_report.php
+DEBUG - 2021-05-30 18:36:29 --> File loaded: application/views/template/menu_vp.php
+DEBUG - 2021-05-30 18:36:29 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:36:29 --> Final output sent to browser
+DEBUG - 2021-05-30 18:36:29 --> Total execution time: 0.1350
+DEBUG - 2021-05-30 18:36:54 --> Config Class Initialized
+DEBUG - 2021-05-30 18:36:54 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:36:54 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:36:54 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:36:54 --> URI Class Initialized
+DEBUG - 2021-05-30 18:36:54 --> Router Class Initialized
+DEBUG - 2021-05-30 18:36:54 --> Output Class Initialized
+DEBUG - 2021-05-30 18:36:54 --> Security Class Initialized
+DEBUG - 2021-05-30 18:36:54 --> Input Class Initialized
+DEBUG - 2021-05-30 18:36:54 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:36:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:36:54 --> Language Class Initialized
+DEBUG - 2021-05-30 18:36:54 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:36:54 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:36:54 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:36:54 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:36:54 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:36:54 --> Session Class Initialized
+DEBUG - 2021-05-30 18:36:54 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:36:54 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:36:54 --> Session routines successfully run
+DEBUG - 2021-05-30 18:36:54 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:54 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:54 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:54 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:54 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:54 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:54 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:54 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:54 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:54 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:54 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:36:54 --> Model Class Initialized
+DEBUG - 2021-05-30 18:36:54 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:36:54 --> Upload Class Initialized
+DEBUG - 2021-05-30 18:36:54 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:36:54 --> Helper loaded: file_helper
+DEBUG - 2021-05-30 18:36:54 --> Pagination Class Initialized
+DEBUG - 2021-05-30 18:36:54 --> DB Transaction Failure
+ERROR - 2021-05-30 18:36:54 --> Query error: Table 'db_plc_monitoring.plc_tln' doesn't exist
+DEBUG - 2021-05-30 18:36:54 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2021-05-30 18:37:14 --> Config Class Initialized
+DEBUG - 2021-05-30 18:37:14 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:37:14 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:37:14 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:37:14 --> URI Class Initialized
+DEBUG - 2021-05-30 18:37:14 --> Router Class Initialized
+DEBUG - 2021-05-30 18:37:14 --> Output Class Initialized
+DEBUG - 2021-05-30 18:37:14 --> Security Class Initialized
+DEBUG - 2021-05-30 18:37:14 --> Input Class Initialized
+DEBUG - 2021-05-30 18:37:14 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:37:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:37:14 --> Language Class Initialized
+DEBUG - 2021-05-30 18:37:14 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:37:14 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:37:14 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:37:14 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:37:14 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:37:14 --> Session Class Initialized
+DEBUG - 2021-05-30 18:37:14 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:37:14 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:37:14 --> Session routines successfully run
+DEBUG - 2021-05-30 18:37:14 --> Model Class Initialized
+DEBUG - 2021-05-30 18:37:14 --> Model Class Initialized
+DEBUG - 2021-05-30 18:37:14 --> Model Class Initialized
+DEBUG - 2021-05-30 18:37:14 --> Model Class Initialized
+DEBUG - 2021-05-30 18:37:14 --> Model Class Initialized
+DEBUG - 2021-05-30 18:37:14 --> Model Class Initialized
+DEBUG - 2021-05-30 18:37:14 --> Model Class Initialized
+DEBUG - 2021-05-30 18:37:14 --> Model Class Initialized
+DEBUG - 2021-05-30 18:37:14 --> Model Class Initialized
+DEBUG - 2021-05-30 18:37:14 --> Model Class Initialized
+DEBUG - 2021-05-30 18:37:14 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:37:14 --> Model Class Initialized
+DEBUG - 2021-05-30 18:37:14 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:37:14 --> Upload Class Initialized
+DEBUG - 2021-05-30 18:37:14 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:37:14 --> Helper loaded: file_helper
+DEBUG - 2021-05-30 18:37:14 --> Pagination Class Initialized
+DEBUG - 2021-05-30 18:37:14 --> Table Class Initialized
+DEBUG - 2021-05-30 18:37:14 --> File loaded: application/views/carpar/index_user.php
+DEBUG - 2021-05-30 18:37:14 --> File loaded: application/views/template/menu_vp.php
+DEBUG - 2021-05-30 18:37:14 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:37:14 --> Final output sent to browser
+DEBUG - 2021-05-30 18:37:14 --> Total execution time: 0.1767
+DEBUG - 2021-05-30 18:37:35 --> Config Class Initialized
+DEBUG - 2021-05-30 18:37:35 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:37:35 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:37:35 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:37:35 --> URI Class Initialized
+DEBUG - 2021-05-30 18:37:35 --> Router Class Initialized
+DEBUG - 2021-05-30 18:37:35 --> Output Class Initialized
+DEBUG - 2021-05-30 18:37:35 --> Security Class Initialized
+DEBUG - 2021-05-30 18:37:35 --> Input Class Initialized
+DEBUG - 2021-05-30 18:37:35 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:37:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:37:35 --> Language Class Initialized
+DEBUG - 2021-05-30 18:37:35 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:37:35 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:37:35 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:37:35 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:37:35 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:37:35 --> Session Class Initialized
+DEBUG - 2021-05-30 18:37:35 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:37:35 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:37:35 --> Session routines successfully run
+DEBUG - 2021-05-30 18:37:35 --> Model Class Initialized
+DEBUG - 2021-05-30 18:37:35 --> Model Class Initialized
+DEBUG - 2021-05-30 18:37:35 --> Model Class Initialized
+DEBUG - 2021-05-30 18:37:35 --> Model Class Initialized
+DEBUG - 2021-05-30 18:37:35 --> Model Class Initialized
+DEBUG - 2021-05-30 18:37:35 --> Model Class Initialized
+DEBUG - 2021-05-30 18:37:35 --> Model Class Initialized
+DEBUG - 2021-05-30 18:37:35 --> Model Class Initialized
+DEBUG - 2021-05-30 18:37:35 --> Model Class Initialized
+DEBUG - 2021-05-30 18:37:35 --> Model Class Initialized
+DEBUG - 2021-05-30 18:37:35 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:37:35 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:37:35 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:37:35 --> Model Class Initialized
+DEBUG - 2021-05-30 18:37:35 --> Pagination Class Initialized
+DEBUG - 2021-05-30 18:37:35 --> DB Transaction Failure
+ERROR - 2021-05-30 18:37:35 --> Query error: Table 'db_plc_monitoring.plc_lokasi' doesn't exist
+DEBUG - 2021-05-30 18:37:35 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2021-05-30 18:37:41 --> Config Class Initialized
+DEBUG - 2021-05-30 18:37:41 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:37:41 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:37:41 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:37:41 --> URI Class Initialized
+DEBUG - 2021-05-30 18:37:41 --> Router Class Initialized
+DEBUG - 2021-05-30 18:37:41 --> Output Class Initialized
+DEBUG - 2021-05-30 18:37:41 --> Security Class Initialized
+DEBUG - 2021-05-30 18:37:41 --> Input Class Initialized
+DEBUG - 2021-05-30 18:37:41 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:37:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:37:41 --> Language Class Initialized
+DEBUG - 2021-05-30 18:37:41 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:37:41 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:37:41 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:37:41 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:37:41 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:37:41 --> Session Class Initialized
+DEBUG - 2021-05-30 18:37:41 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:37:41 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:37:41 --> Session routines successfully run
+DEBUG - 2021-05-30 18:37:41 --> Model Class Initialized
+DEBUG - 2021-05-30 18:37:41 --> Model Class Initialized
+DEBUG - 2021-05-30 18:37:41 --> Model Class Initialized
+DEBUG - 2021-05-30 18:37:41 --> Model Class Initialized
+DEBUG - 2021-05-30 18:37:41 --> Model Class Initialized
+DEBUG - 2021-05-30 18:37:41 --> Model Class Initialized
+DEBUG - 2021-05-30 18:37:41 --> Model Class Initialized
+DEBUG - 2021-05-30 18:37:41 --> Model Class Initialized
+DEBUG - 2021-05-30 18:37:41 --> Model Class Initialized
+DEBUG - 2021-05-30 18:37:41 --> Model Class Initialized
+DEBUG - 2021-05-30 18:37:41 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:37:41 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:37:41 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:37:41 --> Model Class Initialized
+DEBUG - 2021-05-30 18:37:41 --> Pagination Class Initialized
+DEBUG - 2021-05-30 18:37:41 --> DB Transaction Failure
+ERROR - 2021-05-30 18:37:41 --> Query error: Table 'db_plc_monitoring.plc_lokasi' doesn't exist
+DEBUG - 2021-05-30 18:37:41 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2021-05-30 18:40:49 --> Config Class Initialized
+DEBUG - 2021-05-30 18:40:49 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:40:49 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:40:49 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:40:49 --> URI Class Initialized
+DEBUG - 2021-05-30 18:40:49 --> Router Class Initialized
+DEBUG - 2021-05-30 18:40:49 --> Output Class Initialized
+DEBUG - 2021-05-30 18:40:49 --> Security Class Initialized
+DEBUG - 2021-05-30 18:40:49 --> Input Class Initialized
+DEBUG - 2021-05-30 18:40:49 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:40:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:40:49 --> Language Class Initialized
+DEBUG - 2021-05-30 18:40:49 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:40:49 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:40:49 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:40:49 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:40:49 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:40:49 --> Session Class Initialized
+DEBUG - 2021-05-30 18:40:49 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:40:49 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:40:49 --> Session routines successfully run
+DEBUG - 2021-05-30 18:40:49 --> Model Class Initialized
+DEBUG - 2021-05-30 18:40:49 --> Model Class Initialized
+DEBUG - 2021-05-30 18:40:49 --> Model Class Initialized
+DEBUG - 2021-05-30 18:40:49 --> Model Class Initialized
+DEBUG - 2021-05-30 18:40:49 --> Model Class Initialized
+DEBUG - 2021-05-30 18:40:49 --> Model Class Initialized
+DEBUG - 2021-05-30 18:40:49 --> Model Class Initialized
+DEBUG - 2021-05-30 18:40:49 --> Model Class Initialized
+DEBUG - 2021-05-30 18:40:49 --> Model Class Initialized
+DEBUG - 2021-05-30 18:40:49 --> Model Class Initialized
+DEBUG - 2021-05-30 18:40:49 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:40:49 --> Model Class Initialized
+DEBUG - 2021-05-30 18:40:49 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:40:49 --> Upload Class Initialized
+DEBUG - 2021-05-30 18:40:49 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:40:49 --> Helper loaded: file_helper
+DEBUG - 2021-05-30 18:40:49 --> Pagination Class Initialized
+DEBUG - 2021-05-30 18:40:49 --> Table Class Initialized
+DEBUG - 2021-05-30 18:40:49 --> File loaded: application/views/carpar/index_user.php
+DEBUG - 2021-05-30 18:40:49 --> File loaded: application/views/template/menu_vp.php
+DEBUG - 2021-05-30 18:40:49 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:40:49 --> Final output sent to browser
+DEBUG - 2021-05-30 18:40:49 --> Total execution time: 0.1188
+DEBUG - 2021-05-30 18:40:52 --> Config Class Initialized
+DEBUG - 2021-05-30 18:40:52 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:40:52 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:40:52 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:40:52 --> URI Class Initialized
+DEBUG - 2021-05-30 18:40:52 --> Router Class Initialized
+DEBUG - 2021-05-30 18:40:52 --> Output Class Initialized
+DEBUG - 2021-05-30 18:40:52 --> Security Class Initialized
+DEBUG - 2021-05-30 18:40:52 --> Input Class Initialized
+DEBUG - 2021-05-30 18:40:52 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:40:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:40:52 --> Language Class Initialized
+DEBUG - 2021-05-30 18:40:52 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:40:52 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:40:52 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:40:52 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:40:52 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:40:52 --> Session Class Initialized
+DEBUG - 2021-05-30 18:40:52 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:40:52 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:40:52 --> Session routines successfully run
+DEBUG - 2021-05-30 18:40:52 --> Model Class Initialized
+DEBUG - 2021-05-30 18:40:52 --> Model Class Initialized
+DEBUG - 2021-05-30 18:40:52 --> Model Class Initialized
+DEBUG - 2021-05-30 18:40:52 --> Model Class Initialized
+DEBUG - 2021-05-30 18:40:52 --> Model Class Initialized
+DEBUG - 2021-05-30 18:40:52 --> Model Class Initialized
+DEBUG - 2021-05-30 18:40:52 --> Model Class Initialized
+DEBUG - 2021-05-30 18:40:52 --> Model Class Initialized
+DEBUG - 2021-05-30 18:40:52 --> Model Class Initialized
+DEBUG - 2021-05-30 18:40:52 --> Model Class Initialized
+DEBUG - 2021-05-30 18:40:52 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:40:52 --> Model Class Initialized
+DEBUG - 2021-05-30 18:40:52 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:40:52 --> Upload Class Initialized
+DEBUG - 2021-05-30 18:40:52 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:40:52 --> Helper loaded: file_helper
+DEBUG - 2021-05-30 18:40:52 --> Pagination Class Initialized
+DEBUG - 2021-05-30 18:40:52 --> Table Class Initialized
+DEBUG - 2021-05-30 18:40:52 --> File loaded: application/views/carpar/index_user.php
+DEBUG - 2021-05-30 18:40:52 --> File loaded: application/views/template/menu_vp.php
+DEBUG - 2021-05-30 18:40:52 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:40:52 --> Final output sent to browser
+DEBUG - 2021-05-30 18:40:52 --> Total execution time: 0.1187
+DEBUG - 2021-05-30 18:40:57 --> Config Class Initialized
+DEBUG - 2021-05-30 18:40:57 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:40:57 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:40:57 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:40:57 --> URI Class Initialized
+DEBUG - 2021-05-30 18:40:57 --> Router Class Initialized
+DEBUG - 2021-05-30 18:40:57 --> Output Class Initialized
+DEBUG - 2021-05-30 18:40:57 --> Security Class Initialized
+DEBUG - 2021-05-30 18:40:57 --> Input Class Initialized
+DEBUG - 2021-05-30 18:40:57 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:40:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:40:57 --> Language Class Initialized
+DEBUG - 2021-05-30 18:40:57 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:40:57 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:40:57 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:40:57 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:40:57 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:40:57 --> Session Class Initialized
+DEBUG - 2021-05-30 18:40:57 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:40:57 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:40:57 --> Session routines successfully run
+DEBUG - 2021-05-30 18:40:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:40:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:40:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:40:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:40:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:40:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:40:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:40:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:40:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:40:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:40:57 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:40:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:40:57 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:40:57 --> Upload Class Initialized
+DEBUG - 2021-05-30 18:40:57 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:40:57 --> Helper loaded: file_helper
+DEBUG - 2021-05-30 18:40:57 --> Pagination Class Initialized
+DEBUG - 2021-05-30 18:40:57 --> Table Class Initialized
+ERROR - 2021-05-30 18:40:57 --> Severity: Notice  --> Undefined index:  verifikasi C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 83
+ERROR - 2021-05-30 18:40:57 --> Severity: Notice  --> Undefined index:  verifikasi C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 90
+ERROR - 2021-05-30 18:40:57 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 100
+ERROR - 2021-05-30 18:40:57 --> Severity: Notice  --> Undefined index:  tgl_target_penyelesaian C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 101
+ERROR - 2021-05-30 18:40:57 --> Severity: Notice  --> Undefined index:  verifikasi C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 83
+ERROR - 2021-05-30 18:40:57 --> Severity: Notice  --> Undefined index:  verifikasi C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 90
+ERROR - 2021-05-30 18:40:57 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 100
+ERROR - 2021-05-30 18:40:58 --> Severity: Notice  --> Undefined index:  tgl_target_penyelesaian C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 101
+ERROR - 2021-05-30 18:40:58 --> Severity: Notice  --> Undefined index:  verifikasi C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 83
+ERROR - 2021-05-30 18:40:58 --> Severity: Notice  --> Undefined index:  verifikasi C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 90
+ERROR - 2021-05-30 18:40:58 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 100
+ERROR - 2021-05-30 18:40:58 --> Severity: Notice  --> Undefined index:  tgl_target_penyelesaian C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 101
+ERROR - 2021-05-30 18:40:58 --> Severity: Notice  --> Undefined index:  verifikasi C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 83
+ERROR - 2021-05-30 18:40:58 --> Severity: Notice  --> Undefined index:  verifikasi C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 90
+ERROR - 2021-05-30 18:40:58 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 100
+ERROR - 2021-05-30 18:40:58 --> Severity: Notice  --> Undefined index:  tgl_target_penyelesaian C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 101
+ERROR - 2021-05-30 18:40:58 --> Severity: Notice  --> Undefined index:  verifikasi C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 83
+ERROR - 2021-05-30 18:40:58 --> Severity: Notice  --> Undefined index:  verifikasi C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 90
+ERROR - 2021-05-30 18:40:58 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 100
+ERROR - 2021-05-30 18:40:58 --> Severity: Notice  --> Undefined index:  tgl_target_penyelesaian C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 101
+ERROR - 2021-05-30 18:40:58 --> Severity: Notice  --> Undefined index:  verifikasi C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 83
+ERROR - 2021-05-30 18:40:58 --> Severity: Notice  --> Undefined index:  verifikasi C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 90
+ERROR - 2021-05-30 18:40:58 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 100
+ERROR - 2021-05-30 18:40:58 --> Severity: Notice  --> Undefined index:  tgl_target_penyelesaian C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 101
+ERROR - 2021-05-30 18:40:58 --> Severity: Notice  --> Undefined index:  verifikasi C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 83
+ERROR - 2021-05-30 18:40:58 --> Severity: Notice  --> Undefined index:  verifikasi C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 90
+ERROR - 2021-05-30 18:40:58 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 100
+ERROR - 2021-05-30 18:40:58 --> Severity: Notice  --> Undefined index:  tgl_target_penyelesaian C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 101
+ERROR - 2021-05-30 18:40:58 --> Severity: Notice  --> Undefined index:  verifikasi C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 83
+ERROR - 2021-05-30 18:40:58 --> Severity: Notice  --> Undefined index:  verifikasi C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 90
+ERROR - 2021-05-30 18:40:58 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 100
+ERROR - 2021-05-30 18:40:58 --> Severity: Notice  --> Undefined index:  tgl_target_penyelesaian C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 101
+ERROR - 2021-05-30 18:40:58 --> Severity: Notice  --> Undefined index:  verifikasi C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 83
+ERROR - 2021-05-30 18:40:58 --> Severity: Notice  --> Undefined index:  verifikasi C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 90
+ERROR - 2021-05-30 18:40:58 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 100
+ERROR - 2021-05-30 18:40:58 --> Severity: Notice  --> Undefined index:  tgl_target_penyelesaian C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 101
+ERROR - 2021-05-30 18:40:58 --> Severity: Notice  --> Undefined index:  verifikasi C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 83
+ERROR - 2021-05-30 18:40:58 --> Severity: Notice  --> Undefined index:  verifikasi C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 90
+ERROR - 2021-05-30 18:40:58 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 100
+ERROR - 2021-05-30 18:40:58 --> Severity: Notice  --> Undefined index:  tgl_target_penyelesaian C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\carpar.php 101
+DEBUG - 2021-05-30 18:40:58 --> File loaded: application/views/carpar/index.php
+DEBUG - 2021-05-30 18:40:58 --> File loaded: application/views/template/menu_vp.php
+DEBUG - 2021-05-30 18:40:58 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:40:58 --> Final output sent to browser
+DEBUG - 2021-05-30 18:40:58 --> Total execution time: 0.2028
+DEBUG - 2021-05-30 18:41:53 --> Config Class Initialized
+DEBUG - 2021-05-30 18:41:53 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:41:53 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:41:53 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:41:53 --> URI Class Initialized
+DEBUG - 2021-05-30 18:41:53 --> Router Class Initialized
+DEBUG - 2021-05-30 18:41:53 --> Output Class Initialized
+DEBUG - 2021-05-30 18:41:53 --> Security Class Initialized
+DEBUG - 2021-05-30 18:41:53 --> Input Class Initialized
+DEBUG - 2021-05-30 18:41:53 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:41:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:41:53 --> Language Class Initialized
+DEBUG - 2021-05-30 18:41:53 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:41:53 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:41:53 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:41:53 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:41:53 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:41:53 --> Session Class Initialized
+DEBUG - 2021-05-30 18:41:53 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:41:53 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:41:53 --> Session routines successfully run
+DEBUG - 2021-05-30 18:41:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:53 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:41:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:53 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:41:53 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:41:53 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:41:54 --> Config Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:41:54 --> URI Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Router Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Output Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Security Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Input Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:41:54 --> Language Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:41:54 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:41:54 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:41:54 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Session Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:41:54 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> A session cookie was not found.
+DEBUG - 2021-05-30 18:41:54 --> Session routines successfully run
+DEBUG - 2021-05-30 18:41:54 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:41:54 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:41:54 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:41:54 --> Config Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:41:54 --> URI Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Router Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Output Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Security Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Input Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:41:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:41:54 --> Language Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:41:54 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:41:54 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:41:54 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Session Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:41:54 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Session routines successfully run
+DEBUG - 2021-05-30 18:41:54 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Pagination Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> Table Class Initialized
+DEBUG - 2021-05-30 18:41:54 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 18:41:54 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 18:41:54 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:41:54 --> Final output sent to browser
+DEBUG - 2021-05-30 18:41:54 --> Total execution time: 0.1170
+DEBUG - 2021-05-30 18:41:56 --> Config Class Initialized
+DEBUG - 2021-05-30 18:41:56 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:41:56 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:41:56 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:41:56 --> URI Class Initialized
+DEBUG - 2021-05-30 18:41:56 --> Router Class Initialized
+DEBUG - 2021-05-30 18:41:56 --> Output Class Initialized
+DEBUG - 2021-05-30 18:41:56 --> Security Class Initialized
+DEBUG - 2021-05-30 18:41:56 --> Input Class Initialized
+DEBUG - 2021-05-30 18:41:56 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:41:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:41:56 --> Language Class Initialized
+DEBUG - 2021-05-30 18:41:56 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:41:56 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:41:56 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:41:56 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:41:56 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:41:56 --> Session Class Initialized
+DEBUG - 2021-05-30 18:41:56 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:41:56 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:41:56 --> Session routines successfully run
+DEBUG - 2021-05-30 18:41:56 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:56 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:56 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:56 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:56 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:56 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:56 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:56 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:56 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:56 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:56 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:41:56 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:56 --> Model Class Initialized
+DEBUG - 2021-05-30 18:41:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:41:56 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:41:56 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:41:56 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:41:56 --> File loaded: application/views/login/index.php
+DEBUG - 2021-05-30 18:41:56 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 18:41:56 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:41:56 --> Final output sent to browser
+DEBUG - 2021-05-30 18:41:56 --> Total execution time: 0.1229
+DEBUG - 2021-05-30 18:42:16 --> Config Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:42:16 --> URI Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Router Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Output Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Security Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Input Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:42:16 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:42:16 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:42:16 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:42:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:42:16 --> Language Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:42:16 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:42:16 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:42:16 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Session Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:42:16 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Session routines successfully run
+DEBUG - 2021-05-30 18:42:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:42:16 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:42:16 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:42:16 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2021-05-30 18:42:16 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:42:16 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:42:16 --> Config Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:42:16 --> URI Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Router Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Output Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Security Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Input Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:42:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:42:16 --> Language Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:42:16 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:42:16 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:42:16 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Session Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:42:16 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Session routines successfully run
+DEBUG - 2021-05-30 18:42:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Pagination Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> Table Class Initialized
+DEBUG - 2021-05-30 18:42:16 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 18:42:16 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 18:42:16 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:42:16 --> Final output sent to browser
+DEBUG - 2021-05-30 18:42:16 --> Total execution time: 0.2179
+DEBUG - 2021-05-30 18:42:29 --> Config Class Initialized
+DEBUG - 2021-05-30 18:42:29 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:42:29 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:42:29 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:42:29 --> URI Class Initialized
+DEBUG - 2021-05-30 18:42:29 --> Router Class Initialized
+DEBUG - 2021-05-30 18:42:29 --> Output Class Initialized
+DEBUG - 2021-05-30 18:42:29 --> Security Class Initialized
+DEBUG - 2021-05-30 18:42:29 --> Input Class Initialized
+DEBUG - 2021-05-30 18:42:29 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:42:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:42:29 --> Language Class Initialized
+DEBUG - 2021-05-30 18:42:29 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:42:29 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:42:29 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:42:29 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:42:29 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:42:29 --> Session Class Initialized
+DEBUG - 2021-05-30 18:42:29 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:42:29 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:42:30 --> Session routines successfully run
+DEBUG - 2021-05-30 18:42:30 --> Model Class Initialized
+DEBUG - 2021-05-30 18:42:30 --> Model Class Initialized
+DEBUG - 2021-05-30 18:42:30 --> Model Class Initialized
+DEBUG - 2021-05-30 18:42:30 --> Model Class Initialized
+DEBUG - 2021-05-30 18:42:30 --> Model Class Initialized
+DEBUG - 2021-05-30 18:42:30 --> Model Class Initialized
+DEBUG - 2021-05-30 18:42:30 --> Model Class Initialized
+DEBUG - 2021-05-30 18:42:30 --> Model Class Initialized
+DEBUG - 2021-05-30 18:42:30 --> Model Class Initialized
+DEBUG - 2021-05-30 18:42:30 --> Model Class Initialized
+DEBUG - 2021-05-30 18:42:30 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:42:30 --> Model Class Initialized
+DEBUG - 2021-05-30 18:42:30 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:42:30 --> Upload Class Initialized
+DEBUG - 2021-05-30 18:42:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:42:30 --> Helper loaded: file_helper
+DEBUG - 2021-05-30 18:42:30 --> Table Class Initialized
+DEBUG - 2021-05-30 18:42:30 --> File loaded: application/views/sarfas/agenda.php
+DEBUG - 2021-05-30 18:42:30 --> Final output sent to browser
+DEBUG - 2021-05-30 18:42:30 --> Total execution time: 0.1821
+DEBUG - 2021-05-30 18:43:14 --> Config Class Initialized
+DEBUG - 2021-05-30 18:43:14 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:43:14 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:43:14 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:43:14 --> URI Class Initialized
+DEBUG - 2021-05-30 18:43:14 --> Router Class Initialized
+DEBUG - 2021-05-30 18:43:14 --> Output Class Initialized
+DEBUG - 2021-05-30 18:43:14 --> Security Class Initialized
+DEBUG - 2021-05-30 18:43:14 --> Input Class Initialized
+DEBUG - 2021-05-30 18:43:14 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:43:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:43:14 --> Language Class Initialized
+DEBUG - 2021-05-30 18:43:14 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:43:14 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:43:14 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:43:14 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:43:14 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:43:14 --> Session Class Initialized
+DEBUG - 2021-05-30 18:43:14 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:43:14 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:43:14 --> Session routines successfully run
+DEBUG - 2021-05-30 18:43:14 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:14 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:14 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:14 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:14 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:14 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:14 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:14 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:14 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:14 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:14 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:43:14 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:14 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:14 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:14 --> Pagination Class Initialized
+DEBUG - 2021-05-30 18:43:14 --> Table Class Initialized
+DEBUG - 2021-05-30 18:43:14 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 18:43:14 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 18:43:14 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:43:14 --> Final output sent to browser
+DEBUG - 2021-05-30 18:43:14 --> Total execution time: 0.1191
+DEBUG - 2021-05-30 18:43:16 --> Config Class Initialized
+DEBUG - 2021-05-30 18:43:16 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:43:16 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:43:16 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:43:16 --> URI Class Initialized
+DEBUG - 2021-05-30 18:43:16 --> Router Class Initialized
+DEBUG - 2021-05-30 18:43:16 --> Output Class Initialized
+DEBUG - 2021-05-30 18:43:16 --> Security Class Initialized
+DEBUG - 2021-05-30 18:43:16 --> Input Class Initialized
+DEBUG - 2021-05-30 18:43:16 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:43:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:43:16 --> Language Class Initialized
+DEBUG - 2021-05-30 18:43:16 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:43:16 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:43:16 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:43:16 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:43:16 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:43:16 --> Session Class Initialized
+DEBUG - 2021-05-30 18:43:16 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:43:16 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:43:16 --> Session garbage collection performed.
+DEBUG - 2021-05-30 18:43:16 --> Session routines successfully run
+DEBUG - 2021-05-30 18:43:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:16 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:17 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:17 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:43:17 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:17 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:17 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:43:17 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:43:17 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:43:17 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:43:17 --> File loaded: application/views/login/index.php
+DEBUG - 2021-05-30 18:43:17 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 18:43:17 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:43:17 --> Final output sent to browser
+DEBUG - 2021-05-30 18:43:17 --> Total execution time: 0.1148
+DEBUG - 2021-05-30 18:43:19 --> Config Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:43:19 --> URI Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Router Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Output Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Security Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Input Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:43:19 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:43:19 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:43:19 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:43:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:43:19 --> Language Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:43:19 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:43:19 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:43:19 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Session Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:43:19 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Session routines successfully run
+DEBUG - 2021-05-30 18:43:19 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:43:19 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:43:19 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:43:19 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2021-05-30 18:43:19 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:43:19 --> XSS Filtering completed
+ERROR - 2021-05-30 18:43:19 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\libraries\Access.php 27
+DEBUG - 2021-05-30 18:43:19 --> Config Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:43:19 --> URI Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Router Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Output Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Security Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Input Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:43:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:43:19 --> Language Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:43:19 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:43:19 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:43:19 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Session Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:43:19 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Session routines successfully run
+DEBUG - 2021-05-30 18:43:19 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Pagination Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> Table Class Initialized
+DEBUG - 2021-05-30 18:43:19 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 18:43:20 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 18:43:20 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:43:20 --> Final output sent to browser
+DEBUG - 2021-05-30 18:43:20 --> Total execution time: 0.2236
+DEBUG - 2021-05-30 18:43:57 --> Config Class Initialized
+DEBUG - 2021-05-30 18:43:57 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:43:57 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:43:57 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:43:57 --> URI Class Initialized
+DEBUG - 2021-05-30 18:43:57 --> Router Class Initialized
+DEBUG - 2021-05-30 18:43:57 --> Output Class Initialized
+DEBUG - 2021-05-30 18:43:57 --> Security Class Initialized
+DEBUG - 2021-05-30 18:43:57 --> Input Class Initialized
+DEBUG - 2021-05-30 18:43:57 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:43:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:43:57 --> Language Class Initialized
+DEBUG - 2021-05-30 18:43:57 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:43:57 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:43:57 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:43:57 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:43:57 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:43:57 --> Session Class Initialized
+DEBUG - 2021-05-30 18:43:57 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:43:57 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:43:57 --> Session routines successfully run
+DEBUG - 2021-05-30 18:43:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:57 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:43:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:43:57 --> Pagination Class Initialized
+DEBUG - 2021-05-30 18:43:57 --> Table Class Initialized
+DEBUG - 2021-05-30 18:43:57 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 18:43:57 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 18:43:57 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:43:57 --> Final output sent to browser
+DEBUG - 2021-05-30 18:43:57 --> Total execution time: 0.3356
+DEBUG - 2021-05-30 18:44:00 --> Config Class Initialized
+DEBUG - 2021-05-30 18:44:00 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:44:00 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:44:00 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:44:00 --> URI Class Initialized
+DEBUG - 2021-05-30 18:44:00 --> Router Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Output Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Security Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Input Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:44:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:44:01 --> Language Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:44:01 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:44:01 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:44:01 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Session Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:44:01 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Session routines successfully run
+DEBUG - 2021-05-30 18:44:01 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:44:01 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:44:01 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:44:01 --> Config Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:44:01 --> URI Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Router Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Output Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Security Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Input Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:44:01 --> Language Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:44:01 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:44:01 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:44:01 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Session Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:44:01 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> A session cookie was not found.
+DEBUG - 2021-05-30 18:44:01 --> Session routines successfully run
+DEBUG - 2021-05-30 18:44:01 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:44:01 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:44:01 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:44:01 --> Config Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:44:01 --> URI Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Router Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Output Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Security Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Input Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:44:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:44:01 --> Language Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:44:01 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:44:01 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:44:01 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Session Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:44:01 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Session routines successfully run
+DEBUG - 2021-05-30 18:44:01 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Pagination Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> Table Class Initialized
+DEBUG - 2021-05-30 18:44:01 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 18:44:01 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 18:44:01 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:44:01 --> Final output sent to browser
+DEBUG - 2021-05-30 18:44:01 --> Total execution time: 0.1181
+DEBUG - 2021-05-30 18:44:03 --> Config Class Initialized
+DEBUG - 2021-05-30 18:44:03 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:44:03 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:44:03 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:44:03 --> URI Class Initialized
+DEBUG - 2021-05-30 18:44:03 --> Router Class Initialized
+DEBUG - 2021-05-30 18:44:03 --> Output Class Initialized
+DEBUG - 2021-05-30 18:44:03 --> Security Class Initialized
+DEBUG - 2021-05-30 18:44:03 --> Input Class Initialized
+DEBUG - 2021-05-30 18:44:03 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:44:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:44:03 --> Language Class Initialized
+DEBUG - 2021-05-30 18:44:03 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:44:03 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:44:03 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:44:03 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:44:03 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:44:03 --> Session Class Initialized
+DEBUG - 2021-05-30 18:44:03 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:44:03 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:44:03 --> Session routines successfully run
+DEBUG - 2021-05-30 18:44:03 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:03 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:03 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:03 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:03 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:03 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:03 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:03 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:03 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:03 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:03 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:44:03 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:03 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:03 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:44:03 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:44:03 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:44:03 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:44:03 --> File loaded: application/views/login/index.php
+DEBUG - 2021-05-30 18:44:03 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 18:44:03 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:44:03 --> Final output sent to browser
+DEBUG - 2021-05-30 18:44:03 --> Total execution time: 0.1169
+DEBUG - 2021-05-30 18:44:05 --> Config Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:44:05 --> URI Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Router Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Output Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Security Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Input Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:44:05 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:44:05 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:44:05 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:44:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:44:05 --> Language Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:44:05 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:44:05 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:44:05 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Session Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:44:05 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Session routines successfully run
+DEBUG - 2021-05-30 18:44:05 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:44:05 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:44:05 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:44:05 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2021-05-30 18:44:05 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:44:05 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:44:05 --> Config Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:44:05 --> URI Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Router Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Output Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Security Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Input Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:44:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:44:05 --> Language Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:44:05 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:44:05 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:44:05 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Session Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:44:05 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Session routines successfully run
+DEBUG - 2021-05-30 18:44:05 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Model Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Pagination Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> Table Class Initialized
+DEBUG - 2021-05-30 18:44:05 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 18:44:05 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 18:44:05 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:44:05 --> Final output sent to browser
+DEBUG - 2021-05-30 18:44:05 --> Total execution time: 0.2038
+DEBUG - 2021-05-30 18:45:32 --> Config Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:45:32 --> URI Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Router Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> No URI present. Default controller set.
+DEBUG - 2021-05-30 18:45:32 --> Output Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Security Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Input Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:45:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:45:32 --> Language Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:45:32 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:45:32 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:45:32 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Session Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:45:32 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Session routines successfully run
+DEBUG - 2021-05-30 18:45:32 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:45:32 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:45:32 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:45:32 --> Config Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:45:32 --> URI Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Router Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Output Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Security Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Input Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:45:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:45:32 --> Language Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:45:32 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:45:32 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:45:32 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Session Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:45:32 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Session routines successfully run
+DEBUG - 2021-05-30 18:45:32 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Pagination Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> Table Class Initialized
+DEBUG - 2021-05-30 18:45:32 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 18:45:32 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 18:45:32 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:45:32 --> Final output sent to browser
+DEBUG - 2021-05-30 18:45:32 --> Total execution time: 0.1359
+DEBUG - 2021-05-30 18:45:41 --> Config Class Initialized
+DEBUG - 2021-05-30 18:45:41 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:45:41 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:45:41 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:45:41 --> URI Class Initialized
+DEBUG - 2021-05-30 18:45:41 --> Router Class Initialized
+DEBUG - 2021-05-30 18:45:41 --> Output Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Security Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Input Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:45:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:45:42 --> Language Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:45:42 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:45:42 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:45:42 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Session Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:45:42 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Session routines successfully run
+DEBUG - 2021-05-30 18:45:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:45:42 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:45:42 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:45:42 --> Config Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:45:42 --> URI Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Router Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Output Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Security Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Input Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:45:42 --> Language Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:45:42 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:45:42 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:45:42 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Session Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:45:42 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> A session cookie was not found.
+DEBUG - 2021-05-30 18:45:42 --> Session routines successfully run
+DEBUG - 2021-05-30 18:45:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:45:42 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:45:42 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:45:42 --> Config Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:45:42 --> URI Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Router Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Output Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Security Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Input Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:45:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:45:42 --> Language Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:45:42 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:45:42 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:45:42 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Session Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:45:42 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Session routines successfully run
+DEBUG - 2021-05-30 18:45:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Pagination Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> Table Class Initialized
+DEBUG - 2021-05-30 18:45:42 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 18:45:42 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 18:45:42 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:45:42 --> Final output sent to browser
+DEBUG - 2021-05-30 18:45:42 --> Total execution time: 0.1197
+DEBUG - 2021-05-30 18:45:46 --> Config Class Initialized
+DEBUG - 2021-05-30 18:45:46 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:45:46 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:45:46 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:45:46 --> URI Class Initialized
+DEBUG - 2021-05-30 18:45:46 --> Router Class Initialized
+DEBUG - 2021-05-30 18:45:46 --> Output Class Initialized
+DEBUG - 2021-05-30 18:45:46 --> Security Class Initialized
+DEBUG - 2021-05-30 18:45:46 --> Input Class Initialized
+DEBUG - 2021-05-30 18:45:46 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:45:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:45:46 --> Language Class Initialized
+DEBUG - 2021-05-30 18:45:46 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:45:46 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:45:46 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:45:46 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:45:46 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:45:46 --> Session Class Initialized
+DEBUG - 2021-05-30 18:45:46 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:45:46 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:45:46 --> Session routines successfully run
+DEBUG - 2021-05-30 18:45:46 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:46 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:46 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:46 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:46 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:46 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:46 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:46 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:46 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:46 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:46 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:45:46 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:46 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:46 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:45:46 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:45:46 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:45:46 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:45:46 --> File loaded: application/views/login/index.php
+DEBUG - 2021-05-30 18:45:46 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 18:45:46 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:45:46 --> Final output sent to browser
+DEBUG - 2021-05-30 18:45:46 --> Total execution time: 0.1161
+DEBUG - 2021-05-30 18:45:52 --> Config Class Initialized
+DEBUG - 2021-05-30 18:45:52 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:45:52 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:45:52 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:45:52 --> URI Class Initialized
+DEBUG - 2021-05-30 18:45:52 --> Router Class Initialized
+DEBUG - 2021-05-30 18:45:52 --> Output Class Initialized
+DEBUG - 2021-05-30 18:45:52 --> Security Class Initialized
+DEBUG - 2021-05-30 18:45:52 --> Input Class Initialized
+DEBUG - 2021-05-30 18:45:52 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:45:52 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:45:52 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:45:52 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:45:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:45:52 --> Language Class Initialized
+DEBUG - 2021-05-30 18:45:52 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:45:52 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:45:52 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:45:52 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:45:52 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:45:52 --> Session Class Initialized
+DEBUG - 2021-05-30 18:45:52 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:45:52 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:45:52 --> Session routines successfully run
+DEBUG - 2021-05-30 18:45:52 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:52 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:52 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:52 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:52 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:52 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:52 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:52 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:52 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:52 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:52 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:45:52 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:52 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:52 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:45:52 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:45:52 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:45:52 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:45:52 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2021-05-30 18:45:52 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:45:52 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:45:53 --> Config Class Initialized
+DEBUG - 2021-05-30 18:45:53 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:45:53 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:45:53 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:45:53 --> URI Class Initialized
+DEBUG - 2021-05-30 18:45:53 --> Router Class Initialized
+DEBUG - 2021-05-30 18:45:53 --> Output Class Initialized
+DEBUG - 2021-05-30 18:45:53 --> Security Class Initialized
+DEBUG - 2021-05-30 18:45:53 --> Input Class Initialized
+DEBUG - 2021-05-30 18:45:53 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:45:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:45:53 --> Language Class Initialized
+DEBUG - 2021-05-30 18:45:53 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:45:53 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:45:53 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:45:53 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:45:53 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:45:53 --> Session Class Initialized
+DEBUG - 2021-05-30 18:45:53 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:45:53 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:45:53 --> Session routines successfully run
+DEBUG - 2021-05-30 18:45:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:53 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:45:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:45:53 --> Pagination Class Initialized
+DEBUG - 2021-05-30 18:45:53 --> Table Class Initialized
+DEBUG - 2021-05-30 18:45:53 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 18:45:53 --> File loaded: application/views/template/menu_vp.php
+DEBUG - 2021-05-30 18:45:53 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:45:53 --> Final output sent to browser
+DEBUG - 2021-05-30 18:45:53 --> Total execution time: 0.3633
+DEBUG - 2021-05-30 18:47:55 --> Config Class Initialized
+DEBUG - 2021-05-30 18:47:55 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:47:55 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:47:55 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:47:55 --> URI Class Initialized
+DEBUG - 2021-05-30 18:47:55 --> Router Class Initialized
+DEBUG - 2021-05-30 18:47:55 --> Output Class Initialized
+DEBUG - 2021-05-30 18:47:55 --> Security Class Initialized
+DEBUG - 2021-05-30 18:47:55 --> Input Class Initialized
+DEBUG - 2021-05-30 18:47:55 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:47:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:47:55 --> Language Class Initialized
+DEBUG - 2021-05-30 18:47:55 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:47:55 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:47:55 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:47:55 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:47:55 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:47:55 --> Session Class Initialized
+DEBUG - 2021-05-30 18:47:55 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:47:55 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:47:55 --> Session routines successfully run
+DEBUG - 2021-05-30 18:47:55 --> Model Class Initialized
+DEBUG - 2021-05-30 18:47:55 --> Model Class Initialized
+DEBUG - 2021-05-30 18:47:55 --> Model Class Initialized
+DEBUG - 2021-05-30 18:47:55 --> Model Class Initialized
+DEBUG - 2021-05-30 18:47:55 --> Model Class Initialized
+DEBUG - 2021-05-30 18:47:55 --> Model Class Initialized
+DEBUG - 2021-05-30 18:47:55 --> Model Class Initialized
+DEBUG - 2021-05-30 18:47:55 --> Model Class Initialized
+DEBUG - 2021-05-30 18:47:55 --> Model Class Initialized
+DEBUG - 2021-05-30 18:47:55 --> Model Class Initialized
+DEBUG - 2021-05-30 18:47:55 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:47:55 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:47:55 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:47:55 --> Model Class Initialized
+DEBUG - 2021-05-30 18:47:55 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:47:55 --> File loaded: application/views/user/profile.php
+DEBUG - 2021-05-30 18:47:55 --> File loaded: application/views/template/menu_vp.php
+DEBUG - 2021-05-30 18:47:55 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:47:55 --> Final output sent to browser
+DEBUG - 2021-05-30 18:47:55 --> Total execution time: 0.1770
+DEBUG - 2021-05-30 18:49:52 --> Config Class Initialized
+DEBUG - 2021-05-30 18:49:52 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:49:52 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:49:52 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:49:52 --> URI Class Initialized
+DEBUG - 2021-05-30 18:49:52 --> Router Class Initialized
+DEBUG - 2021-05-30 18:49:52 --> Output Class Initialized
+DEBUG - 2021-05-30 18:49:52 --> Security Class Initialized
+DEBUG - 2021-05-30 18:49:52 --> Input Class Initialized
+DEBUG - 2021-05-30 18:49:52 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:49:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:49:52 --> Language Class Initialized
+DEBUG - 2021-05-30 18:49:52 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:49:52 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:49:52 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:49:52 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:49:52 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:49:52 --> Session Class Initialized
+DEBUG - 2021-05-30 18:49:52 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:49:52 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:49:52 --> Session routines successfully run
+DEBUG - 2021-05-30 18:49:52 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:52 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:52 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:52 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:52 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:52 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:52 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:52 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:52 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:52 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:52 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:49:52 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:52 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:52 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:49:52 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:49:52 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:49:53 --> Config Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:49:53 --> URI Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Router Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Output Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Security Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Input Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:49:53 --> Language Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:49:53 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:49:53 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:49:53 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Session Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:49:53 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> A session cookie was not found.
+DEBUG - 2021-05-30 18:49:53 --> Session routines successfully run
+DEBUG - 2021-05-30 18:49:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:49:53 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:49:53 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:49:53 --> Config Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:49:53 --> URI Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Router Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Output Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Security Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Input Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:49:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:49:53 --> Language Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:49:53 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:49:53 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:49:53 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Session Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:49:53 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Session routines successfully run
+DEBUG - 2021-05-30 18:49:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Pagination Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> Table Class Initialized
+DEBUG - 2021-05-30 18:49:53 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 18:49:53 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 18:49:53 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:49:53 --> Final output sent to browser
+DEBUG - 2021-05-30 18:49:53 --> Total execution time: 0.1115
+DEBUG - 2021-05-30 18:49:55 --> Config Class Initialized
+DEBUG - 2021-05-30 18:49:55 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:49:55 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:49:55 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:49:55 --> URI Class Initialized
+DEBUG - 2021-05-30 18:49:55 --> Router Class Initialized
+DEBUG - 2021-05-30 18:49:55 --> Output Class Initialized
+DEBUG - 2021-05-30 18:49:55 --> Security Class Initialized
+DEBUG - 2021-05-30 18:49:55 --> Input Class Initialized
+DEBUG - 2021-05-30 18:49:55 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:49:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:49:55 --> Language Class Initialized
+DEBUG - 2021-05-30 18:49:55 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:49:55 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:49:55 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:49:55 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:49:55 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:49:55 --> Session Class Initialized
+DEBUG - 2021-05-30 18:49:55 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:49:55 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:49:55 --> Session routines successfully run
+DEBUG - 2021-05-30 18:49:55 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:55 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:55 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:55 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:55 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:55 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:55 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:55 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:55 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:55 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:55 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:49:55 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:55 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:55 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:49:55 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:49:55 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:49:55 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:49:55 --> File loaded: application/views/login/index.php
+DEBUG - 2021-05-30 18:49:55 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2021-05-30 18:49:55 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:49:55 --> Final output sent to browser
+DEBUG - 2021-05-30 18:49:55 --> Total execution time: 0.1139
+DEBUG - 2021-05-30 18:49:57 --> Config Class Initialized
+DEBUG - 2021-05-30 18:49:57 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:49:57 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:49:57 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:49:57 --> URI Class Initialized
+DEBUG - 2021-05-30 18:49:57 --> Router Class Initialized
+DEBUG - 2021-05-30 18:49:57 --> Output Class Initialized
+DEBUG - 2021-05-30 18:49:57 --> Security Class Initialized
+DEBUG - 2021-05-30 18:49:57 --> Input Class Initialized
+DEBUG - 2021-05-30 18:49:57 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:49:57 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:49:57 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:49:57 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:49:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:49:57 --> Language Class Initialized
+DEBUG - 2021-05-30 18:49:57 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:49:57 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:49:57 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:49:57 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:49:57 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:49:57 --> Session Class Initialized
+DEBUG - 2021-05-30 18:49:57 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:49:57 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:49:57 --> Session routines successfully run
+DEBUG - 2021-05-30 18:49:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:57 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:49:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:57 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:57 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:49:57 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:49:57 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:49:57 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:49:57 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2021-05-30 18:49:57 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:49:57 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:49:58 --> Config Class Initialized
+DEBUG - 2021-05-30 18:49:58 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:49:58 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:49:58 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:49:58 --> URI Class Initialized
+DEBUG - 2021-05-30 18:49:58 --> Router Class Initialized
+DEBUG - 2021-05-30 18:49:58 --> Output Class Initialized
+DEBUG - 2021-05-30 18:49:58 --> Security Class Initialized
+DEBUG - 2021-05-30 18:49:58 --> Input Class Initialized
+DEBUG - 2021-05-30 18:49:58 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:49:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:49:58 --> Language Class Initialized
+DEBUG - 2021-05-30 18:49:58 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:49:58 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:49:58 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:49:58 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:49:58 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:49:58 --> Session Class Initialized
+DEBUG - 2021-05-30 18:49:58 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:49:58 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:49:58 --> Session routines successfully run
+DEBUG - 2021-05-30 18:49:58 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:58 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:58 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:58 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:58 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:58 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:58 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:58 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:58 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:58 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:58 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:49:58 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:58 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:58 --> Model Class Initialized
+DEBUG - 2021-05-30 18:49:58 --> Pagination Class Initialized
+DEBUG - 2021-05-30 18:49:58 --> Table Class Initialized
+DEBUG - 2021-05-30 18:49:58 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 18:49:58 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 18:49:58 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:49:58 --> Final output sent to browser
+DEBUG - 2021-05-30 18:49:58 --> Total execution time: 0.2051
+DEBUG - 2021-05-30 18:50:02 --> Config Class Initialized
+DEBUG - 2021-05-30 18:50:02 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:50:02 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:50:02 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:50:02 --> URI Class Initialized
+DEBUG - 2021-05-30 18:50:02 --> Router Class Initialized
+DEBUG - 2021-05-30 18:50:02 --> Output Class Initialized
+DEBUG - 2021-05-30 18:50:02 --> Security Class Initialized
+DEBUG - 2021-05-30 18:50:02 --> Input Class Initialized
+DEBUG - 2021-05-30 18:50:02 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:50:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:50:02 --> Language Class Initialized
+DEBUG - 2021-05-30 18:50:02 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:50:02 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:50:02 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:50:02 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:50:02 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:50:02 --> Session Class Initialized
+DEBUG - 2021-05-30 18:50:02 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:50:02 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:50:02 --> Session routines successfully run
+DEBUG - 2021-05-30 18:50:02 --> Model Class Initialized
+DEBUG - 2021-05-30 18:50:02 --> Model Class Initialized
+DEBUG - 2021-05-30 18:50:02 --> Model Class Initialized
+DEBUG - 2021-05-30 18:50:02 --> Model Class Initialized
+DEBUG - 2021-05-30 18:50:02 --> Model Class Initialized
+DEBUG - 2021-05-30 18:50:02 --> Model Class Initialized
+DEBUG - 2021-05-30 18:50:02 --> Model Class Initialized
+DEBUG - 2021-05-30 18:50:02 --> Model Class Initialized
+DEBUG - 2021-05-30 18:50:02 --> Model Class Initialized
+DEBUG - 2021-05-30 18:50:02 --> Model Class Initialized
+DEBUG - 2021-05-30 18:50:02 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:50:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:50:02 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:50:02 --> Model Class Initialized
+DEBUG - 2021-05-30 18:50:02 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:50:02 --> Table Class Initialized
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:02 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+DEBUG - 2021-05-30 18:50:02 --> File loaded: application/views/user/index.php
+DEBUG - 2021-05-30 18:50:02 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 18:50:02 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:50:02 --> Final output sent to browser
+DEBUG - 2021-05-30 18:50:02 --> Total execution time: 0.3428
+DEBUG - 2021-05-30 18:50:26 --> Config Class Initialized
+DEBUG - 2021-05-30 18:50:26 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:50:26 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:50:26 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:50:26 --> URI Class Initialized
+DEBUG - 2021-05-30 18:50:26 --> Router Class Initialized
+DEBUG - 2021-05-30 18:50:26 --> Output Class Initialized
+DEBUG - 2021-05-30 18:50:26 --> Security Class Initialized
+DEBUG - 2021-05-30 18:50:26 --> Input Class Initialized
+DEBUG - 2021-05-30 18:50:26 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:50:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:50:26 --> Language Class Initialized
+DEBUG - 2021-05-30 18:50:26 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:50:26 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:50:26 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:50:26 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:50:26 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:50:26 --> Session Class Initialized
+DEBUG - 2021-05-30 18:50:26 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:50:26 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:50:26 --> Session routines successfully run
+DEBUG - 2021-05-30 18:50:26 --> Model Class Initialized
+DEBUG - 2021-05-30 18:50:26 --> Model Class Initialized
+DEBUG - 2021-05-30 18:50:26 --> Model Class Initialized
+DEBUG - 2021-05-30 18:50:26 --> Model Class Initialized
+DEBUG - 2021-05-30 18:50:26 --> Model Class Initialized
+DEBUG - 2021-05-30 18:50:26 --> Model Class Initialized
+DEBUG - 2021-05-30 18:50:26 --> Model Class Initialized
+DEBUG - 2021-05-30 18:50:26 --> Model Class Initialized
+DEBUG - 2021-05-30 18:50:26 --> Model Class Initialized
+DEBUG - 2021-05-30 18:50:26 --> Model Class Initialized
+DEBUG - 2021-05-30 18:50:26 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:50:26 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:50:26 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:50:26 --> Model Class Initialized
+DEBUG - 2021-05-30 18:50:26 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:50:26 --> Table Class Initialized
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:50:26 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 241
+DEBUG - 2021-05-30 18:50:26 --> File loaded: application/views/user/index.php
+DEBUG - 2021-05-30 18:50:26 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 18:50:26 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:50:26 --> Final output sent to browser
+DEBUG - 2021-05-30 18:50:26 --> Total execution time: 0.2358
+DEBUG - 2021-05-30 18:54:34 --> Config Class Initialized
+DEBUG - 2021-05-30 18:54:34 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:54:34 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:54:34 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:54:34 --> URI Class Initialized
+DEBUG - 2021-05-30 18:54:34 --> Router Class Initialized
+DEBUG - 2021-05-30 18:54:34 --> Output Class Initialized
+DEBUG - 2021-05-30 18:54:34 --> Security Class Initialized
+DEBUG - 2021-05-30 18:54:34 --> Input Class Initialized
+DEBUG - 2021-05-30 18:54:34 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:54:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:54:34 --> Language Class Initialized
+DEBUG - 2021-05-30 18:54:34 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:54:34 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:54:34 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:54:34 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:54:34 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:54:34 --> Session Class Initialized
+DEBUG - 2021-05-30 18:54:34 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:54:34 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:54:34 --> Session routines successfully run
+DEBUG - 2021-05-30 18:54:34 --> Model Class Initialized
+DEBUG - 2021-05-30 18:54:34 --> Model Class Initialized
+DEBUG - 2021-05-30 18:54:34 --> Model Class Initialized
+DEBUG - 2021-05-30 18:54:34 --> Model Class Initialized
+DEBUG - 2021-05-30 18:54:34 --> Model Class Initialized
+DEBUG - 2021-05-30 18:54:34 --> Model Class Initialized
+DEBUG - 2021-05-30 18:54:34 --> Model Class Initialized
+DEBUG - 2021-05-30 18:54:34 --> Model Class Initialized
+DEBUG - 2021-05-30 18:54:34 --> Model Class Initialized
+DEBUG - 2021-05-30 18:54:34 --> Model Class Initialized
+DEBUG - 2021-05-30 18:54:34 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:54:34 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:54:34 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:54:34 --> Model Class Initialized
+DEBUG - 2021-05-30 18:54:34 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:54:34 --> Table Class Initialized
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 18:54:34 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+DEBUG - 2021-05-30 18:54:34 --> File loaded: application/views/user/index.php
+DEBUG - 2021-05-30 18:54:34 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 18:54:34 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:54:34 --> Final output sent to browser
+DEBUG - 2021-05-30 18:54:34 --> Total execution time: 0.2369
+DEBUG - 2021-05-30 18:54:48 --> Config Class Initialized
+DEBUG - 2021-05-30 18:54:48 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:54:48 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:54:48 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:54:48 --> URI Class Initialized
+DEBUG - 2021-05-30 18:54:48 --> Router Class Initialized
+DEBUG - 2021-05-30 18:54:48 --> Output Class Initialized
+DEBUG - 2021-05-30 18:54:48 --> Security Class Initialized
+DEBUG - 2021-05-30 18:54:48 --> Input Class Initialized
+DEBUG - 2021-05-30 18:54:48 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:54:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:54:48 --> Language Class Initialized
+DEBUG - 2021-05-30 18:54:48 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:54:48 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:54:48 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:54:48 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:54:48 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:54:48 --> Session Class Initialized
+DEBUG - 2021-05-30 18:54:48 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:54:48 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:54:48 --> Session routines successfully run
+DEBUG - 2021-05-30 18:54:48 --> Model Class Initialized
+DEBUG - 2021-05-30 18:54:48 --> Model Class Initialized
+DEBUG - 2021-05-30 18:54:48 --> Model Class Initialized
+DEBUG - 2021-05-30 18:54:48 --> Model Class Initialized
+DEBUG - 2021-05-30 18:54:48 --> Model Class Initialized
+DEBUG - 2021-05-30 18:54:48 --> Model Class Initialized
+DEBUG - 2021-05-30 18:54:48 --> Model Class Initialized
+DEBUG - 2021-05-30 18:54:48 --> Model Class Initialized
+DEBUG - 2021-05-30 18:54:48 --> Model Class Initialized
+DEBUG - 2021-05-30 18:54:48 --> Model Class Initialized
+DEBUG - 2021-05-30 18:54:48 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:54:48 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:54:48 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:54:48 --> Model Class Initialized
+DEBUG - 2021-05-30 18:54:48 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:54:48 --> Table Class Initialized
+DEBUG - 2021-05-30 18:54:51 --> Config Class Initialized
+DEBUG - 2021-05-30 18:54:51 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:54:51 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:54:51 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:54:51 --> URI Class Initialized
+DEBUG - 2021-05-30 18:54:51 --> Router Class Initialized
+DEBUG - 2021-05-30 18:54:51 --> Output Class Initialized
+DEBUG - 2021-05-30 18:54:51 --> Security Class Initialized
+DEBUG - 2021-05-30 18:54:51 --> Input Class Initialized
+DEBUG - 2021-05-30 18:54:51 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:54:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:54:51 --> Language Class Initialized
+DEBUG - 2021-05-30 18:54:51 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:54:51 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:54:51 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:54:51 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:54:51 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:54:51 --> Session Class Initialized
+DEBUG - 2021-05-30 18:54:51 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:54:51 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:54:51 --> Session routines successfully run
+DEBUG - 2021-05-30 18:54:51 --> Model Class Initialized
+DEBUG - 2021-05-30 18:54:51 --> Model Class Initialized
+DEBUG - 2021-05-30 18:54:51 --> Model Class Initialized
+DEBUG - 2021-05-30 18:54:51 --> Model Class Initialized
+DEBUG - 2021-05-30 18:54:51 --> Model Class Initialized
+DEBUG - 2021-05-30 18:54:51 --> Model Class Initialized
+DEBUG - 2021-05-30 18:54:51 --> Model Class Initialized
+DEBUG - 2021-05-30 18:54:51 --> Model Class Initialized
+DEBUG - 2021-05-30 18:54:51 --> Model Class Initialized
+DEBUG - 2021-05-30 18:54:51 --> Model Class Initialized
+DEBUG - 2021-05-30 18:54:51 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:54:51 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:54:51 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:54:51 --> Model Class Initialized
+DEBUG - 2021-05-30 18:54:51 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:54:51 --> Table Class Initialized
+DEBUG - 2021-05-30 18:55:12 --> Config Class Initialized
+DEBUG - 2021-05-30 18:55:12 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:55:12 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:55:12 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:55:12 --> URI Class Initialized
+DEBUG - 2021-05-30 18:55:12 --> Router Class Initialized
+DEBUG - 2021-05-30 18:55:12 --> Output Class Initialized
+DEBUG - 2021-05-30 18:55:12 --> Security Class Initialized
+DEBUG - 2021-05-30 18:55:12 --> Input Class Initialized
+DEBUG - 2021-05-30 18:55:12 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:55:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:55:12 --> Language Class Initialized
+DEBUG - 2021-05-30 18:55:12 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:55:12 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:55:12 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:55:12 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:55:12 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:55:12 --> Session Class Initialized
+DEBUG - 2021-05-30 18:55:12 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:55:12 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:55:13 --> Session routines successfully run
+DEBUG - 2021-05-30 18:55:13 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:13 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:13 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:13 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:13 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:13 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:13 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:13 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:13 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:13 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:13 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:55:13 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:55:13 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:55:13 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:13 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:55:13 --> Table Class Initialized
+DEBUG - 2021-05-30 18:55:17 --> Config Class Initialized
+DEBUG - 2021-05-30 18:55:17 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:55:17 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:55:17 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:55:17 --> URI Class Initialized
+DEBUG - 2021-05-30 18:55:17 --> Router Class Initialized
+DEBUG - 2021-05-30 18:55:17 --> Output Class Initialized
+DEBUG - 2021-05-30 18:55:17 --> Security Class Initialized
+DEBUG - 2021-05-30 18:55:17 --> Input Class Initialized
+DEBUG - 2021-05-30 18:55:17 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:55:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:55:17 --> Language Class Initialized
+DEBUG - 2021-05-30 18:55:17 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:55:17 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:55:17 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:55:17 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:55:17 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:55:17 --> Session Class Initialized
+DEBUG - 2021-05-30 18:55:17 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:55:17 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:55:17 --> Session routines successfully run
+DEBUG - 2021-05-30 18:55:17 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:17 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:17 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:17 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:17 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:17 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:17 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:17 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:17 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:17 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:17 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:55:17 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:55:17 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:55:17 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:17 --> Form Validation Class Initialized
+ERROR - 2021-05-30 18:55:17 --> 404 Page Not Found --> user/1
+DEBUG - 2021-05-30 18:55:35 --> Config Class Initialized
+DEBUG - 2021-05-30 18:55:35 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:55:35 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:55:35 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:55:35 --> URI Class Initialized
+DEBUG - 2021-05-30 18:55:35 --> Router Class Initialized
+DEBUG - 2021-05-30 18:55:35 --> Output Class Initialized
+DEBUG - 2021-05-30 18:55:35 --> Security Class Initialized
+DEBUG - 2021-05-30 18:55:35 --> Input Class Initialized
+DEBUG - 2021-05-30 18:55:35 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:55:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:55:35 --> Language Class Initialized
+DEBUG - 2021-05-30 18:55:35 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:55:35 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:55:35 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:55:35 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:55:35 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:55:35 --> Session Class Initialized
+DEBUG - 2021-05-30 18:55:35 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:55:35 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:55:35 --> Session routines successfully run
+DEBUG - 2021-05-30 18:55:35 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:35 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:35 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:35 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:35 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:35 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:35 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:35 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:35 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:35 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:35 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:55:35 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:55:35 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:55:35 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:35 --> Form Validation Class Initialized
+ERROR - 2021-05-30 18:55:35 --> 404 Page Not Found --> user/1
+DEBUG - 2021-05-30 18:55:38 --> Config Class Initialized
+DEBUG - 2021-05-30 18:55:38 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:55:38 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:55:38 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:55:38 --> URI Class Initialized
+DEBUG - 2021-05-30 18:55:38 --> Router Class Initialized
+DEBUG - 2021-05-30 18:55:38 --> Output Class Initialized
+DEBUG - 2021-05-30 18:55:38 --> Security Class Initialized
+DEBUG - 2021-05-30 18:55:38 --> Input Class Initialized
+DEBUG - 2021-05-30 18:55:38 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:55:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:55:38 --> Language Class Initialized
+DEBUG - 2021-05-30 18:55:38 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:55:38 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:55:38 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:55:38 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:55:38 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:55:38 --> Session Class Initialized
+DEBUG - 2021-05-30 18:55:38 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:55:38 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:55:38 --> Session routines successfully run
+DEBUG - 2021-05-30 18:55:38 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:38 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:38 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:38 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:38 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:38 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:38 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:38 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:38 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:38 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:38 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:55:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:55:38 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:55:38 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:38 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:55:38 --> Table Class Initialized
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:38 --> Severity: Notice  --> Undefined index:  name C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+DEBUG - 2021-05-30 18:55:38 --> File loaded: application/views/user/index.php
+DEBUG - 2021-05-30 18:55:38 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 18:55:38 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:55:38 --> Final output sent to browser
+DEBUG - 2021-05-30 18:55:38 --> Total execution time: 0.2835
+DEBUG - 2021-05-30 18:55:59 --> Config Class Initialized
+DEBUG - 2021-05-30 18:55:59 --> Hooks Class Initialized
+DEBUG - 2021-05-30 18:55:59 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 18:55:59 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 18:55:59 --> URI Class Initialized
+DEBUG - 2021-05-30 18:55:59 --> Router Class Initialized
+DEBUG - 2021-05-30 18:55:59 --> Output Class Initialized
+DEBUG - 2021-05-30 18:55:59 --> Security Class Initialized
+DEBUG - 2021-05-30 18:55:59 --> Input Class Initialized
+DEBUG - 2021-05-30 18:55:59 --> XSS Filtering completed
+DEBUG - 2021-05-30 18:55:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 18:55:59 --> Language Class Initialized
+DEBUG - 2021-05-30 18:55:59 --> Loader Class Initialized
+DEBUG - 2021-05-30 18:55:59 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 18:55:59 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 18:55:59 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 18:55:59 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 18:55:59 --> Session Class Initialized
+DEBUG - 2021-05-30 18:55:59 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 18:55:59 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 18:55:59 --> Session routines successfully run
+DEBUG - 2021-05-30 18:55:59 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:59 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:59 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:59 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:59 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:59 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:59 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:59 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:59 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:59 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:59 --> Controller Class Initialized
+DEBUG - 2021-05-30 18:55:59 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 18:55:59 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 18:55:59 --> Model Class Initialized
+DEBUG - 2021-05-30 18:55:59 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 18:55:59 --> Table Class Initialized
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 18:55:59 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+DEBUG - 2021-05-30 18:55:59 --> File loaded: application/views/user/index.php
+DEBUG - 2021-05-30 18:55:59 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 18:55:59 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 18:55:59 --> Final output sent to browser
+DEBUG - 2021-05-30 18:55:59 --> Total execution time: 0.2697
+DEBUG - 2021-05-30 19:00:16 --> Config Class Initialized
+DEBUG - 2021-05-30 19:00:16 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:00:16 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:00:16 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:00:16 --> URI Class Initialized
+DEBUG - 2021-05-30 19:00:16 --> Router Class Initialized
+DEBUG - 2021-05-30 19:00:16 --> Output Class Initialized
+DEBUG - 2021-05-30 19:00:16 --> Security Class Initialized
+DEBUG - 2021-05-30 19:00:16 --> Input Class Initialized
+DEBUG - 2021-05-30 19:00:16 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:00:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:00:16 --> Language Class Initialized
+DEBUG - 2021-05-30 19:00:16 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:00:16 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:00:16 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:00:16 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:00:16 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:00:16 --> Session Class Initialized
+DEBUG - 2021-05-30 19:00:16 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:00:16 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:00:16 --> Session routines successfully run
+DEBUG - 2021-05-30 19:00:16 --> Model Class Initialized
+DEBUG - 2021-05-30 19:00:16 --> Model Class Initialized
+DEBUG - 2021-05-30 19:00:16 --> Model Class Initialized
+DEBUG - 2021-05-30 19:00:16 --> Model Class Initialized
+DEBUG - 2021-05-30 19:00:16 --> Model Class Initialized
+DEBUG - 2021-05-30 19:00:16 --> Model Class Initialized
+DEBUG - 2021-05-30 19:00:16 --> Model Class Initialized
+DEBUG - 2021-05-30 19:00:16 --> Model Class Initialized
+DEBUG - 2021-05-30 19:00:16 --> Model Class Initialized
+DEBUG - 2021-05-30 19:00:16 --> Model Class Initialized
+DEBUG - 2021-05-30 19:00:16 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:00:16 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:00:16 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 19:00:16 --> Model Class Initialized
+DEBUG - 2021-05-30 19:00:16 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 19:00:16 --> Table Class Initialized
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+ERROR - 2021-05-30 19:00:16 --> Severity: Notice  --> Undefined variable: fungsi2 C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 44
+DEBUG - 2021-05-30 19:00:16 --> File loaded: application/views/user/index.php
+DEBUG - 2021-05-30 19:00:16 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 19:00:16 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 19:00:16 --> Final output sent to browser
+DEBUG - 2021-05-30 19:00:16 --> Total execution time: 0.3644
+DEBUG - 2021-05-30 19:00:28 --> Config Class Initialized
+DEBUG - 2021-05-30 19:00:28 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:00:28 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:00:28 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:00:28 --> URI Class Initialized
+DEBUG - 2021-05-30 19:00:28 --> Router Class Initialized
+DEBUG - 2021-05-30 19:00:28 --> Output Class Initialized
+DEBUG - 2021-05-30 19:00:28 --> Security Class Initialized
+DEBUG - 2021-05-30 19:00:28 --> Input Class Initialized
+DEBUG - 2021-05-30 19:00:28 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:00:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:00:28 --> Language Class Initialized
+DEBUG - 2021-05-30 19:00:28 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:00:28 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:00:28 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:00:28 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:00:28 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:00:28 --> Session Class Initialized
+DEBUG - 2021-05-30 19:00:28 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:00:28 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:00:28 --> Session routines successfully run
+DEBUG - 2021-05-30 19:00:28 --> Model Class Initialized
+DEBUG - 2021-05-30 19:00:28 --> Model Class Initialized
+DEBUG - 2021-05-30 19:00:28 --> Model Class Initialized
+DEBUG - 2021-05-30 19:00:28 --> Model Class Initialized
+DEBUG - 2021-05-30 19:00:28 --> Model Class Initialized
+DEBUG - 2021-05-30 19:00:28 --> Model Class Initialized
+DEBUG - 2021-05-30 19:00:28 --> Model Class Initialized
+DEBUG - 2021-05-30 19:00:28 --> Model Class Initialized
+DEBUG - 2021-05-30 19:00:28 --> Model Class Initialized
+DEBUG - 2021-05-30 19:00:28 --> Model Class Initialized
+DEBUG - 2021-05-30 19:00:28 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:00:28 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:00:28 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 19:00:28 --> Model Class Initialized
+DEBUG - 2021-05-30 19:00:28 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 19:00:28 --> Table Class Initialized
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:00:28 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+DEBUG - 2021-05-30 19:00:28 --> File loaded: application/views/user/index.php
+DEBUG - 2021-05-30 19:00:28 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 19:00:28 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 19:00:28 --> Final output sent to browser
+DEBUG - 2021-05-30 19:00:28 --> Total execution time: 0.2504
+DEBUG - 2021-05-30 19:05:01 --> Config Class Initialized
+DEBUG - 2021-05-30 19:05:01 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:05:01 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:05:01 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:05:01 --> URI Class Initialized
+DEBUG - 2021-05-30 19:05:01 --> Router Class Initialized
+DEBUG - 2021-05-30 19:05:01 --> Output Class Initialized
+DEBUG - 2021-05-30 19:05:01 --> Security Class Initialized
+DEBUG - 2021-05-30 19:05:01 --> Input Class Initialized
+DEBUG - 2021-05-30 19:05:01 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:05:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:05:01 --> Language Class Initialized
+DEBUG - 2021-05-30 19:05:01 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:05:01 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:05:01 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:05:01 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:05:01 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:05:01 --> Session Class Initialized
+DEBUG - 2021-05-30 19:05:01 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:05:01 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:05:01 --> Session routines successfully run
+DEBUG - 2021-05-30 19:05:01 --> Model Class Initialized
+DEBUG - 2021-05-30 19:05:01 --> Model Class Initialized
+DEBUG - 2021-05-30 19:05:01 --> Model Class Initialized
+DEBUG - 2021-05-30 19:05:01 --> Model Class Initialized
+DEBUG - 2021-05-30 19:05:01 --> Model Class Initialized
+DEBUG - 2021-05-30 19:05:01 --> Model Class Initialized
+DEBUG - 2021-05-30 19:05:01 --> Model Class Initialized
+DEBUG - 2021-05-30 19:05:01 --> Model Class Initialized
+DEBUG - 2021-05-30 19:05:01 --> Model Class Initialized
+DEBUG - 2021-05-30 19:05:01 --> Model Class Initialized
+DEBUG - 2021-05-30 19:05:01 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:05:01 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:05:01 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 19:05:01 --> Model Class Initialized
+DEBUG - 2021-05-30 19:05:01 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 19:05:01 --> Table Class Initialized
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:05:01 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+DEBUG - 2021-05-30 19:05:01 --> File loaded: application/views/user/index.php
+DEBUG - 2021-05-30 19:05:01 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 19:05:01 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 19:05:01 --> Final output sent to browser
+DEBUG - 2021-05-30 19:05:01 --> Total execution time: 0.2821
+DEBUG - 2021-05-30 19:07:09 --> Config Class Initialized
+DEBUG - 2021-05-30 19:07:09 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:07:09 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:07:09 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:07:09 --> URI Class Initialized
+DEBUG - 2021-05-30 19:07:09 --> Router Class Initialized
+DEBUG - 2021-05-30 19:07:09 --> Output Class Initialized
+DEBUG - 2021-05-30 19:07:09 --> Security Class Initialized
+DEBUG - 2021-05-30 19:07:09 --> Input Class Initialized
+DEBUG - 2021-05-30 19:07:09 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:07:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:07:09 --> Language Class Initialized
+DEBUG - 2021-05-30 19:07:09 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:07:09 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:07:09 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:07:09 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:07:09 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:07:09 --> Session Class Initialized
+DEBUG - 2021-05-30 19:07:09 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:07:09 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:07:09 --> Session routines successfully run
+DEBUG - 2021-05-30 19:07:09 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:09 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:09 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:09 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:09 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:09 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:09 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:09 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:09 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:09 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:09 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:07:10 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:10 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:10 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:10 --> Model Class Initialized
+ERROR - 2021-05-30 19:07:10 --> Severity: Notice  --> Undefined variable: dataku C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\aku.php 23
+DEBUG - 2021-05-30 19:07:28 --> Config Class Initialized
+DEBUG - 2021-05-30 19:07:28 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:07:28 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:07:28 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:07:28 --> URI Class Initialized
+DEBUG - 2021-05-30 19:07:28 --> Router Class Initialized
+DEBUG - 2021-05-30 19:07:28 --> Output Class Initialized
+DEBUG - 2021-05-30 19:07:28 --> Security Class Initialized
+DEBUG - 2021-05-30 19:07:28 --> Input Class Initialized
+DEBUG - 2021-05-30 19:07:28 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:07:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:07:28 --> Language Class Initialized
+DEBUG - 2021-05-30 19:07:28 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:07:28 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:07:28 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:07:28 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:07:28 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:07:28 --> Session Class Initialized
+DEBUG - 2021-05-30 19:07:28 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:07:28 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:07:28 --> Session routines successfully run
+DEBUG - 2021-05-30 19:07:28 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:28 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:28 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:28 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:28 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:28 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:28 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:28 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:28 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:28 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:28 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:07:28 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:28 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:28 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:28 --> Model Class Initialized
+ERROR - 2021-05-30 19:07:28 --> Severity: Notice  --> Undefined variable: dataku C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\aku.php 23
+DEBUG - 2021-05-30 19:07:28 --> Final output sent to browser
+DEBUG - 2021-05-30 19:07:28 --> Total execution time: 0.1106
+DEBUG - 2021-05-30 19:07:42 --> Config Class Initialized
+DEBUG - 2021-05-30 19:07:42 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:07:42 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:07:42 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:07:42 --> URI Class Initialized
+DEBUG - 2021-05-30 19:07:42 --> Router Class Initialized
+DEBUG - 2021-05-30 19:07:42 --> Output Class Initialized
+DEBUG - 2021-05-30 19:07:42 --> Security Class Initialized
+DEBUG - 2021-05-30 19:07:42 --> Input Class Initialized
+DEBUG - 2021-05-30 19:07:42 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:07:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:07:42 --> Language Class Initialized
+DEBUG - 2021-05-30 19:07:42 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:07:42 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:07:42 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:07:42 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:07:42 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:07:42 --> Session Class Initialized
+DEBUG - 2021-05-30 19:07:42 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:07:42 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:07:42 --> Session routines successfully run
+DEBUG - 2021-05-30 19:07:42 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:42 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:42 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:42 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:42 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:42 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:42 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:42 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:42 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:42 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:42 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:07:42 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:42 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:42 --> Model Class Initialized
+DEBUG - 2021-05-30 19:07:42 --> Model Class Initialized
+ERROR - 2021-05-30 19:07:42 --> Severity: Notice  --> Undefined variable: dataku C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\aku.php 23
+DEBUG - 2021-05-30 19:07:42 --> Final output sent to browser
+DEBUG - 2021-05-30 19:07:42 --> Total execution time: 0.1034
+DEBUG - 2021-05-30 19:08:11 --> Config Class Initialized
+DEBUG - 2021-05-30 19:08:11 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:08:11 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:08:11 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:08:11 --> URI Class Initialized
+DEBUG - 2021-05-30 19:08:11 --> Router Class Initialized
+DEBUG - 2021-05-30 19:08:11 --> Output Class Initialized
+DEBUG - 2021-05-30 19:08:11 --> Security Class Initialized
+DEBUG - 2021-05-30 19:08:11 --> Input Class Initialized
+DEBUG - 2021-05-30 19:08:11 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:08:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:08:11 --> Language Class Initialized
+DEBUG - 2021-05-30 19:08:11 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:08:11 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:08:11 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:08:11 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:08:11 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:08:11 --> Session Class Initialized
+DEBUG - 2021-05-30 19:08:11 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:08:11 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:08:11 --> Session routines successfully run
+DEBUG - 2021-05-30 19:08:11 --> Model Class Initialized
+DEBUG - 2021-05-30 19:08:11 --> Model Class Initialized
+DEBUG - 2021-05-30 19:08:11 --> Model Class Initialized
+DEBUG - 2021-05-30 19:08:11 --> Model Class Initialized
+DEBUG - 2021-05-30 19:08:11 --> Model Class Initialized
+DEBUG - 2021-05-30 19:08:11 --> Model Class Initialized
+DEBUG - 2021-05-30 19:08:11 --> Model Class Initialized
+DEBUG - 2021-05-30 19:08:11 --> Model Class Initialized
+DEBUG - 2021-05-30 19:08:11 --> Model Class Initialized
+DEBUG - 2021-05-30 19:08:11 --> Model Class Initialized
+DEBUG - 2021-05-30 19:08:11 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:08:11 --> Model Class Initialized
+DEBUG - 2021-05-30 19:08:11 --> Model Class Initialized
+DEBUG - 2021-05-30 19:08:11 --> Model Class Initialized
+DEBUG - 2021-05-30 19:08:11 --> Model Class Initialized
+ERROR - 2021-05-30 19:08:11 --> Severity: Notice  --> Undefined variable: dataku C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\aku.php 23
+DEBUG - 2021-05-30 19:08:11 --> Final output sent to browser
+DEBUG - 2021-05-30 19:08:11 --> Total execution time: 0.1103
+DEBUG - 2021-05-30 19:08:41 --> Config Class Initialized
+DEBUG - 2021-05-30 19:08:41 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:08:41 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:08:41 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:08:41 --> URI Class Initialized
+DEBUG - 2021-05-30 19:08:41 --> Router Class Initialized
+DEBUG - 2021-05-30 19:08:41 --> Output Class Initialized
+DEBUG - 2021-05-30 19:08:41 --> Security Class Initialized
+DEBUG - 2021-05-30 19:08:41 --> Input Class Initialized
+DEBUG - 2021-05-30 19:08:41 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:08:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:08:41 --> Language Class Initialized
+DEBUG - 2021-05-30 19:08:41 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:08:41 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:08:41 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:08:41 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:08:41 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:08:41 --> Session Class Initialized
+DEBUG - 2021-05-30 19:08:41 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:08:41 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:08:41 --> Session routines successfully run
+DEBUG - 2021-05-30 19:08:41 --> Model Class Initialized
+DEBUG - 2021-05-30 19:08:41 --> Model Class Initialized
+DEBUG - 2021-05-30 19:08:41 --> Model Class Initialized
+DEBUG - 2021-05-30 19:08:41 --> Model Class Initialized
+DEBUG - 2021-05-30 19:08:41 --> Model Class Initialized
+DEBUG - 2021-05-30 19:08:41 --> Model Class Initialized
+DEBUG - 2021-05-30 19:08:41 --> Model Class Initialized
+DEBUG - 2021-05-30 19:08:41 --> Model Class Initialized
+DEBUG - 2021-05-30 19:08:41 --> Model Class Initialized
+DEBUG - 2021-05-30 19:08:41 --> Model Class Initialized
+DEBUG - 2021-05-30 19:08:41 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:08:41 --> Model Class Initialized
+DEBUG - 2021-05-30 19:08:41 --> Model Class Initialized
+DEBUG - 2021-05-30 19:08:41 --> Model Class Initialized
+DEBUG - 2021-05-30 19:08:41 --> Model Class Initialized
+DEBUG - 2021-05-30 19:08:41 --> Final output sent to browser
+DEBUG - 2021-05-30 19:08:41 --> Total execution time: 0.1217
+DEBUG - 2021-05-30 19:09:02 --> Config Class Initialized
+DEBUG - 2021-05-30 19:09:02 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:09:02 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:09:02 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:09:02 --> URI Class Initialized
+DEBUG - 2021-05-30 19:09:02 --> Router Class Initialized
+DEBUG - 2021-05-30 19:09:02 --> Output Class Initialized
+DEBUG - 2021-05-30 19:09:02 --> Security Class Initialized
+DEBUG - 2021-05-30 19:09:02 --> Input Class Initialized
+DEBUG - 2021-05-30 19:09:02 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:09:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:09:02 --> Language Class Initialized
+DEBUG - 2021-05-30 19:09:02 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:09:02 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:09:02 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:09:02 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:09:02 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:09:02 --> Session Class Initialized
+DEBUG - 2021-05-30 19:09:02 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:09:02 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:09:02 --> Session routines successfully run
+DEBUG - 2021-05-30 19:09:02 --> Model Class Initialized
+DEBUG - 2021-05-30 19:09:02 --> Model Class Initialized
+DEBUG - 2021-05-30 19:09:02 --> Model Class Initialized
+DEBUG - 2021-05-30 19:09:02 --> Model Class Initialized
+DEBUG - 2021-05-30 19:09:02 --> Model Class Initialized
+DEBUG - 2021-05-30 19:09:02 --> Model Class Initialized
+DEBUG - 2021-05-30 19:09:02 --> Model Class Initialized
+DEBUG - 2021-05-30 19:09:02 --> Model Class Initialized
+DEBUG - 2021-05-30 19:09:02 --> Model Class Initialized
+DEBUG - 2021-05-30 19:09:02 --> Model Class Initialized
+DEBUG - 2021-05-30 19:09:02 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:09:02 --> Model Class Initialized
+DEBUG - 2021-05-30 19:09:02 --> Model Class Initialized
+DEBUG - 2021-05-30 19:09:02 --> Model Class Initialized
+DEBUG - 2021-05-30 19:09:02 --> Model Class Initialized
+DEBUG - 2021-05-30 19:09:02 --> Final output sent to browser
+DEBUG - 2021-05-30 19:09:02 --> Total execution time: 0.1212
+DEBUG - 2021-05-30 19:11:50 --> Config Class Initialized
+DEBUG - 2021-05-30 19:11:50 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:11:50 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:11:50 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:11:50 --> URI Class Initialized
+DEBUG - 2021-05-30 19:11:50 --> Router Class Initialized
+DEBUG - 2021-05-30 19:11:50 --> Output Class Initialized
+DEBUG - 2021-05-30 19:11:50 --> Security Class Initialized
+DEBUG - 2021-05-30 19:11:50 --> Input Class Initialized
+DEBUG - 2021-05-30 19:11:50 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:11:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:11:50 --> Language Class Initialized
+DEBUG - 2021-05-30 19:11:50 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:11:50 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:11:50 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:11:50 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:11:50 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:11:50 --> Session Class Initialized
+DEBUG - 2021-05-30 19:11:50 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:11:50 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:11:50 --> Session routines successfully run
+DEBUG - 2021-05-30 19:11:50 --> Model Class Initialized
+DEBUG - 2021-05-30 19:11:50 --> Model Class Initialized
+DEBUG - 2021-05-30 19:11:50 --> Model Class Initialized
+DEBUG - 2021-05-30 19:11:50 --> Model Class Initialized
+DEBUG - 2021-05-30 19:11:50 --> Model Class Initialized
+DEBUG - 2021-05-30 19:11:50 --> Model Class Initialized
+DEBUG - 2021-05-30 19:11:50 --> Model Class Initialized
+DEBUG - 2021-05-30 19:11:50 --> Model Class Initialized
+DEBUG - 2021-05-30 19:11:50 --> Model Class Initialized
+DEBUG - 2021-05-30 19:11:50 --> Model Class Initialized
+DEBUG - 2021-05-30 19:11:50 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:11:50 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:11:50 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 19:11:50 --> Model Class Initialized
+DEBUG - 2021-05-30 19:11:50 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 19:11:50 --> Table Class Initialized
+ERROR - 2021-05-30 19:11:50 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:11:50 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:11:50 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:11:50 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:11:50 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:11:50 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:11:50 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:11:50 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:11:50 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:11:50 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+DEBUG - 2021-05-30 19:11:50 --> File loaded: application/views/user/index.php
+DEBUG - 2021-05-30 19:11:50 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 19:11:50 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 19:11:50 --> Final output sent to browser
+DEBUG - 2021-05-30 19:11:50 --> Total execution time: 0.1394
+DEBUG - 2021-05-30 19:11:52 --> Config Class Initialized
+DEBUG - 2021-05-30 19:11:52 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:11:52 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:11:52 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:11:52 --> URI Class Initialized
+DEBUG - 2021-05-30 19:11:52 --> Router Class Initialized
+DEBUG - 2021-05-30 19:11:52 --> Output Class Initialized
+DEBUG - 2021-05-30 19:11:52 --> Security Class Initialized
+DEBUG - 2021-05-30 19:11:52 --> Input Class Initialized
+DEBUG - 2021-05-30 19:11:52 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:11:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:11:52 --> Language Class Initialized
+DEBUG - 2021-05-30 19:11:52 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:11:52 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:11:52 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:11:52 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:11:52 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:11:52 --> Session Class Initialized
+DEBUG - 2021-05-30 19:11:52 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:11:52 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:11:52 --> Session routines successfully run
+DEBUG - 2021-05-30 19:11:52 --> Model Class Initialized
+DEBUG - 2021-05-30 19:11:52 --> Model Class Initialized
+DEBUG - 2021-05-30 19:11:52 --> Model Class Initialized
+DEBUG - 2021-05-30 19:11:52 --> Model Class Initialized
+DEBUG - 2021-05-30 19:11:52 --> Model Class Initialized
+DEBUG - 2021-05-30 19:11:52 --> Model Class Initialized
+DEBUG - 2021-05-30 19:11:52 --> Model Class Initialized
+DEBUG - 2021-05-30 19:11:52 --> Model Class Initialized
+DEBUG - 2021-05-30 19:11:52 --> Model Class Initialized
+DEBUG - 2021-05-30 19:11:52 --> Model Class Initialized
+DEBUG - 2021-05-30 19:11:52 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:11:52 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:11:52 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 19:11:52 --> Model Class Initialized
+DEBUG - 2021-05-30 19:11:52 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 19:11:52 --> Table Class Initialized
+ERROR - 2021-05-30 19:11:52 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:11:52 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:11:52 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:11:52 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:11:52 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:11:52 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:11:52 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:11:52 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:11:52 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+ERROR - 2021-05-30 19:11:52 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 43
+DEBUG - 2021-05-30 19:11:52 --> File loaded: application/views/user/index.php
+DEBUG - 2021-05-30 19:11:52 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 19:11:52 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 19:11:52 --> Final output sent to browser
+DEBUG - 2021-05-30 19:11:52 --> Total execution time: 0.1468
+DEBUG - 2021-05-30 19:12:07 --> Config Class Initialized
+DEBUG - 2021-05-30 19:12:07 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:12:07 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:12:07 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:12:07 --> URI Class Initialized
+DEBUG - 2021-05-30 19:12:07 --> Router Class Initialized
+DEBUG - 2021-05-30 19:12:07 --> Output Class Initialized
+DEBUG - 2021-05-30 19:12:07 --> Security Class Initialized
+DEBUG - 2021-05-30 19:12:07 --> Input Class Initialized
+DEBUG - 2021-05-30 19:12:07 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:12:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:12:07 --> Language Class Initialized
+DEBUG - 2021-05-30 19:12:07 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:12:07 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:12:07 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:12:07 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:12:07 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:12:07 --> Session Class Initialized
+DEBUG - 2021-05-30 19:12:07 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:12:07 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:12:07 --> Session routines successfully run
+DEBUG - 2021-05-30 19:12:07 --> Model Class Initialized
+DEBUG - 2021-05-30 19:12:07 --> Model Class Initialized
+DEBUG - 2021-05-30 19:12:07 --> Model Class Initialized
+DEBUG - 2021-05-30 19:12:07 --> Model Class Initialized
+DEBUG - 2021-05-30 19:12:07 --> Model Class Initialized
+DEBUG - 2021-05-30 19:12:07 --> Model Class Initialized
+DEBUG - 2021-05-30 19:12:07 --> Model Class Initialized
+DEBUG - 2021-05-30 19:12:07 --> Model Class Initialized
+DEBUG - 2021-05-30 19:12:07 --> Model Class Initialized
+DEBUG - 2021-05-30 19:12:07 --> Model Class Initialized
+DEBUG - 2021-05-30 19:12:07 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:12:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:12:07 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 19:12:07 --> Model Class Initialized
+DEBUG - 2021-05-30 19:12:07 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 19:12:07 --> Table Class Initialized
+DEBUG - 2021-05-30 19:12:07 --> File loaded: application/views/user/index.php
+DEBUG - 2021-05-30 19:12:07 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 19:12:07 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 19:12:07 --> Final output sent to browser
+DEBUG - 2021-05-30 19:12:07 --> Total execution time: 0.1254
+DEBUG - 2021-05-30 19:12:40 --> Config Class Initialized
+DEBUG - 2021-05-30 19:12:40 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:12:40 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:12:40 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:12:40 --> URI Class Initialized
+DEBUG - 2021-05-30 19:12:40 --> Router Class Initialized
+DEBUG - 2021-05-30 19:12:40 --> Output Class Initialized
+DEBUG - 2021-05-30 19:12:40 --> Security Class Initialized
+DEBUG - 2021-05-30 19:12:40 --> Input Class Initialized
+DEBUG - 2021-05-30 19:12:40 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:12:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:12:40 --> Language Class Initialized
+DEBUG - 2021-05-30 19:12:40 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:12:40 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:12:40 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:12:40 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:12:40 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:12:40 --> Session Class Initialized
+DEBUG - 2021-05-30 19:12:40 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:12:40 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:12:40 --> Session routines successfully run
+DEBUG - 2021-05-30 19:12:40 --> Model Class Initialized
+DEBUG - 2021-05-30 19:12:40 --> Model Class Initialized
+DEBUG - 2021-05-30 19:12:40 --> Model Class Initialized
+DEBUG - 2021-05-30 19:12:40 --> Model Class Initialized
+DEBUG - 2021-05-30 19:12:40 --> Model Class Initialized
+DEBUG - 2021-05-30 19:12:40 --> Model Class Initialized
+DEBUG - 2021-05-30 19:12:40 --> Model Class Initialized
+DEBUG - 2021-05-30 19:12:40 --> Model Class Initialized
+DEBUG - 2021-05-30 19:12:40 --> Model Class Initialized
+DEBUG - 2021-05-30 19:12:40 --> Model Class Initialized
+DEBUG - 2021-05-30 19:12:40 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:12:40 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:12:40 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 19:12:40 --> Model Class Initialized
+DEBUG - 2021-05-30 19:12:40 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 19:12:40 --> File loaded: application/views/user/form_edit.php
+DEBUG - 2021-05-30 19:12:40 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 19:12:40 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 19:12:40 --> Final output sent to browser
+DEBUG - 2021-05-30 19:12:40 --> Total execution time: 0.1768
+DEBUG - 2021-05-30 19:13:29 --> Config Class Initialized
+DEBUG - 2021-05-30 19:13:29 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:13:29 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:13:29 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:13:29 --> URI Class Initialized
+DEBUG - 2021-05-30 19:13:29 --> Router Class Initialized
+DEBUG - 2021-05-30 19:13:29 --> Output Class Initialized
+DEBUG - 2021-05-30 19:13:29 --> Security Class Initialized
+DEBUG - 2021-05-30 19:13:29 --> Input Class Initialized
+DEBUG - 2021-05-30 19:13:29 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:13:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:13:29 --> Language Class Initialized
+DEBUG - 2021-05-30 19:13:29 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:13:29 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:13:29 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:13:29 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:13:29 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:13:29 --> Session Class Initialized
+DEBUG - 2021-05-30 19:13:29 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:13:29 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:13:29 --> Session routines successfully run
+DEBUG - 2021-05-30 19:13:29 --> Model Class Initialized
+DEBUG - 2021-05-30 19:13:29 --> Model Class Initialized
+DEBUG - 2021-05-30 19:13:29 --> Model Class Initialized
+DEBUG - 2021-05-30 19:13:29 --> Model Class Initialized
+DEBUG - 2021-05-30 19:13:29 --> Model Class Initialized
+DEBUG - 2021-05-30 19:13:29 --> Model Class Initialized
+DEBUG - 2021-05-30 19:13:29 --> Model Class Initialized
+DEBUG - 2021-05-30 19:13:29 --> Model Class Initialized
+DEBUG - 2021-05-30 19:13:29 --> Model Class Initialized
+DEBUG - 2021-05-30 19:13:29 --> Model Class Initialized
+DEBUG - 2021-05-30 19:13:29 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:13:29 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:13:29 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 19:13:29 --> Model Class Initialized
+DEBUG - 2021-05-30 19:13:29 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 19:13:29 --> File loaded: application/views/user/form_edit.php
+DEBUG - 2021-05-30 19:13:29 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 19:13:29 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 19:13:29 --> Final output sent to browser
+DEBUG - 2021-05-30 19:13:29 --> Total execution time: 0.1111
+DEBUG - 2021-05-30 19:20:56 --> Config Class Initialized
+DEBUG - 2021-05-30 19:20:56 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:20:56 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:20:56 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:20:56 --> URI Class Initialized
+DEBUG - 2021-05-30 19:20:56 --> Router Class Initialized
+DEBUG - 2021-05-30 19:20:56 --> Output Class Initialized
+DEBUG - 2021-05-30 19:20:56 --> Security Class Initialized
+DEBUG - 2021-05-30 19:20:56 --> Input Class Initialized
+DEBUG - 2021-05-30 19:20:56 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:20:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:20:56 --> Language Class Initialized
+DEBUG - 2021-05-30 19:20:56 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:20:56 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:20:56 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:20:56 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:20:56 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:20:56 --> Session Class Initialized
+DEBUG - 2021-05-30 19:20:56 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:20:56 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:20:56 --> Session routines successfully run
+DEBUG - 2021-05-30 19:20:56 --> Model Class Initialized
+DEBUG - 2021-05-30 19:20:56 --> Model Class Initialized
+DEBUG - 2021-05-30 19:20:56 --> Model Class Initialized
+DEBUG - 2021-05-30 19:20:56 --> Model Class Initialized
+DEBUG - 2021-05-30 19:20:56 --> Model Class Initialized
+DEBUG - 2021-05-30 19:20:56 --> Model Class Initialized
+DEBUG - 2021-05-30 19:20:56 --> Model Class Initialized
+DEBUG - 2021-05-30 19:20:56 --> Model Class Initialized
+DEBUG - 2021-05-30 19:20:56 --> Model Class Initialized
+DEBUG - 2021-05-30 19:20:56 --> Model Class Initialized
+DEBUG - 2021-05-30 19:20:56 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:20:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:20:56 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 19:20:56 --> Model Class Initialized
+DEBUG - 2021-05-30 19:20:56 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 19:20:56 --> Table Class Initialized
+DEBUG - 2021-05-30 19:20:56 --> File loaded: application/views/user/index.php
+DEBUG - 2021-05-30 19:20:56 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 19:20:56 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 19:20:56 --> Final output sent to browser
+DEBUG - 2021-05-30 19:20:56 --> Total execution time: 0.2239
+DEBUG - 2021-05-30 19:20:59 --> Config Class Initialized
+DEBUG - 2021-05-30 19:20:59 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:20:59 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:20:59 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:20:59 --> URI Class Initialized
+DEBUG - 2021-05-30 19:20:59 --> Router Class Initialized
+DEBUG - 2021-05-30 19:20:59 --> Output Class Initialized
+DEBUG - 2021-05-30 19:20:59 --> Security Class Initialized
+DEBUG - 2021-05-30 19:20:59 --> Input Class Initialized
+DEBUG - 2021-05-30 19:20:59 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:20:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:20:59 --> Language Class Initialized
+DEBUG - 2021-05-30 19:20:59 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:20:59 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:20:59 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:20:59 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:20:59 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:20:59 --> Session Class Initialized
+DEBUG - 2021-05-30 19:20:59 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:20:59 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:20:59 --> Session garbage collection performed.
+DEBUG - 2021-05-30 19:20:59 --> Session routines successfully run
+DEBUG - 2021-05-30 19:20:59 --> Model Class Initialized
+DEBUG - 2021-05-30 19:20:59 --> Model Class Initialized
+DEBUG - 2021-05-30 19:20:59 --> Model Class Initialized
+DEBUG - 2021-05-30 19:20:59 --> Model Class Initialized
+DEBUG - 2021-05-30 19:20:59 --> Model Class Initialized
+DEBUG - 2021-05-30 19:20:59 --> Model Class Initialized
+DEBUG - 2021-05-30 19:20:59 --> Model Class Initialized
+DEBUG - 2021-05-30 19:20:59 --> Model Class Initialized
+DEBUG - 2021-05-30 19:20:59 --> Model Class Initialized
+DEBUG - 2021-05-30 19:20:59 --> Model Class Initialized
+DEBUG - 2021-05-30 19:20:59 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:20:59 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:20:59 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 19:20:59 --> Model Class Initialized
+DEBUG - 2021-05-30 19:20:59 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 19:20:59 --> File loaded: application/views/user/form.php
+DEBUG - 2021-05-30 19:20:59 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 19:20:59 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 19:20:59 --> Final output sent to browser
+DEBUG - 2021-05-30 19:20:59 --> Total execution time: 0.1016
+DEBUG - 2021-05-30 19:24:25 --> Config Class Initialized
+DEBUG - 2021-05-30 19:24:25 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:24:25 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:24:25 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:24:25 --> URI Class Initialized
+DEBUG - 2021-05-30 19:24:25 --> Router Class Initialized
+DEBUG - 2021-05-30 19:24:25 --> Output Class Initialized
+DEBUG - 2021-05-30 19:24:25 --> Security Class Initialized
+DEBUG - 2021-05-30 19:24:25 --> Input Class Initialized
+DEBUG - 2021-05-30 19:24:25 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:24:25 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:24:25 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:24:25 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:24:25 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:24:25 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:24:25 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:24:25 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:24:25 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:24:25 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:24:25 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:24:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:24:25 --> Language Class Initialized
+DEBUG - 2021-05-30 19:24:25 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:24:25 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:24:25 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:24:25 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:24:25 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:24:25 --> Session Class Initialized
+DEBUG - 2021-05-30 19:24:25 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:24:25 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:24:25 --> Session routines successfully run
+DEBUG - 2021-05-30 19:24:25 --> Model Class Initialized
+DEBUG - 2021-05-30 19:24:25 --> Model Class Initialized
+DEBUG - 2021-05-30 19:24:25 --> Model Class Initialized
+DEBUG - 2021-05-30 19:24:25 --> Model Class Initialized
+DEBUG - 2021-05-30 19:24:25 --> Model Class Initialized
+DEBUG - 2021-05-30 19:24:25 --> Model Class Initialized
+DEBUG - 2021-05-30 19:24:25 --> Model Class Initialized
+DEBUG - 2021-05-30 19:24:25 --> Model Class Initialized
+DEBUG - 2021-05-30 19:24:25 --> Model Class Initialized
+DEBUG - 2021-05-30 19:24:25 --> Model Class Initialized
+DEBUG - 2021-05-30 19:24:25 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:24:25 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:24:25 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 19:24:25 --> Model Class Initialized
+DEBUG - 2021-05-30 19:24:25 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 19:24:25 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2021-05-30 19:24:25 --> Config Class Initialized
+DEBUG - 2021-05-30 19:24:25 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:24:25 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:24:25 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:24:25 --> URI Class Initialized
+DEBUG - 2021-05-30 19:24:25 --> Router Class Initialized
+DEBUG - 2021-05-30 19:24:25 --> Output Class Initialized
+DEBUG - 2021-05-30 19:24:25 --> Security Class Initialized
+DEBUG - 2021-05-30 19:24:25 --> Input Class Initialized
+DEBUG - 2021-05-30 19:24:25 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:24:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:24:25 --> Language Class Initialized
+DEBUG - 2021-05-30 19:24:25 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:24:25 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:24:25 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:24:25 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:24:25 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:24:25 --> Session Class Initialized
+DEBUG - 2021-05-30 19:24:25 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:24:25 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:24:26 --> Session routines successfully run
+DEBUG - 2021-05-30 19:24:26 --> Model Class Initialized
+DEBUG - 2021-05-30 19:24:26 --> Model Class Initialized
+DEBUG - 2021-05-30 19:24:26 --> Model Class Initialized
+DEBUG - 2021-05-30 19:24:26 --> Model Class Initialized
+DEBUG - 2021-05-30 19:24:26 --> Model Class Initialized
+DEBUG - 2021-05-30 19:24:26 --> Model Class Initialized
+DEBUG - 2021-05-30 19:24:26 --> Model Class Initialized
+DEBUG - 2021-05-30 19:24:26 --> Model Class Initialized
+DEBUG - 2021-05-30 19:24:26 --> Model Class Initialized
+DEBUG - 2021-05-30 19:24:26 --> Model Class Initialized
+DEBUG - 2021-05-30 19:24:26 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:24:26 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:24:26 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 19:24:26 --> Model Class Initialized
+DEBUG - 2021-05-30 19:24:26 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 19:24:26 --> Table Class Initialized
+DEBUG - 2021-05-30 19:24:26 --> File loaded: application/views/user/index.php
+DEBUG - 2021-05-30 19:24:26 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 19:24:26 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 19:24:26 --> Final output sent to browser
+DEBUG - 2021-05-30 19:24:26 --> Total execution time: 0.1775
+DEBUG - 2021-05-30 19:24:54 --> Config Class Initialized
+DEBUG - 2021-05-30 19:24:54 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:24:54 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:24:54 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:24:54 --> URI Class Initialized
+DEBUG - 2021-05-30 19:24:54 --> Router Class Initialized
+DEBUG - 2021-05-30 19:24:54 --> Output Class Initialized
+DEBUG - 2021-05-30 19:24:54 --> Security Class Initialized
+DEBUG - 2021-05-30 19:24:54 --> Input Class Initialized
+DEBUG - 2021-05-30 19:24:54 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:24:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:24:54 --> Language Class Initialized
+DEBUG - 2021-05-30 19:24:54 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:24:54 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:24:54 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:24:54 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:24:54 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:24:54 --> Session Class Initialized
+DEBUG - 2021-05-30 19:24:54 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:24:54 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:24:54 --> Session routines successfully run
+DEBUG - 2021-05-30 19:24:54 --> Model Class Initialized
+DEBUG - 2021-05-30 19:24:54 --> Model Class Initialized
+DEBUG - 2021-05-30 19:24:54 --> Model Class Initialized
+DEBUG - 2021-05-30 19:24:54 --> Model Class Initialized
+DEBUG - 2021-05-30 19:24:54 --> Model Class Initialized
+DEBUG - 2021-05-30 19:24:54 --> Model Class Initialized
+DEBUG - 2021-05-30 19:24:54 --> Model Class Initialized
+DEBUG - 2021-05-30 19:24:54 --> Model Class Initialized
+DEBUG - 2021-05-30 19:24:54 --> Model Class Initialized
+DEBUG - 2021-05-30 19:24:54 --> Model Class Initialized
+DEBUG - 2021-05-30 19:24:54 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:24:54 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:24:54 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 19:24:54 --> Model Class Initialized
+DEBUG - 2021-05-30 19:24:54 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 19:24:54 --> File loaded: application/views/user/form.php
+DEBUG - 2021-05-30 19:24:54 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 19:24:54 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 19:24:54 --> Final output sent to browser
+DEBUG - 2021-05-30 19:24:54 --> Total execution time: 0.1584
+DEBUG - 2021-05-30 19:25:39 --> Config Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:25:39 --> URI Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Router Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Output Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Security Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Input Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:25:39 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:25:39 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:25:39 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:25:39 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:25:39 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:25:39 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:25:39 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:25:39 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:25:39 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:25:39 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:25:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:25:39 --> Language Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:25:39 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:25:39 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:25:39 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Session Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:25:39 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Session routines successfully run
+DEBUG - 2021-05-30 19:25:39 --> Model Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Model Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Model Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Model Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Model Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Model Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Model Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Model Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Model Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Model Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:25:39 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 19:25:39 --> Model Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2021-05-30 19:25:39 --> Config Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:25:39 --> URI Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Router Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Output Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Security Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Input Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:25:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:25:39 --> Language Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:25:39 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:25:39 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:25:39 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Session Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:25:39 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Session routines successfully run
+DEBUG - 2021-05-30 19:25:39 --> Model Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Model Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Model Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Model Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Model Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Model Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Model Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Model Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Model Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Model Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:25:39 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 19:25:39 --> Model Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> Table Class Initialized
+DEBUG - 2021-05-30 19:25:39 --> File loaded: application/views/user/index.php
+DEBUG - 2021-05-30 19:25:39 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 19:25:39 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 19:25:39 --> Final output sent to browser
+DEBUG - 2021-05-30 19:25:39 --> Total execution time: 0.2114
+DEBUG - 2021-05-30 19:28:31 --> Config Class Initialized
+DEBUG - 2021-05-30 19:28:31 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:28:31 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:28:31 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:28:31 --> URI Class Initialized
+DEBUG - 2021-05-30 19:28:31 --> Router Class Initialized
+DEBUG - 2021-05-30 19:28:31 --> Output Class Initialized
+DEBUG - 2021-05-30 19:28:31 --> Security Class Initialized
+DEBUG - 2021-05-30 19:28:31 --> Input Class Initialized
+DEBUG - 2021-05-30 19:28:31 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:28:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:28:31 --> Language Class Initialized
+DEBUG - 2021-05-30 19:28:31 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:28:31 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:28:31 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:28:31 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:28:31 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:28:31 --> Session Class Initialized
+DEBUG - 2021-05-30 19:28:31 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:28:31 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:28:32 --> Session routines successfully run
+DEBUG - 2021-05-30 19:28:32 --> Model Class Initialized
+DEBUG - 2021-05-30 19:28:32 --> Model Class Initialized
+DEBUG - 2021-05-30 19:28:32 --> Model Class Initialized
+DEBUG - 2021-05-30 19:28:32 --> Model Class Initialized
+DEBUG - 2021-05-30 19:28:32 --> Model Class Initialized
+DEBUG - 2021-05-30 19:28:32 --> Model Class Initialized
+DEBUG - 2021-05-30 19:28:32 --> Model Class Initialized
+DEBUG - 2021-05-30 19:28:32 --> Model Class Initialized
+DEBUG - 2021-05-30 19:28:32 --> Model Class Initialized
+DEBUG - 2021-05-30 19:28:32 --> Model Class Initialized
+DEBUG - 2021-05-30 19:28:32 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:28:32 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:28:32 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 19:28:32 --> Model Class Initialized
+DEBUG - 2021-05-30 19:28:32 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 19:28:32 --> File loaded: application/views/user/form.php
+DEBUG - 2021-05-30 19:28:32 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 19:28:32 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 19:28:32 --> Final output sent to browser
+DEBUG - 2021-05-30 19:28:32 --> Total execution time: 0.3194
+DEBUG - 2021-05-30 19:29:06 --> Config Class Initialized
+DEBUG - 2021-05-30 19:29:06 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:29:06 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:29:06 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:29:06 --> URI Class Initialized
+DEBUG - 2021-05-30 19:29:06 --> Router Class Initialized
+DEBUG - 2021-05-30 19:29:06 --> Output Class Initialized
+DEBUG - 2021-05-30 19:29:06 --> Security Class Initialized
+DEBUG - 2021-05-30 19:29:06 --> Input Class Initialized
+DEBUG - 2021-05-30 19:29:06 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:29:06 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:29:06 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:29:06 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:29:06 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:29:06 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:29:06 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:29:06 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:29:06 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:29:06 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:29:06 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:29:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:29:06 --> Language Class Initialized
+DEBUG - 2021-05-30 19:29:06 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:29:06 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:29:06 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:29:06 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:29:06 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:29:06 --> Session Class Initialized
+DEBUG - 2021-05-30 19:29:06 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:29:06 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:29:06 --> Session routines successfully run
+DEBUG - 2021-05-30 19:29:06 --> Model Class Initialized
+DEBUG - 2021-05-30 19:29:06 --> Model Class Initialized
+DEBUG - 2021-05-30 19:29:06 --> Model Class Initialized
+DEBUG - 2021-05-30 19:29:06 --> Model Class Initialized
+DEBUG - 2021-05-30 19:29:06 --> Model Class Initialized
+DEBUG - 2021-05-30 19:29:06 --> Model Class Initialized
+DEBUG - 2021-05-30 19:29:06 --> Model Class Initialized
+DEBUG - 2021-05-30 19:29:06 --> Model Class Initialized
+DEBUG - 2021-05-30 19:29:06 --> Model Class Initialized
+DEBUG - 2021-05-30 19:29:06 --> Model Class Initialized
+DEBUG - 2021-05-30 19:29:06 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:29:06 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:29:06 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 19:29:06 --> Model Class Initialized
+DEBUG - 2021-05-30 19:29:06 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 19:29:06 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2021-05-30 19:29:06 --> Config Class Initialized
+DEBUG - 2021-05-30 19:29:06 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:29:06 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:29:06 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:29:06 --> URI Class Initialized
+DEBUG - 2021-05-30 19:29:06 --> Router Class Initialized
+DEBUG - 2021-05-30 19:29:06 --> Output Class Initialized
+DEBUG - 2021-05-30 19:29:06 --> Security Class Initialized
+DEBUG - 2021-05-30 19:29:06 --> Input Class Initialized
+DEBUG - 2021-05-30 19:29:06 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:29:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:29:06 --> Language Class Initialized
+DEBUG - 2021-05-30 19:29:06 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:29:06 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:29:06 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:29:06 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:29:06 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:29:06 --> Session Class Initialized
+DEBUG - 2021-05-30 19:29:06 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:29:06 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:29:07 --> Session routines successfully run
+DEBUG - 2021-05-30 19:29:07 --> Model Class Initialized
+DEBUG - 2021-05-30 19:29:07 --> Model Class Initialized
+DEBUG - 2021-05-30 19:29:07 --> Model Class Initialized
+DEBUG - 2021-05-30 19:29:07 --> Model Class Initialized
+DEBUG - 2021-05-30 19:29:07 --> Model Class Initialized
+DEBUG - 2021-05-30 19:29:07 --> Model Class Initialized
+DEBUG - 2021-05-30 19:29:07 --> Model Class Initialized
+DEBUG - 2021-05-30 19:29:07 --> Model Class Initialized
+DEBUG - 2021-05-30 19:29:07 --> Model Class Initialized
+DEBUG - 2021-05-30 19:29:07 --> Model Class Initialized
+DEBUG - 2021-05-30 19:29:07 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:29:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:29:07 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 19:29:07 --> Model Class Initialized
+DEBUG - 2021-05-30 19:29:07 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 19:29:07 --> Table Class Initialized
+ERROR - 2021-05-30 19:29:07 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+DEBUG - 2021-05-30 19:29:07 --> File loaded: application/views/user/index.php
+DEBUG - 2021-05-30 19:29:07 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 19:29:07 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 19:29:07 --> Final output sent to browser
+DEBUG - 2021-05-30 19:29:07 --> Total execution time: 0.3092
+DEBUG - 2021-05-30 19:29:46 --> Config Class Initialized
+DEBUG - 2021-05-30 19:29:46 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:29:46 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:29:46 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:29:46 --> URI Class Initialized
+DEBUG - 2021-05-30 19:29:46 --> Router Class Initialized
+DEBUG - 2021-05-30 19:29:46 --> Output Class Initialized
+DEBUG - 2021-05-30 19:29:46 --> Security Class Initialized
+DEBUG - 2021-05-30 19:29:46 --> Input Class Initialized
+DEBUG - 2021-05-30 19:29:46 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:29:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:29:46 --> Language Class Initialized
+DEBUG - 2021-05-30 19:29:46 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:29:46 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:29:46 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:29:46 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:29:46 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:29:46 --> Session Class Initialized
+DEBUG - 2021-05-30 19:29:47 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:29:47 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:29:47 --> Session routines successfully run
+DEBUG - 2021-05-30 19:29:47 --> Model Class Initialized
+DEBUG - 2021-05-30 19:29:47 --> Model Class Initialized
+DEBUG - 2021-05-30 19:29:47 --> Model Class Initialized
+DEBUG - 2021-05-30 19:29:47 --> Model Class Initialized
+DEBUG - 2021-05-30 19:29:47 --> Model Class Initialized
+DEBUG - 2021-05-30 19:29:47 --> Model Class Initialized
+DEBUG - 2021-05-30 19:29:47 --> Model Class Initialized
+DEBUG - 2021-05-30 19:29:47 --> Model Class Initialized
+DEBUG - 2021-05-30 19:29:47 --> Model Class Initialized
+DEBUG - 2021-05-30 19:29:47 --> Model Class Initialized
+DEBUG - 2021-05-30 19:29:47 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:29:47 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:29:47 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 19:29:47 --> Model Class Initialized
+DEBUG - 2021-05-30 19:29:47 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 19:29:47 --> File loaded: application/views/user/form.php
+DEBUG - 2021-05-30 19:29:47 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 19:29:47 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 19:29:47 --> Final output sent to browser
+DEBUG - 2021-05-30 19:29:47 --> Total execution time: 0.1861
+DEBUG - 2021-05-30 19:30:37 --> Config Class Initialized
+DEBUG - 2021-05-30 19:30:37 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:30:37 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:30:37 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:30:37 --> URI Class Initialized
+DEBUG - 2021-05-30 19:30:37 --> Router Class Initialized
+DEBUG - 2021-05-30 19:30:37 --> Output Class Initialized
+DEBUG - 2021-05-30 19:30:37 --> Security Class Initialized
+DEBUG - 2021-05-30 19:30:37 --> Input Class Initialized
+DEBUG - 2021-05-30 19:30:37 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:30:37 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:30:37 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:30:37 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:30:37 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:30:37 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:30:37 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:30:37 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:30:37 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:30:37 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:30:37 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:30:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:30:37 --> Language Class Initialized
+DEBUG - 2021-05-30 19:30:37 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:30:37 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:30:37 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:30:37 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:30:38 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Session Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:30:38 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Session routines successfully run
+DEBUG - 2021-05-30 19:30:38 --> Model Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Model Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Model Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Model Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Model Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Model Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Model Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Model Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Model Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Model Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:30:38 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 19:30:38 --> Model Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2021-05-30 19:30:38 --> Config Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:30:38 --> URI Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Router Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Output Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Security Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Input Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:30:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:30:38 --> Language Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:30:38 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:30:38 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:30:38 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Session Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:30:38 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Session routines successfully run
+DEBUG - 2021-05-30 19:30:38 --> Model Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Model Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Model Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Model Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Model Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Model Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Model Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Model Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Model Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Model Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:30:38 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 19:30:38 --> Model Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 19:30:38 --> Table Class Initialized
+ERROR - 2021-05-30 19:30:38 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+ERROR - 2021-05-30 19:30:38 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+DEBUG - 2021-05-30 19:30:38 --> File loaded: application/views/user/index.php
+DEBUG - 2021-05-30 19:30:38 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 19:30:38 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 19:30:38 --> Final output sent to browser
+DEBUG - 2021-05-30 19:30:38 --> Total execution time: 0.1848
+DEBUG - 2021-05-30 19:31:39 --> Config Class Initialized
+DEBUG - 2021-05-30 19:31:39 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:31:39 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:31:39 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:31:39 --> URI Class Initialized
+DEBUG - 2021-05-30 19:31:39 --> Router Class Initialized
+DEBUG - 2021-05-30 19:31:39 --> Output Class Initialized
+DEBUG - 2021-05-30 19:31:39 --> Security Class Initialized
+DEBUG - 2021-05-30 19:31:39 --> Input Class Initialized
+DEBUG - 2021-05-30 19:31:39 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:31:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:31:39 --> Language Class Initialized
+DEBUG - 2021-05-30 19:31:39 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:31:39 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:31:39 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:31:39 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:31:39 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:31:39 --> Session Class Initialized
+DEBUG - 2021-05-30 19:31:39 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:31:39 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:31:39 --> Session routines successfully run
+DEBUG - 2021-05-30 19:31:39 --> Model Class Initialized
+DEBUG - 2021-05-30 19:31:39 --> Model Class Initialized
+DEBUG - 2021-05-30 19:31:39 --> Model Class Initialized
+DEBUG - 2021-05-30 19:31:39 --> Model Class Initialized
+DEBUG - 2021-05-30 19:31:39 --> Model Class Initialized
+DEBUG - 2021-05-30 19:31:39 --> Model Class Initialized
+DEBUG - 2021-05-30 19:31:39 --> Model Class Initialized
+DEBUG - 2021-05-30 19:31:39 --> Model Class Initialized
+DEBUG - 2021-05-30 19:31:39 --> Model Class Initialized
+DEBUG - 2021-05-30 19:31:39 --> Model Class Initialized
+DEBUG - 2021-05-30 19:31:39 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:31:39 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:31:39 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 19:31:39 --> Model Class Initialized
+DEBUG - 2021-05-30 19:31:39 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 19:31:39 --> Table Class Initialized
+ERROR - 2021-05-30 19:31:39 --> Severity: Notice  --> Undefined variable: st C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\application\controllers\user.php 242
+DEBUG - 2021-05-30 19:31:39 --> File loaded: application/views/user/index.php
+DEBUG - 2021-05-30 19:31:39 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 19:31:39 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 19:31:39 --> Final output sent to browser
+DEBUG - 2021-05-30 19:31:39 --> Total execution time: 0.2137
+DEBUG - 2021-05-30 19:31:56 --> Config Class Initialized
+DEBUG - 2021-05-30 19:31:56 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:31:56 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:31:56 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:31:56 --> URI Class Initialized
+DEBUG - 2021-05-30 19:31:56 --> Router Class Initialized
+DEBUG - 2021-05-30 19:31:56 --> Output Class Initialized
+DEBUG - 2021-05-30 19:31:56 --> Security Class Initialized
+DEBUG - 2021-05-30 19:31:56 --> Input Class Initialized
+DEBUG - 2021-05-30 19:31:56 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:31:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:31:56 --> Language Class Initialized
+DEBUG - 2021-05-30 19:31:56 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:31:56 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:31:56 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:31:56 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:31:56 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:31:56 --> Session Class Initialized
+DEBUG - 2021-05-30 19:31:56 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:31:56 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:31:56 --> Session routines successfully run
+DEBUG - 2021-05-30 19:31:56 --> Model Class Initialized
+DEBUG - 2021-05-30 19:31:56 --> Model Class Initialized
+DEBUG - 2021-05-30 19:31:56 --> Model Class Initialized
+DEBUG - 2021-05-30 19:31:56 --> Model Class Initialized
+DEBUG - 2021-05-30 19:31:56 --> Model Class Initialized
+DEBUG - 2021-05-30 19:31:56 --> Model Class Initialized
+DEBUG - 2021-05-30 19:31:56 --> Model Class Initialized
+DEBUG - 2021-05-30 19:31:56 --> Model Class Initialized
+DEBUG - 2021-05-30 19:31:56 --> Model Class Initialized
+DEBUG - 2021-05-30 19:31:56 --> Model Class Initialized
+DEBUG - 2021-05-30 19:31:56 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:31:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:31:56 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 19:31:56 --> Model Class Initialized
+DEBUG - 2021-05-30 19:31:56 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 19:31:56 --> Table Class Initialized
+DEBUG - 2021-05-30 19:31:56 --> File loaded: application/views/user/index.php
+DEBUG - 2021-05-30 19:31:56 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 19:31:56 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 19:31:56 --> Final output sent to browser
+DEBUG - 2021-05-30 19:31:56 --> Total execution time: 0.1219
+DEBUG - 2021-05-30 19:45:34 --> Config Class Initialized
+DEBUG - 2021-05-30 19:45:34 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:45:34 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:45:34 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:45:34 --> URI Class Initialized
+DEBUG - 2021-05-30 19:45:34 --> Router Class Initialized
+DEBUG - 2021-05-30 19:45:34 --> Output Class Initialized
+DEBUG - 2021-05-30 19:45:34 --> Security Class Initialized
+DEBUG - 2021-05-30 19:45:34 --> Input Class Initialized
+DEBUG - 2021-05-30 19:45:34 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:45:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:45:34 --> Language Class Initialized
+DEBUG - 2021-05-30 19:45:34 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:45:34 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:45:34 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:45:34 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:45:34 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:45:34 --> Session Class Initialized
+DEBUG - 2021-05-30 19:45:34 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:45:34 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:45:34 --> Session routines successfully run
+DEBUG - 2021-05-30 19:45:34 --> Model Class Initialized
+DEBUG - 2021-05-30 19:45:34 --> Model Class Initialized
+DEBUG - 2021-05-30 19:45:34 --> Model Class Initialized
+DEBUG - 2021-05-30 19:45:34 --> Model Class Initialized
+DEBUG - 2021-05-30 19:45:34 --> Model Class Initialized
+DEBUG - 2021-05-30 19:45:34 --> Model Class Initialized
+DEBUG - 2021-05-30 19:45:34 --> Model Class Initialized
+DEBUG - 2021-05-30 19:45:34 --> Model Class Initialized
+DEBUG - 2021-05-30 19:45:34 --> Model Class Initialized
+DEBUG - 2021-05-30 19:45:34 --> Model Class Initialized
+DEBUG - 2021-05-30 19:45:34 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:45:34 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:45:34 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 19:45:34 --> Model Class Initialized
+DEBUG - 2021-05-30 19:45:34 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 19:45:34 --> Table Class Initialized
+DEBUG - 2021-05-30 19:45:34 --> File loaded: application/views/user/index.php
+DEBUG - 2021-05-30 19:45:34 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 19:45:34 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 19:45:34 --> Final output sent to browser
+DEBUG - 2021-05-30 19:45:34 --> Total execution time: 0.2461
+DEBUG - 2021-05-30 19:47:47 --> Config Class Initialized
+DEBUG - 2021-05-30 19:47:47 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:47:47 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:47:47 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:47:47 --> URI Class Initialized
+DEBUG - 2021-05-30 19:47:47 --> Router Class Initialized
+DEBUG - 2021-05-30 19:47:47 --> Output Class Initialized
+DEBUG - 2021-05-30 19:47:47 --> Security Class Initialized
+DEBUG - 2021-05-30 19:47:47 --> Input Class Initialized
+DEBUG - 2021-05-30 19:47:47 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:47:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:47:47 --> Language Class Initialized
+DEBUG - 2021-05-30 19:47:47 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:47:47 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:47:47 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:47:47 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:47:47 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:47:47 --> Session Class Initialized
+DEBUG - 2021-05-30 19:47:47 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:47:47 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:47:48 --> Session routines successfully run
+DEBUG - 2021-05-30 19:47:48 --> Model Class Initialized
+DEBUG - 2021-05-30 19:47:48 --> Model Class Initialized
+DEBUG - 2021-05-30 19:47:48 --> Model Class Initialized
+DEBUG - 2021-05-30 19:47:48 --> Model Class Initialized
+DEBUG - 2021-05-30 19:47:48 --> Model Class Initialized
+DEBUG - 2021-05-30 19:47:48 --> Model Class Initialized
+DEBUG - 2021-05-30 19:47:48 --> Model Class Initialized
+DEBUG - 2021-05-30 19:47:48 --> Model Class Initialized
+DEBUG - 2021-05-30 19:47:48 --> Model Class Initialized
+DEBUG - 2021-05-30 19:47:48 --> Model Class Initialized
+DEBUG - 2021-05-30 19:47:48 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:47:48 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:47:48 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 19:47:48 --> Model Class Initialized
+DEBUG - 2021-05-30 19:47:48 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 19:47:48 --> File loaded: application/views/user/form.php
+DEBUG - 2021-05-30 19:47:48 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 19:47:48 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 19:47:48 --> Final output sent to browser
+DEBUG - 2021-05-30 19:47:48 --> Total execution time: 0.1089
+DEBUG - 2021-05-30 19:48:16 --> Config Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:48:16 --> URI Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> Router Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> Output Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> Security Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> Input Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:48:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:48:16 --> Language Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:48:16 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:48:16 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:48:16 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> Session Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:48:16 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> Session routines successfully run
+DEBUG - 2021-05-30 19:48:16 --> Model Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> Model Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> Model Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> Model Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> Model Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> Model Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> Model Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> Model Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> Model Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> Model Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:48:16 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 19:48:16 --> Model Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> Config Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:48:16 --> URI Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> Router Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> Output Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> Security Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> Input Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:48:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:48:16 --> Language Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:48:16 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:48:16 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:48:16 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> Session Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:48:16 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:48:16 --> Session routines successfully run
+DEBUG - 2021-05-30 19:48:17 --> Model Class Initialized
+DEBUG - 2021-05-30 19:48:17 --> Model Class Initialized
+DEBUG - 2021-05-30 19:48:17 --> Model Class Initialized
+DEBUG - 2021-05-30 19:48:17 --> Model Class Initialized
+DEBUG - 2021-05-30 19:48:17 --> Model Class Initialized
+DEBUG - 2021-05-30 19:48:17 --> Model Class Initialized
+DEBUG - 2021-05-30 19:48:17 --> Model Class Initialized
+DEBUG - 2021-05-30 19:48:17 --> Model Class Initialized
+DEBUG - 2021-05-30 19:48:17 --> Model Class Initialized
+DEBUG - 2021-05-30 19:48:17 --> Model Class Initialized
+DEBUG - 2021-05-30 19:48:17 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:48:17 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:48:17 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 19:48:17 --> Model Class Initialized
+DEBUG - 2021-05-30 19:48:17 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 19:48:17 --> Table Class Initialized
+DEBUG - 2021-05-30 19:48:17 --> File loaded: application/views/user/index.php
+DEBUG - 2021-05-30 19:48:17 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 19:48:17 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 19:48:17 --> Final output sent to browser
+DEBUG - 2021-05-30 19:48:17 --> Total execution time: 0.1777
+DEBUG - 2021-05-30 19:48:20 --> Config Class Initialized
+DEBUG - 2021-05-30 19:48:20 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:48:20 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:48:20 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:48:20 --> URI Class Initialized
+DEBUG - 2021-05-30 19:48:20 --> Router Class Initialized
+DEBUG - 2021-05-30 19:48:20 --> Output Class Initialized
+DEBUG - 2021-05-30 19:48:20 --> Security Class Initialized
+DEBUG - 2021-05-30 19:48:20 --> Input Class Initialized
+DEBUG - 2021-05-30 19:48:20 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:48:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:48:20 --> Language Class Initialized
+DEBUG - 2021-05-30 19:48:20 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:48:20 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:48:20 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:48:20 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:48:20 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:48:20 --> Session Class Initialized
+DEBUG - 2021-05-30 19:48:20 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:48:20 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:48:20 --> Session routines successfully run
+DEBUG - 2021-05-30 19:48:20 --> Model Class Initialized
+DEBUG - 2021-05-30 19:48:20 --> Model Class Initialized
+DEBUG - 2021-05-30 19:48:20 --> Model Class Initialized
+DEBUG - 2021-05-30 19:48:20 --> Model Class Initialized
+DEBUG - 2021-05-30 19:48:20 --> Model Class Initialized
+DEBUG - 2021-05-30 19:48:20 --> Model Class Initialized
+DEBUG - 2021-05-30 19:48:20 --> Model Class Initialized
+DEBUG - 2021-05-30 19:48:20 --> Model Class Initialized
+DEBUG - 2021-05-30 19:48:20 --> Model Class Initialized
+DEBUG - 2021-05-30 19:48:20 --> Model Class Initialized
+DEBUG - 2021-05-30 19:48:20 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:48:20 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:48:20 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 19:48:20 --> Model Class Initialized
+DEBUG - 2021-05-30 19:48:20 --> Form Validation Class Initialized
+ERROR - 2021-05-30 19:48:20 --> Severity: Notice  --> Undefined variable: cek C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\system\core\Loader.php(742) : eval()'d code 66
+DEBUG - 2021-05-30 19:48:20 --> File loaded: application/views/user/form_edit.php
+DEBUG - 2021-05-30 19:48:20 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 19:48:20 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 19:48:20 --> Final output sent to browser
+DEBUG - 2021-05-30 19:48:20 --> Total execution time: 0.2184
+DEBUG - 2021-05-30 19:56:31 --> Config Class Initialized
+DEBUG - 2021-05-30 19:56:31 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:56:31 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:56:31 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:56:31 --> URI Class Initialized
+DEBUG - 2021-05-30 19:56:31 --> Router Class Initialized
+DEBUG - 2021-05-30 19:56:31 --> Output Class Initialized
+DEBUG - 2021-05-30 19:56:31 --> Security Class Initialized
+DEBUG - 2021-05-30 19:56:31 --> Input Class Initialized
+DEBUG - 2021-05-30 19:56:31 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:56:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:56:31 --> Language Class Initialized
+DEBUG - 2021-05-30 19:56:31 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:56:31 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:56:31 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:56:31 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:56:31 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:56:31 --> Session Class Initialized
+DEBUG - 2021-05-30 19:56:31 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:56:31 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:56:31 --> Session routines successfully run
+DEBUG - 2021-05-30 19:56:31 --> Model Class Initialized
+DEBUG - 2021-05-30 19:56:31 --> Model Class Initialized
+DEBUG - 2021-05-30 19:56:31 --> Model Class Initialized
+DEBUG - 2021-05-30 19:56:31 --> Model Class Initialized
+DEBUG - 2021-05-30 19:56:31 --> Model Class Initialized
+DEBUG - 2021-05-30 19:56:31 --> Model Class Initialized
+DEBUG - 2021-05-30 19:56:31 --> Model Class Initialized
+DEBUG - 2021-05-30 19:56:31 --> Model Class Initialized
+DEBUG - 2021-05-30 19:56:31 --> Model Class Initialized
+DEBUG - 2021-05-30 19:56:31 --> Model Class Initialized
+DEBUG - 2021-05-30 19:56:31 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:56:31 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:56:31 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 19:56:31 --> Model Class Initialized
+DEBUG - 2021-05-30 19:56:31 --> Form Validation Class Initialized
+ERROR - 2021-05-30 19:56:31 --> Severity: Notice  --> Undefined variable: cek C:\xampp\htdocs\ci_php_51\monitoring_pertamina53\system\core\Loader.php(742) : eval()'d code 66
+DEBUG - 2021-05-30 19:56:31 --> File loaded: application/views/user/form_edit.php
+DEBUG - 2021-05-30 19:56:31 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 19:56:31 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 19:56:31 --> Final output sent to browser
+DEBUG - 2021-05-30 19:56:31 --> Total execution time: 0.2181
+DEBUG - 2021-05-30 19:56:52 --> Config Class Initialized
+DEBUG - 2021-05-30 19:56:52 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:56:52 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:56:52 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:56:52 --> URI Class Initialized
+DEBUG - 2021-05-30 19:56:52 --> Router Class Initialized
+DEBUG - 2021-05-30 19:56:52 --> Output Class Initialized
+DEBUG - 2021-05-30 19:56:52 --> Security Class Initialized
+DEBUG - 2021-05-30 19:56:52 --> Input Class Initialized
+DEBUG - 2021-05-30 19:56:52 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:56:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:56:52 --> Language Class Initialized
+DEBUG - 2021-05-30 19:56:52 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:56:52 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:56:52 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:56:52 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:56:52 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:56:52 --> Session Class Initialized
+DEBUG - 2021-05-30 19:56:52 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:56:52 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:56:52 --> Session routines successfully run
+DEBUG - 2021-05-30 19:56:52 --> Model Class Initialized
+DEBUG - 2021-05-30 19:56:52 --> Model Class Initialized
+DEBUG - 2021-05-30 19:56:52 --> Model Class Initialized
+DEBUG - 2021-05-30 19:56:52 --> Model Class Initialized
+DEBUG - 2021-05-30 19:56:52 --> Model Class Initialized
+DEBUG - 2021-05-30 19:56:52 --> Model Class Initialized
+DEBUG - 2021-05-30 19:56:52 --> Model Class Initialized
+DEBUG - 2021-05-30 19:56:52 --> Model Class Initialized
+DEBUG - 2021-05-30 19:56:52 --> Model Class Initialized
+DEBUG - 2021-05-30 19:56:52 --> Model Class Initialized
+DEBUG - 2021-05-30 19:56:52 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:56:52 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:56:52 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 19:56:52 --> Model Class Initialized
+DEBUG - 2021-05-30 19:56:52 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 19:56:52 --> File loaded: application/views/user/form_edit.php
+DEBUG - 2021-05-30 19:56:52 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 19:56:52 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 19:56:52 --> Final output sent to browser
+DEBUG - 2021-05-30 19:56:52 --> Total execution time: 0.1146
+DEBUG - 2021-05-30 19:57:08 --> Config Class Initialized
+DEBUG - 2021-05-30 19:57:08 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:57:08 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:57:08 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:57:08 --> URI Class Initialized
+DEBUG - 2021-05-30 19:57:08 --> Router Class Initialized
+DEBUG - 2021-05-30 19:57:08 --> Output Class Initialized
+DEBUG - 2021-05-30 19:57:08 --> Security Class Initialized
+DEBUG - 2021-05-30 19:57:08 --> Input Class Initialized
+DEBUG - 2021-05-30 19:57:08 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:57:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:57:08 --> Language Class Initialized
+DEBUG - 2021-05-30 19:57:08 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:57:08 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:57:08 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:57:08 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:57:08 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:57:08 --> Session Class Initialized
+DEBUG - 2021-05-30 19:57:08 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:57:08 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:57:08 --> Session routines successfully run
+DEBUG - 2021-05-30 19:57:08 --> Model Class Initialized
+DEBUG - 2021-05-30 19:57:08 --> Model Class Initialized
+DEBUG - 2021-05-30 19:57:08 --> Model Class Initialized
+DEBUG - 2021-05-30 19:57:08 --> Model Class Initialized
+DEBUG - 2021-05-30 19:57:08 --> Model Class Initialized
+DEBUG - 2021-05-30 19:57:08 --> Model Class Initialized
+DEBUG - 2021-05-30 19:57:08 --> Model Class Initialized
+DEBUG - 2021-05-30 19:57:08 --> Model Class Initialized
+DEBUG - 2021-05-30 19:57:08 --> Model Class Initialized
+DEBUG - 2021-05-30 19:57:08 --> Model Class Initialized
+DEBUG - 2021-05-30 19:57:08 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:57:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:57:08 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 19:57:08 --> Model Class Initialized
+DEBUG - 2021-05-30 19:57:08 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 19:57:08 --> Table Class Initialized
+DEBUG - 2021-05-30 19:57:08 --> File loaded: application/views/user/index.php
+DEBUG - 2021-05-30 19:57:08 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 19:57:08 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 19:57:08 --> Final output sent to browser
+DEBUG - 2021-05-30 19:57:08 --> Total execution time: 0.1524
+DEBUG - 2021-05-30 19:57:15 --> Config Class Initialized
+DEBUG - 2021-05-30 19:57:15 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:57:15 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:57:15 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:57:15 --> URI Class Initialized
+DEBUG - 2021-05-30 19:57:15 --> Router Class Initialized
+DEBUG - 2021-05-30 19:57:15 --> Output Class Initialized
+DEBUG - 2021-05-30 19:57:15 --> Security Class Initialized
+DEBUG - 2021-05-30 19:57:15 --> Input Class Initialized
+DEBUG - 2021-05-30 19:57:15 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:57:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:57:15 --> Language Class Initialized
+DEBUG - 2021-05-30 19:57:15 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:57:15 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:57:15 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:57:15 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:57:15 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:57:15 --> Session Class Initialized
+DEBUG - 2021-05-30 19:57:15 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:57:15 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:57:15 --> Session routines successfully run
+DEBUG - 2021-05-30 19:57:15 --> Model Class Initialized
+DEBUG - 2021-05-30 19:57:15 --> Model Class Initialized
+DEBUG - 2021-05-30 19:57:15 --> Model Class Initialized
+DEBUG - 2021-05-30 19:57:15 --> Model Class Initialized
+DEBUG - 2021-05-30 19:57:15 --> Model Class Initialized
+DEBUG - 2021-05-30 19:57:15 --> Model Class Initialized
+DEBUG - 2021-05-30 19:57:15 --> Model Class Initialized
+DEBUG - 2021-05-30 19:57:15 --> Model Class Initialized
+DEBUG - 2021-05-30 19:57:15 --> Model Class Initialized
+DEBUG - 2021-05-30 19:57:15 --> Model Class Initialized
+DEBUG - 2021-05-30 19:57:15 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:57:15 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:57:15 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 19:57:15 --> Model Class Initialized
+DEBUG - 2021-05-30 19:57:15 --> Model Class Initialized
+DEBUG - 2021-05-30 19:57:15 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 19:57:15 --> Upload Class Initialized
+DEBUG - 2021-05-30 19:57:15 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:57:15 --> Helper loaded: file_helper
+DEBUG - 2021-05-30 19:57:15 --> Pagination Class Initialized
+DEBUG - 2021-05-30 19:57:15 --> Table Class Initialized
+DEBUG - 2021-05-30 19:57:15 --> File loaded: application/views/pelatihan/index.php
+DEBUG - 2021-05-30 19:57:15 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 19:57:15 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 19:57:15 --> Final output sent to browser
+DEBUG - 2021-05-30 19:57:15 --> Total execution time: 0.1792
+DEBUG - 2021-05-30 19:57:18 --> Config Class Initialized
+DEBUG - 2021-05-30 19:57:18 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:57:18 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:57:18 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:57:18 --> URI Class Initialized
+DEBUG - 2021-05-30 19:57:18 --> Router Class Initialized
+DEBUG - 2021-05-30 19:57:18 --> Output Class Initialized
+DEBUG - 2021-05-30 19:57:18 --> Security Class Initialized
+DEBUG - 2021-05-30 19:57:18 --> Input Class Initialized
+DEBUG - 2021-05-30 19:57:18 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:57:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:57:18 --> Language Class Initialized
+DEBUG - 2021-05-30 19:57:18 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:57:18 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:57:18 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:57:18 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:57:18 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:57:18 --> Session Class Initialized
+DEBUG - 2021-05-30 19:57:18 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:57:18 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:57:18 --> Session routines successfully run
+DEBUG - 2021-05-30 19:57:18 --> Model Class Initialized
+DEBUG - 2021-05-30 19:57:18 --> Model Class Initialized
+DEBUG - 2021-05-30 19:57:18 --> Model Class Initialized
+DEBUG - 2021-05-30 19:57:18 --> Model Class Initialized
+DEBUG - 2021-05-30 19:57:18 --> Model Class Initialized
+DEBUG - 2021-05-30 19:57:18 --> Model Class Initialized
+DEBUG - 2021-05-30 19:57:18 --> Model Class Initialized
+DEBUG - 2021-05-30 19:57:18 --> Model Class Initialized
+DEBUG - 2021-05-30 19:57:18 --> Model Class Initialized
+DEBUG - 2021-05-30 19:57:18 --> Model Class Initialized
+DEBUG - 2021-05-30 19:57:18 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:57:18 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:57:18 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 19:57:18 --> Model Class Initialized
+DEBUG - 2021-05-30 19:57:18 --> Model Class Initialized
+DEBUG - 2021-05-30 19:57:18 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 19:57:18 --> Upload Class Initialized
+DEBUG - 2021-05-30 19:57:18 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:57:18 --> Helper loaded: file_helper
+DEBUG - 2021-05-30 19:57:18 --> File loaded: application/views/pelatihan/form.php
+DEBUG - 2021-05-30 19:57:18 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 19:57:18 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 19:57:18 --> Final output sent to browser
+DEBUG - 2021-05-30 19:57:18 --> Total execution time: 0.1295
+DEBUG - 2021-05-30 19:58:18 --> Config Class Initialized
+DEBUG - 2021-05-30 19:58:18 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:58:18 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:58:18 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:58:18 --> URI Class Initialized
+DEBUG - 2021-05-30 19:58:18 --> Router Class Initialized
+DEBUG - 2021-05-30 19:58:18 --> Output Class Initialized
+DEBUG - 2021-05-30 19:58:18 --> Security Class Initialized
+DEBUG - 2021-05-30 19:58:18 --> Input Class Initialized
+DEBUG - 2021-05-30 19:58:18 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:58:18 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:58:18 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:58:18 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:58:18 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:58:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:58:18 --> Language Class Initialized
+DEBUG - 2021-05-30 19:58:18 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:58:18 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:58:18 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:58:18 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:58:18 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:58:18 --> Session Class Initialized
+DEBUG - 2021-05-30 19:58:18 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:58:18 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:58:18 --> Session routines successfully run
+DEBUG - 2021-05-30 19:58:18 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:18 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:18 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:18 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:18 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:18 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:18 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:18 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:18 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:18 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:18 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:58:18 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:58:18 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 19:58:18 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:18 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:18 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 19:58:18 --> Upload Class Initialized
+DEBUG - 2021-05-30 19:58:18 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:58:18 --> Helper loaded: file_helper
+DEBUG - 2021-05-30 19:58:18 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2021-05-30 19:58:18 --> Config Class Initialized
+DEBUG - 2021-05-30 19:58:18 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:58:18 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:58:18 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:58:18 --> URI Class Initialized
+DEBUG - 2021-05-30 19:58:18 --> Router Class Initialized
+DEBUG - 2021-05-30 19:58:18 --> Output Class Initialized
+DEBUG - 2021-05-30 19:58:18 --> Security Class Initialized
+DEBUG - 2021-05-30 19:58:18 --> Input Class Initialized
+DEBUG - 2021-05-30 19:58:18 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:58:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:58:18 --> Language Class Initialized
+DEBUG - 2021-05-30 19:58:18 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:58:18 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:58:18 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:58:18 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:58:19 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:58:19 --> Session Class Initialized
+DEBUG - 2021-05-30 19:58:19 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:58:19 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:58:19 --> Session routines successfully run
+DEBUG - 2021-05-30 19:58:19 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:19 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:19 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:19 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:19 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:19 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:19 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:19 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:19 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:19 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:19 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:58:19 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:58:19 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 19:58:19 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:19 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:19 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 19:58:19 --> Upload Class Initialized
+DEBUG - 2021-05-30 19:58:19 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:58:19 --> Helper loaded: file_helper
+DEBUG - 2021-05-30 19:58:19 --> Pagination Class Initialized
+DEBUG - 2021-05-30 19:58:19 --> Table Class Initialized
+DEBUG - 2021-05-30 19:58:19 --> File loaded: application/views/pelatihan/index.php
+DEBUG - 2021-05-30 19:58:19 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 19:58:19 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 19:58:19 --> Final output sent to browser
+DEBUG - 2021-05-30 19:58:19 --> Total execution time: 0.1343
+DEBUG - 2021-05-30 19:58:34 --> Config Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:58:34 --> URI Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Router Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> No URI present. Default controller set.
+DEBUG - 2021-05-30 19:58:34 --> Output Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Security Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Input Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:58:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:58:34 --> Language Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:58:34 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:58:34 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:58:34 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Session Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:58:34 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Session routines successfully run
+DEBUG - 2021-05-30 19:58:34 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:58:34 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 19:58:34 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 19:58:34 --> Config Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Hooks Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 19:58:34 --> URI Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Router Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Output Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Security Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Input Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> XSS Filtering completed
+DEBUG - 2021-05-30 19:58:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 19:58:34 --> Language Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Loader Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 19:58:34 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 19:58:34 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 19:58:34 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Session Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 19:58:34 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Session routines successfully run
+DEBUG - 2021-05-30 19:58:34 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Controller Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Model Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Pagination Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> Table Class Initialized
+DEBUG - 2021-05-30 19:58:34 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 19:58:34 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 19:58:34 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 19:58:34 --> Final output sent to browser
+DEBUG - 2021-05-30 19:58:34 --> Total execution time: 0.1526
+DEBUG - 2021-05-30 20:00:41 --> Config Class Initialized
+DEBUG - 2021-05-30 20:00:41 --> Hooks Class Initialized
+DEBUG - 2021-05-30 20:00:41 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 20:00:41 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 20:00:41 --> URI Class Initialized
+DEBUG - 2021-05-30 20:00:41 --> Router Class Initialized
+DEBUG - 2021-05-30 20:00:41 --> Output Class Initialized
+DEBUG - 2021-05-30 20:00:41 --> Security Class Initialized
+DEBUG - 2021-05-30 20:00:41 --> Input Class Initialized
+DEBUG - 2021-05-30 20:00:41 --> XSS Filtering completed
+DEBUG - 2021-05-30 20:00:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 20:00:41 --> Language Class Initialized
+DEBUG - 2021-05-30 20:00:41 --> Loader Class Initialized
+DEBUG - 2021-05-30 20:00:41 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 20:00:41 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 20:00:41 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 20:00:41 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 20:00:41 --> Session Class Initialized
+DEBUG - 2021-05-30 20:00:41 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 20:00:41 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 20:00:41 --> Session routines successfully run
+DEBUG - 2021-05-30 20:00:41 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:41 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:41 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:41 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:41 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:41 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:41 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:41 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:41 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:41 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:41 --> Controller Class Initialized
+DEBUG - 2021-05-30 20:00:41 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:41 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:41 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:41 --> Pagination Class Initialized
+DEBUG - 2021-05-30 20:00:41 --> Table Class Initialized
+DEBUG - 2021-05-30 20:00:41 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 20:00:41 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 20:00:41 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 20:00:41 --> Final output sent to browser
+DEBUG - 2021-05-30 20:00:41 --> Total execution time: 0.1194
+DEBUG - 2021-05-30 20:00:47 --> Config Class Initialized
+DEBUG - 2021-05-30 20:00:47 --> Hooks Class Initialized
+DEBUG - 2021-05-30 20:00:47 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 20:00:47 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 20:00:47 --> URI Class Initialized
+DEBUG - 2021-05-30 20:00:47 --> Router Class Initialized
+DEBUG - 2021-05-30 20:00:47 --> Output Class Initialized
+DEBUG - 2021-05-30 20:00:47 --> Security Class Initialized
+DEBUG - 2021-05-30 20:00:47 --> Input Class Initialized
+DEBUG - 2021-05-30 20:00:47 --> XSS Filtering completed
+DEBUG - 2021-05-30 20:00:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 20:00:47 --> Language Class Initialized
+DEBUG - 2021-05-30 20:00:47 --> Loader Class Initialized
+DEBUG - 2021-05-30 20:00:47 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 20:00:47 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 20:00:47 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 20:00:47 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 20:00:47 --> Session Class Initialized
+DEBUG - 2021-05-30 20:00:47 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 20:00:47 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 20:00:47 --> Session routines successfully run
+DEBUG - 2021-05-30 20:00:47 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:47 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:47 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:47 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:47 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:47 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:47 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:47 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:47 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:47 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:47 --> Controller Class Initialized
+DEBUG - 2021-05-30 20:00:47 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 20:00:47 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 20:00:47 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:47 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:47 --> Form Validation Class Initialized
+DEBUG - 2021-05-30 20:00:47 --> Upload Class Initialized
+DEBUG - 2021-05-30 20:00:47 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 20:00:47 --> Helper loaded: file_helper
+DEBUG - 2021-05-30 20:00:47 --> Pagination Class Initialized
+DEBUG - 2021-05-30 20:00:47 --> Table Class Initialized
+DEBUG - 2021-05-30 20:00:47 --> File loaded: application/views/pelatihan/index.php
+DEBUG - 2021-05-30 20:00:47 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 20:00:47 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 20:00:47 --> Final output sent to browser
+DEBUG - 2021-05-30 20:00:47 --> Total execution time: 0.1431
+DEBUG - 2021-05-30 20:00:52 --> Config Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Hooks Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 20:00:52 --> URI Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Router Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> No URI present. Default controller set.
+DEBUG - 2021-05-30 20:00:52 --> Output Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Security Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Input Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> XSS Filtering completed
+DEBUG - 2021-05-30 20:00:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 20:00:52 --> Language Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Loader Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 20:00:52 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 20:00:52 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 20:00:52 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Session Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 20:00:52 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Session routines successfully run
+DEBUG - 2021-05-30 20:00:52 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Controller Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 20:00:52 --> Helper loaded: cookie_helper
+DEBUG - 2021-05-30 20:00:52 --> Editor class already loaded. Second attempt ignored.
+DEBUG - 2021-05-30 20:00:52 --> Config Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Hooks Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Utf8 Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> UTF-8 Support Enabled
+DEBUG - 2021-05-30 20:00:52 --> URI Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Router Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Output Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Security Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Input Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> XSS Filtering completed
+DEBUG - 2021-05-30 20:00:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-05-30 20:00:52 --> Language Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Loader Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Helper loaded: url_helper
+DEBUG - 2021-05-30 20:00:52 --> Helper loaded: form_helper
+DEBUG - 2021-05-30 20:00:52 --> Helper loaded: breadcrumb_helper
+DEBUG - 2021-05-30 20:00:52 --> Database Driver Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Session Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Helper loaded: string_helper
+DEBUG - 2021-05-30 20:00:52 --> Encrypt Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Session routines successfully run
+DEBUG - 2021-05-30 20:00:52 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Controller Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Model Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Pagination Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> Table Class Initialized
+DEBUG - 2021-05-30 20:00:52 --> File loaded: application/views/dashboard/index.php
+DEBUG - 2021-05-30 20:00:52 --> File loaded: application/views/template/menu_adm.php
+DEBUG - 2021-05-30 20:00:52 --> File loaded: application/views//template/template.php
+DEBUG - 2021-05-30 20:00:52 --> Final output sent to browser
+DEBUG - 2021-05-30 20:00:52 --> Total execution time: 0.1348
