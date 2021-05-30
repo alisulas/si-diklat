@@ -22,7 +22,7 @@ class Access {
     function login($username,$password){
 	$result = $this->mdl_user->get_login_info($username)->row();
 	if($result) {
-	    $password = md5($password);
+	    $password = $password;
 	    if($password === $result->password){
 		$user_info=$this->mdl_user->get_function($username)->row();
 		// Start Session

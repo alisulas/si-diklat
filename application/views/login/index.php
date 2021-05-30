@@ -11,7 +11,7 @@
             <?php echo $this->session->flashdata('msg'); ?>
         <form class="well form-inline" style="width: 505px; " method="post" action="login/auth">
             <input type="text" name="username" placeholder="Username" />
-            <input type="password" name="password" placeholder="Password" />
+            <input type="password" name="password" placeholder="Passwordku" />
             <input type="submit" name="login" value="Login" class="btn btn-primary" />
         </form>
         <blockquote>

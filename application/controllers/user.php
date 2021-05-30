@@ -76,7 +76,7 @@ class User extends Member_Controller
 
             $user = array(
                 'username' => $this->input->post('username'),
-                'password' =>  md5($pass),
+                'password' =>  $pass,
                 'nopek' => $this->input->post('nopek'),
                 'nama' => $this->input->post('nama'),
                 'email' => $this->input->post('email'),
@@ -155,7 +155,7 @@ class User extends Member_Controller
 
                 $user = array(
                     'username' => $this->input->post('username'),
-                    'password' =>  md5($pass),
+                    'password' =>  $pass,
                     'nopek' => $this->input->post('nopek'),
                     'nama' => $this->input->post('nama'),
                     'email' => $this->input->post('email'),
@@ -201,6 +201,8 @@ class User extends Member_Controller
                 $data['role'] = '';
                 break;
         }
+        // print_r($dataku);
+        // echo '<br>';
         $this->template->display('user/profile', $data);
     }
 
@@ -208,9 +210,9 @@ class User extends Member_Controller
     {
         $old =  $this->input->post('old_password');
         $new =  $this->input->post('new_password');
-        if ($this->mdl_user->get_by_id($id)->row()->password == md5($old)) {
+        if ($this->mdl_user->get_by_id($id)->row()->password == $old) {
             $ubh = array(
-                'password' =>  md5($new)
+                'password' =>  $new
             );
             $this->mdl_user->update_user($id, $ubh);
             $this->session->set_flashdata('msg', '<div class="alert alert-success"">Password Berhasil di Ubah</div>');

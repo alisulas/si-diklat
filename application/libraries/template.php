@@ -21,6 +21,16 @@ class Template {
     function display($template, $data = null) {
         if (!$this->_ci->session->userdata('is_login')) {
             $menu = 'template/menu_dashboard';
+            // $menu = 'template/menu_pnd';
+            // $menu = 'template/menu_ldt';
+            // $menu = 'template/menu_fgt';   
+            // $menu = 'template/menu_fgt_2';   
+            // $menu = 'template/menu_ls'; 
+            // $menu = 'template/menu_hsetc';
+            // $menu = 'template/menu_hsetc';
+            // $menu = 'template/menu_vp';
+            // $menu = 'template/menu_mtc'; //semacam audit CAR/PAR dan PND (program, provider, pengajar, observasi)
+            // $menu = 'template/menu_adm';
         } else {
             $fungsi = $this->_ci->session->userdata('fungsi');
             $role = $this->_ci->session->userdata('role');

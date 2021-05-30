@@ -38,7 +38,7 @@ class Mdl_sarfas extends CI_Model
         $start_date = date("Y-m-d", strtotime('monday this week'));
         $end_date = date("Y-m-d", strtotime('sunday this week'));
         $this->db->where('start_date BETWEEN "' . date('Y-m-d', strtotime($start_date)) . '" and "' . date('Y-m-d', strtotime($end_date)) . '"');
-        $this->db->where('status', 0);
+        // $this->db->where('status', 0);
         $this->db->order_by('start_date', 'asc');
         return $this->db->get($this->table_schedule, $limit, $offset);
     }
